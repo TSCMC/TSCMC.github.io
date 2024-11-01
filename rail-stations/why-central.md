@@ -7,8 +7,8 @@ description: WHY Central
 # WHY Central station
 
 WHY Central station serves the area around Spawn. Connections are available with
-Lacon Rail through [Lacon Wye Street](rail-stations/lcn-wye-street) station, and with Spider Farm shuttle through
-WHY Central Base station.
+Lacon Rail through [Lacon Wye Street](/rail-stations/lcn-wye-street) station, and
+with Spider Farm shuttle through WHY Central Base station.
 
 ## Lines
 
