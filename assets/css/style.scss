@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Mada:wght@200..900&display=swap');
+
+*:lang(ms-Arab),*:lang(ar) {
+  font-family: "Mada", "Noto Sans", sans-serif;
+  font-size: 1.175em;
+  direction: rtl;
+}
+
+img[alt$=">"] {
+  float:right;
+  padding: 1em;
+}
+
+img[alt$="<"] {
+  float:left;
+  padding: 1em;
+}
+
+img[alt$="<>"] {
+  display: block;
+  max-width: 100%;
+  padding: 1em;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
