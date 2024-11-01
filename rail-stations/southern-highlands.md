@@ -7,9 +7,7 @@ description: Southern Highlands
 # Southern Highlands station
 
 Southern Highlands station serves Southern Highlands. Connections are available
-with other networks through
-[Lisvane and Thornhill station](/rail-stations/lisvane-and-thornhill) and Sakura
-Park station.
+with other networks through Moss Vale and Sakura Park stations.
 
 ## Lines
 
