@@ -1,0 +1,19 @@
+---
+layout: default
+title: Shin-Akiyama Station
+description: Shin-Akiyama
+---
+
+# Shin-Akiyama station
+
+Shin-Akiyama station connects to the settlement of Shin-Akiyama.
+
+## Lines
+
+- Fulahm Railways Paddy Field Line
+- Lacon Industry Line
+- [NEX Ender Line](/rail-lines/nex-ender-line)
+- North-South Rail
+- SLSR Alpha
+- YuiTrans Tenma Line
+- YuiTrans Shin-Tenma Line
