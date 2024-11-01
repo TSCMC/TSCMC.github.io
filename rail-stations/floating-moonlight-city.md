@@ -20,7 +20,7 @@ tracks to reach the current form.
 
 ### Lines
 
-- [Lacon Main Line](rail-lines/lcn-main-line)
+- [Lacon Main Line](/rail-lines/lcn-main-line)
 - Lacon Industry Line
 - Shin-Lacon Dongbu Line
 
