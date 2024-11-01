@@ -15,6 +15,7 @@ WHY Central Base station.
 - East-West Rail
 - Fulahm Railways Paddy Field Line
 - [NEX Ender Line](/rail-lines/nex-ender-line)
+- [NEX T-Train Line](/rail-lines/nex-t-train-line)
 - North-South Rail
 - RichardRail Airport Express
 - Volans Railway Minecart Line
