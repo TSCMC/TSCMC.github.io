@@ -6,6 +6,10 @@ description: The Abode of Self-Sufficient Life
 
 # Yayajima
 
-This is just a placeholder page since no one is making one for areas.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non.
 
-Content to be added soon.
+## Railway Stations in Yayajima
+
+- Yayajima Beach
+- Yayajima North
+- Yayajima South
