@@ -14,6 +14,6 @@ Shin-Akiyama station connects to the settlement of Shin-Akiyama.
 - Lacon Industry Line
 - [NEX Ender Line](/rail-lines/nex-ender-line)
 - North-South Rail
-- SLSR Alpha
+- Sancheon Rapid Alpha
 - YuiTrans Tenma Line
 - YuiTrans Shin-Tenma Line
