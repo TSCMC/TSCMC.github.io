@@ -10,6 +10,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non.
 
 ## Railway Stations in Yayajima
 
-- Yayajima Beach
+- [Yayajima Beach](/rail-stations/yayajima-beach)
 - Yayajima North
-- Yayajima South
+- [Yayajima South](/rail-stations/yayajima-south)

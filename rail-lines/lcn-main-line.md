@@ -13,7 +13,7 @@ Lacon Main Line is the oldest line in the [Lacon Network](/rail-networks/lcn), c
 
 - [Lacon Wye Street](/rail-stations/lcn-wye-street) (Terminal)
 - [Floating Moonlight City](/rail-stations/floating-moonlight-city)
-- Yayajima South
+- [Yayajima South](/rail-stations/yayajima-south)
 - Yayajima North
 - Lacon Forestry
 - Nozomigaoka
