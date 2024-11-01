@@ -30,9 +30,9 @@ Custom CSS has been added that allows you to align float image on the website.
 
 Just put `<` in the image name to align the float to the left, `>` for right,
 and `<>` for center. For example:
-- `![Some Logo >](/assets/img/logo.png "The logo") will align float Some Logo
+- `![Some Logo >](/assets/img/logo.png "The logo")` will align float Some Logo
   to the right side
-- `![Some Logo <](/assets/img/logo.png "The logo") will align float Some Logo
+- `![Some Logo <](/assets/img/logo.png "The logo")` will align float Some Logo
   to the left side  
 
 ## File naming rules
