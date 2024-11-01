@@ -12,7 +12,7 @@ Central and Stronghold.
 ## Stations
 
 - [Fortress](/rail-stations/fortress)
-- [Froglight Farm](/rail-stations)
+- [Froglight Farm](/rail-stations/froglight-farm)
 - [Squid Farm](/rail-stations/squid-farm)
 - [Slime Farm](/rail-stations/slime-farm)
 - [Shin-Akiyama](/rail-stations/shin-akiyama)
