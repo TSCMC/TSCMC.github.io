@@ -19,4 +19,4 @@ Central and Stronghold.
 - [Southern Highlands](/rail-stations/southern-highlands)
 - [WHY Central](/rail-stations/why-central)
 - [Stronghold](/rail-stations/stronghold)
-- [Guardian Farm](/rail-stations/guardian-farmi)
+- [Guardian Farm](/rail-stations/guardian-farm)
