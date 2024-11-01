@@ -4,6 +4,8 @@ title: Nether Express Ender Line
 description: Nether Express Ender Line
 ---
 
+# NEX Ender Line
+
 NEX Ender Line is a rail line mainly aimed at providing fast travel between WHY Central and Stronghold.
 
 ## Stations
