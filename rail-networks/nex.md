@@ -10,7 +10,7 @@ Nether Express (NEX) is a rail network that provides fast travel throughout the 
 
 ## Lines
 
-- [Ender Line](/rail-lines/nex-ender-line)
+- [Ender Line](/rail-lines/nex-ender-line.md)
 - T-Train Line
 - Spratly Line (Planned)
 
