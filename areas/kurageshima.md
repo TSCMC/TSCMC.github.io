@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: default
 title: Kurageshima and Nozomigaoka
 description: Colony of Floating Moonlight City
@@ -12,7 +12,7 @@ Although the two were developed together, they serve very different purposes.
 
 ## Kurageshima
 
-«¯«é«²Óö/Äí¶ó°Ô½Ã¸¶<br>
+ã‚¯ãƒ©ã‚²å³¶/ì¿ ë¼ê²Œì‹œë§ˆ<br>
 Kurageshima is an island located in the east part of the region,
 it was extensively terraformed to be completely flat at just 1 block above sea
 level. The island was developed to serve as the home of Lacon's factories and
@@ -23,7 +23,7 @@ The name translates to "Jellyfish Island" and is a reference to a song (linked b
 
 ## Nozomigaoka
 
-ªÎª¾ªß«öÎø/³ëÁ¶¹Ì°¡¿ÀÄ«<br>
+ã®ãã¿ãƒ¶ä¸˜/ë…¸ì¡°ë¯¸ê°€ì˜¤ì¹´<br>
 Nozomigaoka is a small village to the west of Kurageshima that
 is administered by the Floating Moonlight City as a colony.<br>
 Its name translates to "Hill of Hope," and it is an artificial village
