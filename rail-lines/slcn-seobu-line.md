@@ -14,6 +14,7 @@ to the northwest toward the Tax Evasion Chalet and eventually to Zwaluwnest.
 
 ## Stations
 
-- [Yayajima Beach](/rail-stations/yayajima-beach)
-- [(Shin-Lacon) Floating Moonlight City](/rail-stations/floating-moonlight-city)
-- Gyoyeokso-ap (Korean: 교역소앞)
+English Name | Native Name | Connections | Area
+[Yayajima Beach](/rail-stations/yayajima-beach) | - | [Shin-Lacon Dongbu Line](slcn-dongbu-line) | [Yayajima](/areas/yayajima)
+[(Shin-Lacon) Floating Moonlight City](/rail-stations/floating-moonlight-city) | 富裕月光街 | [Shin-Lacon Main Line](slcn-main-line)(Thru-run)<br>[Lacon Main Line](lcn-main-line)(OOS)<br>[Lacon Industry Line](lcn-industry-line)(OOS)<br>[Shin-Lacon Dongbu Line](slcn-dongbu-line)(OOS) | [Floating Moonlight City](/areas/fmcity)
+Gyoyeokso-ap | 교역소앞 | East-West Rail(OOS) | -
