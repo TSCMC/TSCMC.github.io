@@ -11,8 +11,14 @@ server via the nether.
 
 ## Lines
 
-- [Ender Line](/rail-lines/nex-ender-line)
-- [T-Train Line](/rail-lines/nex-t-train-line)
+{% for page in pages -%}
+{% if page.url contains "/rail-lines/nex-" -%}
+
+- [{{page.title}}]({{page.url}})
+
+{% endif -%}
+{% endfor %}
+
 - Spratly Line (Planned)
 
 ## Shuttle Services
