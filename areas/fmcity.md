@@ -4,6 +4,25 @@ title: Floating Moonlight City
 description: Corporate City of Lacon
 ---
 
+{% capture fmcinfo %}
+<big lang="ja"><ruby><rb>富裕月光街</rb><rt>ふゆうげっこうがい</rt></ruby></big><br/>
+<big lang="ko">부유월광가</big><br/>
+![The official logo of Floating Moonlight City<>](/assets/img/areas/fmcity/floatingmoonlight.jpg
+"The official logo of Floating Moonlight City")
+
+Authority | Floating Moonlight City Hall
+President | Lagcom
+Official<br/>Languages | English
+Recognized<br/>Languages | Japanese<br/>Korean
+{% endcapture %}
+{%
+  include infobox.html
+  infoboxid="fmcitybox"
+  infoboxname="Floating Moonlight City"
+  infoboxcontent=fmcinfo
+%}
+
+
 # Floating Moonlight City
 
 富裕月光街/부유월광가<br>
