@@ -19,3 +19,13 @@ platform 1, and southbound services at platform 2. Platforms 1 and 2 of Shinonom
 are only able to accomodate 5 coach trains.
 
 ### Mio Line
+
+LRT
+
+Preceding Station | Line | Following Station
+---|---|---
+[Shin-Akiyama](/rail-stations/shin-akiyama.md) | Paddy Field Line (Morning/Evening Liner) | [Lisvane & Thornhill](/rail-stations/lisvane-and-thornhill.md)
+[Shin-Akiyama](/rail-stations/shin-akiyama.md) | Paddy Field Line (Local) | [Lisvane & Thornhill](/rail-stations/lisvane-and-thornhill.md)
+[WHY Central](/rail-stations/why-central.md) | Paddy Field Line (Semi-Express) | [Lisvane & Thornhill](/rail-stations/lisvane-and-thornhill.md)
+Yamanouchi | Mio Line | Shinonome-Chuo
+
