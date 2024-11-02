@@ -19,13 +19,13 @@ stations on the server.
 
 Platform | Line | Services
 ---|---|---
-1 | Western Line | services to Tahmoor
-2 | Western Line | services to Sakurako
+1 | [Western Line](/rail-lines/shr-western-line) | services to Tahmoor
+2 | [Western Line](/rail-lines/shr-western-line) | services to Sakurako
 3 | North-South Rail | services to Tax Evasion Chalet via Why Central
 4 | North-South Rail | services to Shin-Akiyama
 5 | Loop | services to Cordelia Cross
 6 | Loop | N/A - platform not in use
-7 | Meadowbank | services to Bowralerbrug
+7 | [Western Line](/rail-lines/shr-meadowbank-line) | services to Bowralerbrug
 8 | City Circle | services to Slime Farm via Sakura Park
 9 | Southern | services to Slime Farm
 10 | City Circle | services to Bowralerbrug via Sakura Park
