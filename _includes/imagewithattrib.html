@@ -1,0 +1,33 @@
+---
+---
+
+<img src="{{ include.imgsrc }}" alt="{{ include.imgalt | an image }}"
+  {% if include.imgtitle -%}
+  title="{{ include.imgtitle }}"
+  {% endif -%}
+  {% if include.imgloading -%}
+  loading="{{ include.imgloading }}"
+  {% endif -%}
+  {% if include.imgreferrerpolicy -%}
+  referrerpolicy="{{ include.imgreferrerpolicy }}"
+  {% endif -%}
+  style="padding: 1em;
+    {% if include.imgwidth -%}
+    width: {{ include.imgwidth }};
+    {% endif -%}
+    {% if include.imgheight -%}
+    width: {{ include.imgheight }};
+    {% endif -%}
+    {% if include.imgalign == "left" %}
+    float:left;
+    {% elsif include.imgalign == "right" -%}
+    float:right;
+    {% elsif include.imgalign == "center" -%}
+    display: block;
+    max-width: 100%;
+    padding: 1em;
+    height: auto;
+    margin: auto;
+    float: none!important;
+    {% endif -%}
+"/>
