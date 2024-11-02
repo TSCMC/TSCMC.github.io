@@ -18,9 +18,9 @@ The network is comprised of Lacon Railway itself and two subsidiaries, Shin-Laco
 
 ## Shin-Lacon Lines
 
-- Shin-Lacon Main Line (AKA Lacon New Line)
-- Shin-Lacon Seobu Line
-- Shin-Lacon Dongbu Line
+- [Shin-Lacon Main Line](/rail-lines/slcn-main-line) (AKA Lacon New Line)
+- [Shin-Lacon Seobu Line](/rail-lines/slcn-seobu-line)
+- [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
 - Shin-Lacon Ban-ho Shuttle
 
 ## Sancheon Rapid Lines
