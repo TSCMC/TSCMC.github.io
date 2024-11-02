@@ -7,7 +7,7 @@ description: Corporate City of Lacon
 {% capture fmcinfo %}
 <big lang="ja"><ruby><rb>富裕月光街</rb><rt>ふゆうげっこうがい</rt></ruby></big><br/>
 <big lang="ko">부유월광가</big><br/>
-![The official logo of Floating Moonlight City<>](/assets/img/areas/fmcity/floatingmoonlight.jpg | width=64)
+![The official logo of Floating Moonlight City<>](https://img.youtube.com/vi/Jhw7Hum-eLw/0.jpg | width=64)
 
 Authority | Floating Moonlight City Hall
 President | Lagcom
