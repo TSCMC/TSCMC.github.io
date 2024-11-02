@@ -12,9 +12,9 @@ The network is comprised of Lacon Railway itself and two subsidiaries, Shin-Laco
 ## Lacon Railway Lines
 
 - [Lacon Main Line](/rail-lines/lcn-main-line)
-- Lacon Industry Line
-- Lacon Sancheonville Line
-- Lacon Dobrzanka Line (Planned)
+- [Lacon Industry Line](/rail-lines/lcn-industry-line)
+- [Lacon Sancheonville Line](/rail-lines/lcn-sancheonville-line)
+- ~~Lacon Dobrzanka Line~~ (Planned)
 
 ## Shin-Lacon Lines
 

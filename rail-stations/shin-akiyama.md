@@ -11,7 +11,7 @@ Shin-Akiyama station connects to the settlement of Shin-Akiyama.
 ## Lines
 
 - Fulahm Railways Paddy Field Line
-- Lacon Industry Line
+- [Lacon Industry Line](/rail-lines/lcn-industry-line)
 - [NEX Ender Line](/rail-lines/nex-ender-line)
 - North-South Rail
 - Sancheon Rapid Alpha
