@@ -73,6 +73,7 @@ Include this snippet and replace the appropriate text accordingly
 
 Additional attributes you can use (put them before the last `%}`)
 ```
+  imgtitle="write title text here, basically the text that appear on mouse hover"
   imgloading="choose between lazy/eager"
   imgreferrerpolicy="if you use this then you should know what to write here"
 ```
