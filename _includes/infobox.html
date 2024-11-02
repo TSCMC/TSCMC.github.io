@@ -1,0 +1,6 @@
+<div
+  class="infobox"
+  id="{{ include.infoboxid | default: "infobox" }}"
+  data-title="{{ include.infoboxname | default: "Infobox" }}">
+    {{ include.infoboxcontent | markdownify }}
+</div>

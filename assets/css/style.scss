@@ -99,3 +99,25 @@ img[alt$="<>"] {
   text-align: center;
   color: white;
 }
+
+/* Infobox */
+.infobox{
+    float: right;
+    clear: right;
+    width: auto;
+    background: none;
+    padding: 5px 5px 5px 5px;
+    margin: 0.5em;
+    border: 1px solid #727272;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.infobox[data-title]::before {
+  content: attr(data-title);
+  display: block;
+  font-weight: bold;
+  padding: 3px;
+  font-size: 1.2em;
+  text-align: center;
+}
