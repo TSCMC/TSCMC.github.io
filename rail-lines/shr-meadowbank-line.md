@@ -16,7 +16,7 @@ stops at Moss Vale twice.
 
 Station name | Opened | Connections | Locality
 ---|---|---|---
-↑ Through-runs | to | [Southern Line](/rail-lines/shr-southern-line) | towards Slime Farm ↑
+↑ | | Through-runs to [Southern Line](/rail-lines/shr-southern-line) towards Slime Farm | ↑
 [Sakura Park](/rail-stations/sakura-park) | 2024-09-26 | [NEX Ender Line](/rail-lines/nex-ender-line) (via [Southern Highlands](/rail-stations/southern-highlands)) | Moss Vale
 [Moss Vale](/rail-stations/moss-vale) | 2024-09-26 | Southern Highlands Western, Loop, & Southern Lines, MRTC North-South Rail, [NEX Ender Line](/rail-lines/nex-ender-line) (via [Southern Highlands](/rail-stations/southern-highlands)) | Moss Vale
 [Model Farms](/rail-stations/model-farms) | 2024-09-26 | | Bundanoon

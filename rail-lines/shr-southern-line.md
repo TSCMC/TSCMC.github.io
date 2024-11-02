@@ -16,7 +16,7 @@ stops at Moss Vale twice.
 
 Station name | Opened | Connections | Locality
 ---|---|---|---
-↑ Through-runs | to | [Meadowbank Line](/rail-lines/shr-meadowbank-line) | towards Bowralerbrug ↑
+↑ | | Through-runs to [Meadowbank Line](/rail-lines/shr-meadowbank-line) towards Bowralerbrug | ↑
 [Sakura Park](/rail-stations/sakura-park) | 2024-10-27 | [NEX Ender Line](/rail-lines/nex-ender-line) (via [Southern Highlands](/rail-stations/southern-highlands)) | Moss Vale
 [Moss Vale](/rail-stations/moss-vale) | 2024-09-30 | Southern Highlands Western, Meadowbank, & Loop Lines, MRTC North-South Rail, [NEX Ender Line](/rail-lines/nex-ender-line) (via [Southern Highlands](/rail-stations/southern-highlands)) | Moss Vale
 [Exeter](/rail-stations/exeter) | 2024-09-30 | | Exeter
