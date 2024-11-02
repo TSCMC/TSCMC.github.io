@@ -8,6 +8,7 @@ description: The Abode of Self-Sufficient Life
 "The promotional banner of Yayajima")
 
 # Yayajima
+
 ![The official flag banner of yayajima >](/assets/img/areas/yayajima/banner.png
 "The official flag banner of Yayajima")
 
