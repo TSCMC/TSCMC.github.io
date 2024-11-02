@@ -23,7 +23,7 @@ with a higher ceiling and more  tracks to reach the current form.
 ### Lines
 
 - [Lacon Main Line](/rail-lines/lcn-main-line)
-- Lacon Industry Line
+- [Lacon Industry Line](/rail-lines/lcn-industry-line)
 - Shin-Lacon Dongbu Line
 
 ## Shin-Lacon Floating Moonlight City
@@ -33,5 +33,5 @@ The station features a grand glass arched roof on a concrete base.
 
 ### Lines
 
-- Shin-Lacon Main Line
-- Shin-Lacon Seobu Line
+- [Shin-Lacon Main Line](/rail-lines/slcn-main-line)
+- [Shin-Lacon Seobu Line](/rail-lines/slcn-seobu-line)
