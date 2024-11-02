@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nether Express Witch Farm Shuttle
-description: Nether Express Witch Farm Shuttle
+title: NEX Witch Farm Shuttle
+description: NEX Witch Farm Shuttle
 ---
 
 # NEX Witch Farm Shuttle

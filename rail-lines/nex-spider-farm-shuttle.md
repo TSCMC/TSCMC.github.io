@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nether Express Spider Farm Shuttle
-description: Nether Express Spider Farm Shuttle
+title: NEX Spider Farm Shuttle
+description: NEX Spider Farm Shuttle
 ---
 
 # NEX Spider Farm Shuttle
