@@ -33,7 +33,28 @@ and `<>` for center. For example:
 - `![Some Logo >](/assets/img/logo.png "The logo")` will align float Some Logo
   to the right side
 - `![Some Logo <](/assets/img/logo.png "The logo")` will align float Some Logo
-  to the left side  
+  to the left side
+
+### Using emoji in website
+
+The website has jemoji installed, so you can use default emoji on Discord the
+same way on the website as well. For example, writing `:thumbsup:` on the
+website will give you :thumbsup: the same way as on Discord.
+
+There are also additional custom emoji added using
+[imojify](https://github.com/danielthepope/imojify) that you can use on
+the website, those are listed as follow:
+
+| Emoji name | Emoji image                                                                   |
+|    :---:   |    :---:                                                                      |
+| `:lacon:`  | ![:lacon:](/assets/img/rail-networks/64px/lacon-network-white-background.png) |
+| `:volans:` | ![:volans:](/assets/img/rail-networks/64px/volans-railway.png)                |
+|  `:nsr:`   | ![:nsr:](/assets/img/rail-lines/64px/mrtc-north-south-rail.png)               |
+|  `:ewr:`   | ![:ewr:](/assets/img/rail-lines/64px/mrtc-east-west-rail.png)                 |
+|  `:trl:`   | ![:trl:](/assets/img/rail-lines/64px/richardrail-trunk-line.png)              |
+|  `:ael:`   | ![:ael:](/assets/img/rail-lines/64px/richardrail-airport-express-line.png)    |
+|  `:pfl:`   | ![:pfl:](/assets/img/rail-lines/64px/fulahm-railways-paddy-field-line.png)    |
+|  `:tml:`   | ![:tml:](/assets/img/rail-lines/64px/yuitrans-tenma-line.png)                 |
 
 ## File naming rules
 

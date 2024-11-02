@@ -38,6 +38,6 @@ bahasa&nbsp;Melayu akan ditulis dengan kedua-dua tulisan Rumi dan Jawi.*
 
 ## Railway Stations in Yayajima
 
-- [Yayajima Beach](/rail-stations/yayajima-beach)
-- Yayajima North
-- [Yayajima South](/rail-stations/yayajima-south)
+- :lacon: [Yayajima Beach](/rail-stations/yayajima-beach)
+- :lacon::ewr: Yayajima North
+- :lacon: [Yayajima South](/rail-stations/yayajima-south)
