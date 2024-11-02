@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      </header>
+      <section>
+      {{ content }}
+      </section>
+      <footer>
+        <p>
+          This website is maintained by the players of TSC Minecraft server.
+          <br/>NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR
+          ASSOCIATED WITH MOJANG OR MICROSOFT.
+        </p>
+        <p><small>
+          Hosted on GitHub Pages &mdash; Theme is modified from the
+          <a href="https://github.com/pages-themes/minimal">Minimal</a> theme
+          by <a href="https://github.com/orderedlist">orderedlist</a><br/>
+          {% if page.url contains ".html" -%}
+          <a href="https://github.com/TSCMC/TSCMC.github.io/blob/main{{ page.url | remove: ".html"}}.md?plain=1">View page source</a> &#124;
+          <a href="https://github.com/TSCMC/TSCMC.github.io/edit/main{{ page.url | remove: ".html"}}.md">Edit page</a>
+          {% else -%}
+          <a href="https://github.com/TSCMC/TSCMC.github.io/blob/main{{ page.url }}index.md?plain=1">View page source</a> &#124;
+          <a href="https://github.com/TSCMC/TSCMC.github.io/edit/main{{ page.url }}index.md">Edit page</a>
+          {% endif -%}
+        </small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
