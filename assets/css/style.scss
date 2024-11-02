@@ -4,12 +4,14 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Mada:wght@200..900&display=swap');
 
+/* Set font for Jawi and Arabic */
 *:lang(ms-Arab),*:lang(ar) {
   font-family: "Mada", "Noto Sans", sans-serif;
   font-size: 1.175em;
   direction: rtl;
 }
 
+/* Align float for images */
 img[alt$=">"] {
   float:right;
   padding: 1em;
