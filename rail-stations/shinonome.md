@@ -27,5 +27,5 @@ Preceding Station | Line | Following Station
 [Shin-Akiyama](/rail-stations/shin-akiyama.md) | Paddy Field Line (Morning/Evening Liner) | [Lisvane & Thornhill](/rail-stations/lisvane-and-thornhill.md)
 [Shin-Akiyama](/rail-stations/shin-akiyama.md) | Paddy Field Line (Local) | [Lisvane & Thornhill](/rail-stations/lisvane-and-thornhill.md)
 [WHY Central](/rail-stations/why-central.md) | Paddy Field Line (Semi-Express) | [Lisvane & Thornhill](/rail-stations/lisvane-and-thornhill.md)
-Yamanouchi | Mio Line | Shinonome-Chuo
+Yamanouchi | Mio Line | Naka-Shinonome
 
