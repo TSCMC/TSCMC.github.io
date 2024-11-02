@@ -56,3 +56,46 @@ img[alt$="<>"] {
 .emoji-tml{background-image:url(/assets/img/rail-lines/64px/yuitrans-tenma-line.png)}
 .emoji-volans{background-image:url(/assets/img/rail-networks/64px/volans-railway.png)}
 .emoji-lacon{background-image:url(/assets/img/rail-networks/64px/lacon-network-white-background.png)}
+
+/* Image lightbox */
+.imagelightbox {
+  background: rgba(0, 0, 0, 0.8);
+  display: none;
+  position: fixed;
+  z-index: 1000;
+}
+
+.imagelightbox:target {
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.imagelightbox img {
+  border-radius: 1em;
+  display: block;
+  margin: auto;
+  max-height: 100vh;
+  max-width: 120vh;
+}
+
+.imagelightbox .close {
+  color: #fff;
+  font-size: 4em;
+  height: 1em;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 1em;
+  z-index: 1001;
+}
+
+.imagelightbox p {
+  font-size: 2em;
+  text-align: center;
+  color: white;
+}
