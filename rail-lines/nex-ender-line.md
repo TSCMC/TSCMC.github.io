@@ -11,12 +11,13 @@ Central and Stronghold.
 
 ## Stations
 
-- [Fortress](/rail-stations/fortress)
-- [Froglight Farm](/rail-stations/froglight-farm)
+- [Fortress](/rail-stations/fortress) (Terminal)
+- [Froglight Farm](/rail-stations/froglight-farm) (Interchange)
 - [Squid Farm](/rail-stations/squid-farm)
-- [Slime Farm](/rail-stations/slime-farm)
-- [Shin-Akiyama](/rail-stations/shin-akiyama)
-- [Southern Highlands](/rail-stations/southern-highlands)
-- [WHY Central](/rail-stations/why-central)
-- [Stronghold](/rail-stations/stronghold)
-- [Guardian Farm](/rail-stations/guardian-farm)
+- [Slime Farm](/rail-stations/slime-farm) (Interchange)
+- [Shin-Akiyama](/rail-stations/shin-akiyama) (Interchange)
+- [Southern Highlands](/rail-stations/southern-highlands) (Interchange)
+- [WHY Central](/rail-stations/why-central) (Interchange)
+- [Stronghold](/rail-stations/stronghold) (Interchange)
+- [Guardian Farm](/rail-stations/guardian-farm) (Terminal) (Interchange)
+- [New Taichung Temp](/rail-stations/new-taichung-temp) (Terminal) (Interchange)
