@@ -1,7 +1,7 @@
 ---
 layout: default
-title: NEX T-Train Line
-description: NEX T-Train Line
+title: Nether Express T-Train Line
+description: Nether Express T-Train Line
 ---
 
 # NEX T-Train Line

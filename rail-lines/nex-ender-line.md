@@ -1,7 +1,7 @@
 ---
 layout: default
-title: NEX Ender Line
-description: NEX Ender Line
+title: Nether Express Ender Line
+description: Nether Express Ender Line
 ---
 
 # NEX Ender Line
