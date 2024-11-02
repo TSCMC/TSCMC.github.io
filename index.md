@@ -11,13 +11,13 @@ Information related to the TSC Minecraft server will be written on this website!
 
 {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
 
+<!-- markdownlint-disable MD032 -->
+
 ### Areas
 
 {% for page in pages -%}
 {% if page.url contains "/areas" -%}
-
 - [{{page.title}}]({{page.url}})
-
 {% endif -%}
 {% endfor %}
 
@@ -25,9 +25,7 @@ Information related to the TSC Minecraft server will be written on this website!
 
 {% for page in pages -%}
 {% if page.url contains "/rail-networks" -%}
-
 - [{{page.title}}]({{page.url}})
-
 {% endif -%}
 {% endfor %}
 
@@ -35,9 +33,7 @@ Information related to the TSC Minecraft server will be written on this website!
 
 {% for page in pages -%}
 {% if page.url contains "/rail-lines" -%}
-
 - [{{page.title}}]({{page.url}})
-
 {% endif -%}
 {% endfor %}
 
@@ -45,8 +41,6 @@ Information related to the TSC Minecraft server will be written on this website!
 
 {% for page in pages -%}
 {% if page.url contains "/rail-stations" -%}
-
 - [{{page.title}}]({{page.url}})
-
 {% endif -%}
 {% endfor %}
