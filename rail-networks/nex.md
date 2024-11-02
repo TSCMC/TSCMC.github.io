@@ -11,10 +11,11 @@ server via the nether.
 
 ## Lines
 
-<!-- markdownlint-disable MD032 -->
 {% for page in pages -%}
-{% if page.url contains "/rail-lines/nex" -%}
+{% if page.url contains "/rail-lines/nex-" -%}
+
 - [{{page.title}}]({{page.url}})
+
 {% endif -%}
 {% endfor %}
 
