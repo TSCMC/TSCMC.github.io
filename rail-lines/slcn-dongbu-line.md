@@ -17,7 +17,7 @@ to Sancheonville, the Stronghold, and the far east regions of the overworld.
 - [Yayajima Beach](/rail-stations/yayajima-beach)
 - Sancheonville
 - Stronghold
-- (Kuromagurogatondekuru)Maguro Lake (Japanese: クロマグロがとんでくるマグロ湖)
+- (Kuromagurogatondekuru) Maguro Lake<br>(Japanese: クロマグロがとんでくるマグロ湖)
 - Jajak Forest (Korean: 자작숲)
 - Gonghang-ap (Korean: 공항앞, literally: Airport-front)
 - Dark Forest
