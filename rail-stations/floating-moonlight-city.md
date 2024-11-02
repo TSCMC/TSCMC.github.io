@@ -24,7 +24,7 @@ with a higher ceiling and more  tracks to reach the current form.
 
 - [Lacon Main Line](/rail-lines/lcn-main-line)
 - [Lacon Industry Line](/rail-lines/lcn-industry-line)
-- Shin-Lacon Dongbu Line
+- [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
 
 ## Shin-Lacon Floating Moonlight City
 
