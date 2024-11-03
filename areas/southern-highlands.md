@@ -6,15 +6,27 @@ description: Southern Highlands Region
 
 # Southern Highlands
 
+{% capture southernhighlandsinfo %}
 ![The de facto flag banner of the Southern Highlands >](/assets/img/areas/southern-highlands/banner.png
 "The de facto flag banner of the Southern Highlands")
 
-The **Southern Highlands** is a region to the southeast of spawn governed by the
+Authority | Southern Highlands Regional Council
+Official<br/>Language | English
+Recognized<br/>Languages | Japanese<br/>Chinese<br/>Toki Pona
+{% endcapture %}
+{%
+  include infobox.html
+  infoboxid="southernhighlandsbox"
+  infoboxname="Southern Highlands"
+  infoboxcontent=southernhighlandsinfo
+%}
+
+The Southern Highlands is a region to the southeast of spawn governed by the
 the Southern Highlands Regional Council. The region is home to a large
 poppulation of villagers which are given free roam - the largest
 financial, [transportation](/rail-stations/moss-vale), and population centre is
 found in Moss Vale.
-<br>
+<br/>
 The name "Southern Highlands" may be considered to be a misnomer, as while the
 region contains a highlands biome, the vast majority of its development is
 closer to sea level in elevation. English is the de facto main language of the
