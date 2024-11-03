@@ -10,8 +10,8 @@ description: Southern Highlands Region
 ![The de facto flag banner of the Southern Highlands <>](/assets/img/areas/southern-highlands/banner.png
 "The de facto flag banner of the Southern Highlands")
 
-Authority | Southern<br/>Highlands<br/>Regional<br/>Council
-Official<br/>Language | English
+Authority | Southern Highlands<br/>Regional Council
+Official<br/>Languages | English
 Recognised<br/>Languages | Japanese<br/>Chinese<br/>Toki Pona
 {% endcapture %}
 {%
@@ -22,10 +22,12 @@ Recognised<br/>Languages | Japanese<br/>Chinese<br/>Toki Pona
 %}
 
 The Southern Highlands is a region to the southeast of spawn governed by the
-the Southern Highlands Regional Council. The region is home to a large
-poppulation of villagers which are given free roam - the largest
-financial, [transportation](/rail-stations/moss-vale), and population centre is
-found in Moss Vale.
+the Southern Highlands Regional Council (SHRC). The region is home to a large
+poppulation of villagers which are given free roam - the largest transportation,
+financial, and population centre is found in Moss Vale and its suburbs.<br>
+The SHRC owns and operates the [Southern Highlands Railway](/rail-networks/shr),
+with [Moss Vale station](/rail-stations/moss-vale) being its main hub.<br>
+The region has no defined boundaries.
 
 ## Langauges
 
