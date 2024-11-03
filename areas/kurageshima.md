@@ -4,7 +4,7 @@ title: Kurageshima and Nozomigaoka
 description: Colony of Floating Moonlight City
 ---
 
-# Kurageshima, Nozomigaoka
+# Kurageshima and Nozomigaoka
 
 Kurageshima and Nozomigaoka is an area to the northeast of [Yayajima](yayajima),
 built and administered by the [Floating Moonlight City](fmcity) as its colony.
