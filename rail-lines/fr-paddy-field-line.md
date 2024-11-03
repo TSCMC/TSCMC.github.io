@@ -7,11 +7,7 @@ description: Fulahm Railways Paddy-Field Line
 # Fulahm Railways Paddy-Field Line
 
 Fulahm Railways Paddy-Field Line<br>
-Formerly known as Lacon Shin-Higashi Line, Shin-Lacon Dongbu Line is by far the longest
-line on the [Shin-Lacon Network](/rail-networks/lcn), connecting Floating Moonlight City
-to Sancheonville, the Stronghold, and the far east regions of the overworld.<br>
-The line was originally opened as Lacon Shin-Higashi Line, and was ceded over to Shin-Lacon
-from Lacon when the Shin-Lacon Seobu Line opened to [Yayajima Beach](/rail-stations/yayajima-beach).
+The Paddy Field Line is the longest, and presently (only) intercity railway operated by Fulahm Railways.
 
 ## Stations
 
