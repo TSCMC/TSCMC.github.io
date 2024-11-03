@@ -6,7 +6,6 @@ description: Fulahm Railways Paddy-Field Line
 
 # Fulahm Railways Paddy-Field Line
 
-Fulahm Railways Paddy-Field Line<br>
 The Paddy Field Line is the longest, and presently (only) intercity railway operated by Fulahm Railways.
 
 ## Stations
