@@ -11,4 +11,4 @@ part of a joke rail line and does not serve any practical purpose.
 
 ## Lines
 
-- [NEX Nowhere Line](/rail-lines/<nex-nowhere-line>)
+- [NEX Nowhere Line](/rail-lines/nex-nowhere-line)
