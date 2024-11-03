@@ -10,8 +10,8 @@ description: Akiyama
 
 Akiyama is a metro station on the [Southern Highlands](/rail-networks/shr)
 [Loop Line](/rail-lines/shr-loop-line). It is located within the floating island
-of Akiyama, above West Moss Vale. It opened on 2024-05-18 as the initial western
-terminus of the Highlands Line.
+of Akiyama, above West Moss Vale. It opened on 2024-05-18 as the only intermediate
+station of the initial section of the Highlands Line.
 
 ## Platforms
 
