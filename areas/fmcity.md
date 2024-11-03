@@ -66,7 +66,7 @@ until then.
 ### Main Building
 
 This building has a cherry blossom wood construction with piers going down to the sea floor.
-It has the shame of the letter "C" or the Korean consonant "ㄷ," with the 'opening' pointing
+It has the shape of the letter "C" or the Korean consonant "ㄷ," with the 'opening' pointing
 to the south.<br>
 Being the first building constructed in Floating Moonlight City, this building currently serves
 as storage in the east wing and houses the super smelter in the west wing. The main wing is part
