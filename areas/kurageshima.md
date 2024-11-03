@@ -4,7 +4,7 @@ title: Kurageshima and Nozomigaoka
 description: Colony of Floating Moonlight City
 ---
 
-# Kurageshima and Nozomigaoka
+# Kurageshima, Nozomigaoka
 
 Kurageshima and Nozomigaoka is an area to the northeast of [Yayajima](yayajima),
 built and administered by the [Floating Moonlight City](fmcity) as its colony.
@@ -24,14 +24,19 @@ The name translates to "Jellyfish Island" and is a reference to a song (linked b
 ## Nozomigaoka
 
 のぞみヶ丘/노조미가오카<br>
-Nozomigaoka is a small village to the west of Kurageshima that
-is administered by the Floating Moonlight City as a colony.<br>
-Its name translates to "Hill of Hope," and it is an artificial village
-constructed by Floating Moonlight City as a part of the Kurageshima
-development plan.<br>
-The villagers living in Nozomigaoka come from the Ministry of Love.
+Nozomigaoka, which literally translates to "Hill of Hope,"
+is a hill on the "mainland" to the west of Kurageshima.
+There is a small village of the same name at the base of the hill,
+administered by the Floating Moonlight City as a colony.
+Being an artificial village constructed by Floating Moonlight City
+as a part of the Kurageshima and Nozomigaoka development plan,
+the villagers living in Nozomigaoka come from the Ministry of Love.<br>
+The southern slopes and the peak of the hill is used as tree-planting
+grounds for Lacon Forestry, which supplies much of the timber used in
+the construction of Floating Moonlight City.<br>
 
 ## Railway Stations in Kurageshima and Nozomigaoka
 
+- Lacon Forestry
 - Kurageshima
 - Nozomigaoka
