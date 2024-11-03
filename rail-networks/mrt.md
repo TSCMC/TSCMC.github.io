@@ -25,5 +25,5 @@ different entities on the server:
 
 ## Lines
 
-- :nsr: North-South Rail (NSR)
+- :nsr: [North-South Rail](/rail-lines/mrtc-north-south-rail-line) (NSR)
 - :ewr: East-West Rail (EWR)

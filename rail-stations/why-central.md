@@ -12,12 +12,13 @@ with Spider Farm shuttle through WHY Central Base station.
 
 ## Lines
 
-- East-West Rail
-- Fulahm Railways Paddy Field Line
+- Alhambra Railway Main Line
+- :pfl: Fulahm Railways Paddy Field Line
+- :ewr: MRTC East-West Rail
+- :nsr: [MRTC North-South Rail](/rail-lines/mrtc-north-south-rail-line)
 - [NEX Ender Line](/rail-lines/nex-ender-line)
 - [NEX T-Train Line](/rail-lines/nex-t-train-line)
-- North-South Rail
-- RichardRail Airport Express
-- Volans Railway Minecart Line
-- YuiTrans Tenma Line
+- :ael: RichardRail Airport Express
+- :volans: Volans Railway Minecart Line
+- :tml: YuiTrans Tenma Line
 - YuiTrans Shin-Tenma Line
