@@ -11,7 +11,7 @@ description: Mainline Railway Transit Corporation North-South Rail Line
 Network | Mainline Railway<br/>Transit Corporation
 Line Colour | Name: Light Purple<br/>Sign: &d<br/>Wool: Magenta<br/>HTML: `A800A8`
 First opened | 2024-05-08<br/>(WHY Central<br/>- Sandy Beach)
-Last extension | 2024-05-27<br/>(Bundanoon<br/>- Shin-Akiyama)
+Last extension | 2024-09-22<br/>(Ministry of Love -<br/>Tax Evasion Chalet)
 {% endcapture %}
 {%
   include infobox.html
