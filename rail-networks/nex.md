@@ -19,3 +19,7 @@ server via the nether.
 
 - Witch Farm Shuttle
 - Spider Farm Shuttle
+
+## Other
+
+- [Nowhere Line](/rail-lines/nex-nowhere-line)
