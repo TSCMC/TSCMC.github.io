@@ -11,5 +11,7 @@ nowhere, with a total length of 6m.
 
 ## Stations
 
-- [Guardian Farm](/rail-stations/guardian-farm) (Terminal) (Interchange)
-- [Nowhere](/rail-stations/nowhere) (Terminal) (Interchange)
+| Name | Transfers | Remarks |
+| ----                                          | ----------  | ------- |
+| [Guardian Farm](/rail-stations/guardian-farm) | [NEX Ender Line](/rail-lines/nex-ender-line)| |
+| [Nowhere](/rail-stations/nowhere) | [NEX Ender Line](/rail-lines/nex-ender-line) | |
