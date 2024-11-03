@@ -12,8 +12,10 @@ transportation hub for the region, and is served by the MRTC North-South Rail in
 addition to all other [Southern Highlands Railway](/rail-networks/shr) lines. An
 out-of-station interchange to the [NEX Ender Line](/rail-lines/nex-ender-line)
 is available at [Southern Highlands station](/rail-stations/southern-highlands)
-in the Nether.
-<br/>
+in the Nether.<br>
+
+## History 
+
 Opened on 2024-05-03, it is one of the oldest stations on the server.
 
 ## Platforms
