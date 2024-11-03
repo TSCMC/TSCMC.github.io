@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Shin-Lacon Main Line
 description: Shin-Lacon Main Line

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Lacon Industry Line
 description: Lacon Industry Line
@@ -18,7 +18,7 @@ It was formerly known as Lacon Minami Line.
 - [Floating Moonlight City](/rail-stations/floating-moonlight-city) (Terminal)
 - [T-Central](/rail-stations/t-central)
 - [Shin-Akiyama](/rail-stations/shin-akiyama)
-- TruffleResort
+- [TruffleResort](/rail-stations/truffleresort)
 - [Slime Farm](/rail-stations/slime-farm)
 - Sand Duper
 - Yamamigaoka

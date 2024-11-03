@@ -68,7 +68,7 @@ ditulis dengan kedua-dua tulisan Rumi dan Jawi.*
 - Yayajima Airport (under construction)
 - :lacon: [Yayajima Beach](/rail-stations/yayajima-beach)
 - :ewr: Yayajima Lighthouse (under construction)
-- :lacon::ewr: Yayajima North
+- :lacon::ewr: [Yayajima North](/rail-stations/yayajima-north)
 - :lacon: [Yayajima South](/rail-stations/yayajima-south)
 
 ## Metro Stations in Yayajima (under construction)

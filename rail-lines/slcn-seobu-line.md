@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Shin-Lacon Seobu Line
 description: Shin-Lacon Seobu Line
