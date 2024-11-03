@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Floating Moonlight City
 description: Corporate City of Lacon

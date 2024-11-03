@@ -1,7 +1,9 @@
 # TSCMC.github.io
+
 The website for TSC Minecraft server
 
 ## How to add pages
+
 Click "Add file" and select "Create new file"
 
 At "Name your file..." box, put the name of the page that you want to be the URL
@@ -78,6 +80,24 @@ Additional attributes you can use (put them before the last `%}`)
   imgreferrerpolicy="if you use this then you should know what to write here"
 ```
 
+### Using admonitions
+
+You can use admonitions on the website, including in Markdown format. The
+admonitions are available in 5 types, `note`, `info`, `tip`, `warning`, and
+`danger`. They will be displayed like this, in order:
+
+![admonitions](/assets/img/admonitions.png)
+
+To use the admonitions, just use the code block but write the type of the
+admonition after the first three backticks, for example, the warning admonition
+above would be:
+
+````markdown
+```warning
+This is a warning that someone should not do something.
+```
+````
+
 ## File naming rules
 
 - File names should only contain lower case alphanumeric characters or dashes.
@@ -118,4 +138,15 @@ index.md
 ```
 
 ## Disclaimer
-NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+
+The admonitions on the website are generated using the Liquid plugin 
+[Jekyll Pure Liquid Admonitions](https://github.com/RichDom2185/jekyll-admonitions).
+<br/>
+The files `_includes/admonitions.liquid`, `_includes/capturehtml.liquid`
+and `_sass/admonitions.scss` came from said plugin.
+
+This website uses the [Font Awesome 6 Free](https://fontawesome.com/download)
+icons in several places, especially in admonitions.
+
+NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR
+MICROSOFT.
