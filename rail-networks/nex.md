@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nether Express
+title: Nether Express (NEX)
 description: Nether Express
 ---
 

@@ -1,0 +1,21 @@
+<div class="imagelightbox" id="{{ include.imgname | default: "notitle" }}-image">
+  <a href="#{{ include.imgname | default: "notitle" }}" class="close">&times;</a>
+  <div class="content">
+    <img src="{{ include.imglink }}" loading="lazy" />
+    {% if include.imgcaption -%}
+    <p>{{ include.imgcaption }}</p>
+    {% endif -%}
+  </div>
+</div>
+<div style="text-align:center;">
+  <a href="#{{ include.imgname | default: "notitle" }}-image">
+    <img src="{{ include.imgthumb | default: include.imglink }}" loading="lazy"
+    {% if include.imgthumbwidth -%}
+    style="width:{{ include.imgthumbwidth | default: "100%"}};"
+    {% endif -%}
+    />
+  </a>
+  {% if include.imgcaption -%}
+  <strong>{{ include.imgcaption }}</strong>
+  {% endif -%}
+</div>

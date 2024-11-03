@@ -56,6 +56,28 @@ the website, those are listed as follow:
 |  `:pfl:`   | ![:pfl:](/assets/img/rail-lines/64px/fulahm-railways-paddy-field-line.png)    |
 |  `:tml:`   | ![:tml:](/assets/img/rail-lines/64px/yuitrans-tenma-line.png)                 |
 
+### Using image with custom size
+
+Include this snippet and replace the appropriate text accordingly
+
+```
+{%
+  include imagewithattrib.html
+  imgalt="Write your alt text here"
+  imgsrc="Write the source image URL here"
+  imgwidth="Put in the image width"
+  imgheight="Put in the image height"
+  imgalign="choose between left/right/center"
+%}
+```
+
+Additional attributes you can use (put them before the last `%}`)
+```
+  imgtitle="write title text here, basically the text that appear on mouse hover"
+  imgloading="choose between lazy/eager"
+  imgreferrerpolicy="if you use this then you should know what to write here"
+```
+
 ## File naming rules
 
 - File names should only contain lower case alphanumeric characters or dashes.

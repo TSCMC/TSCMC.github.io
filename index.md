@@ -44,3 +44,17 @@ Information related to the TSC Minecraft server will be written on this website!
 - [{{page.title}}]({{page.url}})
 {% endif -%}
 {% endfor %}
+
+## Transit Map
+
+This is the overall transit map of the TSC Minecraft server:
+
+{%
+include imagelightbox.html
+imgname="transitmap"
+imglink="/assets/img/map.png"
+imgcaption="Overworld & Nether Railways of the TSC Minecraft Server"
+%}
+
+[View original](/assets/img/map.png "Click to view in original size")
+{: style="text-align:center; font-size:0.75em;"}
