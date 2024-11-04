@@ -11,5 +11,5 @@ part of a joke rail line and does not serve any practical purpose.
 
 ## Lines
 
-- [NEX Ender Line](rail-lines/nex-ender-line)
+- [NEX Ender Line](/rail-lines/nex-ender-line)
 - [NEX Nowhere Line](/rail-lines/nex-nowhere-line)
