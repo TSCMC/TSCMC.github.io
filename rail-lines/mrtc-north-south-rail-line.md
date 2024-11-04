@@ -41,13 +41,20 @@ operational on 9th May 2024.
 
 The first train from WHY Central officially departed to Bundanoon, the terminus
 at the time, on the same day. Cordelia Cross station, formerly Camellia Cross
-station or South Spawn station, had been open since 7th May 2024.
+station or South Spawn station, had opened since 7th May 2024 with active
+service to Moss Vale, prior to the commencement of NSR service.
 
-### Shin-Akiyama Authority
+### YuiTrans
 
-The Shin-Akiyama Authority (SAA) owns and governs MRTC rail in the Shin-Akiyama
-region. The connection between Bundanoon station and Shin-Akiyama station was
-completed and operational on 27th May 2024.
+YuiTrans, the rail authority of the Empire of Shin-Akiyama owns and manages MRTC
+rail in the Shin-Akiyama region. The connection between Bundanoon station and
+Shin-Akiyama station was completed and operational on 27th May 2024.
+
+### Fulahm Railways
+
+Fulahm Railways (FR), the rail authority of the Council of Paddy Fields owns and
+manages MRTC rail in the Shinonome region. The connection between Shin-Akiyama
+station and Shinonome-Chuo station is currently under construction.
 
 ## Stations
 
@@ -83,12 +90,12 @@ completed and operational on 27th May 2024.
 
 | Station name | Opened | Connections | Locality | Managed by |
 |:---:|:---:|:---|:---:|:---:|
-| Tax Evasion Chalet | 2024-09-22 | Crêpobeur Funicular Line | Tax Evasion Chalet | MRTC |
-| Ministry of Love | 2024-05-12 | :ewr: MRTC East-West Rail | Villager Breeder | MRTC |
+| Tax Evasion Chalet | 2024-09-22 | ● Crêpobeur Funicular Line | Tax Evasion Chalet | MRTC |
+| Ministry of Love | 2024-05-12 | ● :ewr: MRTC East-West Rail | Villager Breeder | MRTC |
 | [WHY Central](/rail-stations/why-central) | 2024-05-04 | {{ nsrwhycentral | strip_newlines }} | Spawn | MRTC |
-| Sandy Beach | 2024-05-08 | YuiTrans Tenma Line | Sandy Beach | MRTC |
-| Cordelia Cross | 2024-05-07 | [SHR Loop Line](/rail-lines/shr-loop-line) | Cordelia Cross | SHR |
+| Sandy Beach | 2024-05-08 | ● YuiTrans Tenma Line | Sandy Beach | MRTC |
+| Cordelia Cross | 2024-05-07 | ● [SHR Loop Line](/rail-lines/shr-loop-line) | Cordelia Cross | SHR |
 | [Moss Vale](/rail-stations/moss-vale) | 2024-05-03 | {{ nsrmossvale | strip_newlines }} | Moss Vale | SHR |
-| Bundanoon | 2024-05-06 | RR Yuuhi Line | Bundanoon | SHR |
-| Shin-Akiyama | 2024-05-27 | {{ nsrshinakiyama | strip_newlines }} | Shin-Akiyama | SAA |
-| Shinonome-Chuo | upcoming | {{ nsrshinonomechuo | strip_newlines}} | Shinonome | MRTC |
+| Bundanoon | 2024-05-06 | ● RR Yuuhi Line | Bundanoon | SHR |
+| Shin-Akiyama | 2024-05-27 | {{ nsrshinakiyama | strip_newlines }} | Shin-Akiyama | YuiTrans |
+| Shinonome-Chuo | upcoming | {{ nsrshinonomechuo | strip_newlines}} | Shinonome | FR |
