@@ -16,4 +16,4 @@ RichardRail via [New Taichung Gateway](/rail-stations/new-taichung-gateway) stat
 
 ## Lines
 
-- [NEX Ender Line](/rail-lines/nex-ender-line)
+- ~~[NEX Ender Line](/rail-lines/nex-ender-line)~~ Branch closed

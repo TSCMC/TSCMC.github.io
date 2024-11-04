@@ -20,4 +20,5 @@ Central and Stronghold.
 - [WHY Central](/rail-stations/why-central) (Interchange)
 - [Stronghold](/rail-stations/stronghold) (Interchange)
 - [Guardian Farm](/rail-stations/guardian-farm) (Terminal) (Interchange)
-- [New Taichung Temp](/rail-stations/new-taichung-temp) (Terminal) (Interchange)
+- ~~[New Taichung Temp](/rail-stations/new-taichung-temp) (Terminal)~~
+    ~~(Interchange)~~ Station closed
