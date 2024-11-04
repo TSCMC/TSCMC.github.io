@@ -49,14 +49,15 @@ img[alt$="<>"] {
 .emoji-xl{width:64px;height:64px}
 
 /* Custom emoji for website */
-.emoji-nsr{background-image:url(/assets/img/rail-lines/64px/mrtc-north-south-rail.png)}
-.emoji-ewr{background-image:url(/assets/img/rail-lines/64px/mrtc-east-west-rail.png)}
-.emoji-pfl{background-image:url(/assets/img/rail-lines/64px/fulahm-railways-paddy-field-line.png)}
-.emoji-ael{background-image:url(/assets/img/rail-lines/64px/richardrail-airport-express-line.png)}
-.emoji-trl{background-image:url(/assets/img/rail-lines/64px/richardrail-trunk-line.png)}
-.emoji-tml{background-image:url(/assets/img/rail-lines/64px/yuitrans-tenma-line.png)}
-.emoji-volans{background-image:url(/assets/img/rail-networks/64px/volans-railway.png)}
-.emoji-lacon{background-image:url(/assets/img/rail-networks/64px/lacon-network-white-background.png)}
+.emoji-nsr{background-image:url(/assets/img/rail-lines/24px/mrtc-north-south-rail.png)}
+.emoji-ewr{background-image:url(/assets/img/rail-lines/24px/mrtc-east-west-rail.png)}
+.emoji-pfl{background-image:url(/assets/img/rail-lines/24px/fulahm-railways-paddy-field-line.png)}
+.emoji-ael{background-image:url(/assets/img/rail-lines/24px/richardrail-airport-express-line.png)}
+.emoji-trl{background-image:url(/assets/img/rail-lines/24px/richardrail-trunk-line.png)}
+.emoji-tml{background-image:url(/assets/img/rail-lines/24px/yuitrans-tenma-line.png)}
+.emoji-volans{background-image:url(/assets/img/rail-networks/24px/volans-railway.png)}
+.emoji-lacon{background-image:url(/assets/img/rail-networks/24px/lacon-network-white-background.png)}
+.emoji-mrtc{background-image:url(/assets/img/rail-networks/24px/mainline-railway-transit-corporation.png)}
 
 /* Image lightbox */
 .imagelightbox {
@@ -138,4 +139,14 @@ section {
 
 footer {
   width:200px;
+}
+
+@media print, screen and (max-width: 960px) {
+  div.wrapper {
+    width:auto;
+  }
+
+  header, section, footer {
+    width:auto;
+  }
 }
