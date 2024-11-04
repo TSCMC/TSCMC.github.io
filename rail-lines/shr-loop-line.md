@@ -21,9 +21,9 @@ The Loop Line is a metro rail line of the [Southern Highlands Railway](/rail-net
 | Station name | Opened | Connections | Locality |
 |:---:|:---:|:---|:---:|
 | [Moss Vale](/rail-stations/moss-vale) | 2024-05-18 | {{ loopmossvale | strip_newlines }} | Moss Vale |
-| [Akiyama](/rail-stations/akiyama) | 2024-05-18 | | Akiyama |
-| [New Berrima](/rail-stations/new-berrima) | 2024-05-21 | | New Berrima |
-| [Outpost](/rail-stations/outpost) | 2024-08-12 | | Outpost |
+| [Akiyama](/rail-stations/akiyama) | 2024-05-18 | - | Akiyama |
+| [New Berrima](/rail-stations/new-berrima) | 2024-05-21 | - | New Berrima |
+| [Outpost](/rail-stations/outpost) | 2024-08-12 | - | Outpost |
 | [Newtown](/rail-stations/newtown) | 2024-05-23 | ● [SHR Western Line](/rail-lines/shr-western-line) | Newtown |
-| [Creeper Farm](/rail-stations/creeper-farm) | 2024-05-23 | | Creeper Farm |
+| [Creeper Farm](/rail-stations/creeper-farm) | 2024-05-23 | - | Creeper Farm |
 | [Cordelia Cross](/rail-stations/cordelia-cross) | 2024-05-23 | ● :nsr: [MRTC North-South Rail](/rail-lines/mrtc-north-south-rail-line) | Cordelia Cross |
