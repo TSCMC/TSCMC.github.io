@@ -12,5 +12,5 @@ parts of its right of way.
 ## Stations
 
 - [T-Central](/rail-stations/t-central) (Terminal) (Interchange)
-- [WHY Central](/rail-stations/why-central) (Terminal) (Interchange)
-- New Taichung (Planned)
+- [WHY Central](/rail-stations/why-central) (Interchange)
+- [New Taichung](/rail-stations/new-taichung) (Terminal) (Interchange)
