@@ -22,4 +22,4 @@ Line to create the Loop Line on 2024-08-12.
 
 Platform | Line | Services
 ---|---|---
-1 | [Loop Line](/rail-lines/shr-loop-line) | services to Moss Vale or Cordelia Cross
+1 | [SHR Loop Line](/rail-lines/shr-loop-line) | services to Moss Vale or Cordelia Cross

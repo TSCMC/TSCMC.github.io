@@ -14,5 +14,5 @@ and opened on 2024-10-16 as the southern terminus of the line for less than 2 we
 
 Platform | Line | Services
 ---|---|---
-1 | [Southern Line](/rail-lines/shr-southern-line) | services to Bowralerbrug via Sakura Park
-2 | [Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm
+1 | [SHR Southern Line](/rail-lines/shr-southern-line) | services to Bowralerbrug via Sakura Park
+2 | [SHR Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm

@@ -26,5 +26,5 @@ Moss Vale station to Sakura Park, allowing for through running onwards to Bowral
 
 Platform | Line | Services
 ---|---|---
-1 | [Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Bowralerbrug
-2 | [Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm
+1 | [SHR Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Bowralerbrug
+2 | [SHR Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm

@@ -17,4 +17,4 @@ short walk away.
 
 Platform | Line | Services
 ---|---|---
-1 | [Western Line](/rail-lines/shr-western-line) | services to Sakurako or Tahmoor
+1 | [SHR Western Line](/rail-lines/shr-western-line) | services to Sakurako or Tahmoor

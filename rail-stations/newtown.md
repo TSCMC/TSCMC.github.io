@@ -23,5 +23,5 @@ intermediate station as services towards Moss Vale via Outpost commenced.
 
 Platform | Line | Services
 ---|---|---
-1 | [Western Line](/rail-lines/shr-western-line) | services to Sakurako or Tahmoor
-3 | [Loop Line](/rail-lines/shr-loop-line) | services to Moss Vale or Cordelia Cross
+1 | [SHR Western Line](/rail-lines/shr-western-line) | services to Sakurako or Tahmoor
+3 | [SHR Loop Line](/rail-lines/shr-loop-line) | services to Moss Vale or Cordelia Cross

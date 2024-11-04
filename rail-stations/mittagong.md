@@ -16,5 +16,5 @@ with the Peoplemover opening on 2024-10-25.
 
 Platform | Line | Services
 ---|---|---
-1 | [Western Line](/rail-lines/shr-western-line) | services to Sakurako or Tahmoor
-3 | Mittagong Peoplemover | shuttle to North Mittagong
+1 | [SHR Western Line](/rail-lines/shr-western-line) | services to Sakurako or Tahmoor
+3 | RR Mittagong Peoplemover | shuttle to North Mittagong

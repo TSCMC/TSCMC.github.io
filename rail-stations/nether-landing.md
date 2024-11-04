@@ -15,5 +15,5 @@ Meadowbank Line.
 
 Platform | Line | Services
 ---|---|---
-1 | [Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Slime Farm via Sakura Park
-2 | [Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Bowralerbrug
+1 | [SHR Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Slime Farm via Sakura Park
+2 | [SHR Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Bowralerbrug

@@ -23,13 +23,13 @@ Opened on 2024-05-03, it is one of the oldest stations on the server.
 
 Platform | Line | Services
 ---|---|---
-1 | [Western Line](/rail-lines/shr-western-line) | services to Tahmoor
-2 | [Western Line](/rail-lines/shr-western-line) | services to Sakurako
-3 | :nsr: [North-South Rail](/rail-lines/mrtc-north-south-rail-line) | services to Tax Evasion Chalet via WHY Central
-4 | :nsr: [North-South Rail](/rail-lines/mrtc-north-south-rail-line) | services to Shin-Akiyama
-5 | [Loop Line](/rail-lines/shr-loop-line) | services to Cordelia Cross
-6 | [Loop Line](/rail-lines/shr-loop-line) | N/A - platform not in use
-7 | [Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Bowralerbrug
-8 | [City Circle](/rail-lines/shr-meadowbank-line) | services to Slime Farm via Sakura Park
-9 | [Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm
-10 |[City Circle](/rail-lines/shr-southern-line) | services to Bowralerbrug via Sakura Park
+1 | [SHR Western Line](/rail-lines/shr-western-line) | services to Tahmoor
+2 | [SHR Western Line](/rail-lines/shr-western-line) | services to Sakurako
+3 | :nsr: [MRTC North-South Rail](/rail-lines/mrtc-north-south-rail-line) | services to Tax Evasion Chalet via WHY Central
+4 | :nsr: [MRTC North-South Rail](/rail-lines/mrtc-north-south-rail-line) | services to Shin-Akiyama
+5 | [SHR Loop Line](/rail-lines/shr-loop-line) | services to Cordelia Cross
+6 | [SHR Loop Line](/rail-lines/shr-loop-line) | N/A - platform not in use
+7 | [SHR Meadowbank Line](/rail-lines/shr-meadowbank-line) | services to Bowralerbrug
+8 | [SHR City Circle](/rail-lines/shr-meadowbank-line) | services to Slime Farm via Sakura Park
+9 | [SHR Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm
+10 | [SHR City Circle](/rail-lines/shr-southern-line) | services to Bowralerbrug via Sakura Park

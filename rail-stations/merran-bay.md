@@ -16,7 +16,7 @@ RichardRail platforms opening on 2024-10-31.
 
 Platform | Line | Services
 ---|---|---
-1 | [Southern Line](/rail-lines/shr-southern-line) | services to Bowralerbrug via Sakura Park
-2 | [Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm
-3 | Yuuhi Line, Trunk Line in peak hour | services to Shin-Akiyama
-4 | Yuuhi Line, Trunk Line in peak hour | services to Hazawa via Wakame, services to Port Matsuura via Wakame & Richardsbay Central in peak hour
+1 | [SHR Southern Line](/rail-lines/shr-southern-line) | services to Bowralerbrug via Sakura Park
+2 | [SHR Southern Line](/rail-lines/shr-southern-line) | services to Slime Farm
+3 | RR Yuuhi Line, RR Trunk Line in peak hour | services to Shin-Akiyama
+4 | RR Yuuhi Line, RR Trunk Line in peak hour | services to Hazawa via Wakame, services to Port Matsuura via Wakame & Richardsbay Central in peak hour
