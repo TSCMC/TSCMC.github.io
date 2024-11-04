@@ -27,8 +27,8 @@ serving its western suburbs.
 
 | Station name | Opened | Connections | Locality |
 |:---:|:---:|:---|:---:|
-| [Tahmoor](/rail-stations/tahmoor) | 2024-05-10 | RR Trunk Line | Tahmoor |
-| [Mittagong](/rail-stations/mittagong) | 2024-05-05 | RR Mittagong Peoplemover | Mittagong |
+| [Tahmoor](/rail-stations/tahmoor) | 2024-05-10 | ● RR Trunk Line | Tahmoor |
+| [Mittagong](/rail-stations/mittagong) | 2024-05-05 | ● RR Mittagong Peoplemover | Mittagong |
 | [Newtown](/rail-stations/newtown) | 2024-05-19 | ● [SHR Loop Line](/rail-lines/shr-loop-line) | Newtown |
 | [Bowral](/rail-stations/bowral) | 2024-05-03 | ● [SHR Meadowbank Line](/rail-lines/shr-meadowbank-line) (via [North Bowral](/rail-stations/north-bowral)) | Bowral |
 | [Moss Vale](/rail-stations/moss-vale) | 2024-05-03 | {{ westernmossvale | strip_newlines }} | Moss Vale |
