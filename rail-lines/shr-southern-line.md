@@ -4,6 +4,20 @@ title: Southern Highlands Southern Line
 description: Southern Highlands Railway Southern Metro Line
 ---
 
+{% capture shrsoutherninfo %}
+
+Network | Southern Highlands<br/>Railway
+Line Colour | Name: Pink<br/>Sign: &d<br/>Wool: Pink<br/>HTML: `??`
+First opened | 2024-10-16<br/>(Moss Vale<br/>- Exeter)
+Last extension | 2024-10-28<br/>(Merran Bay<br/>- Slime Farm)
+{% endcapture %}
+{%
+  include infobox.html
+  infoboxid="shrsouthern"
+  infoboxname="Southern Line"
+  infoboxcontent=shrsoutherninfo
+%}
+
 # Southern Line
 
 The Southern Line is a metro rail line of the [Southern Highlands Railway](/rail-networks/shr).

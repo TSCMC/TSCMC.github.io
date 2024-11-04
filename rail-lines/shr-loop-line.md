@@ -4,6 +4,20 @@ title: Southern Highlands Loop Line
 description: Southern Highlands Railway Loop Metro Line
 ---
 
+{% capture shrloopinfo %}
+
+Network | Southern Highlands<br/>Railway
+Line Colour | Name: Light green<br/>Sign: &a<br/>Wool: Light green<br/>HTML: `??`
+First opened | 2024-05-18<br/>(Moss Vale<br/>- Berrima)
+Last extension | 2024-08-12<br/>(New Berrima<br/>- Newtown)
+{% endcapture %}
+{%
+  include infobox.html
+  infoboxid="shrloop"
+  infoboxname="Loop Line"
+  infoboxcontent=shrloopinfo
+%}
+
 # Loop Line
 
 The Loop Line is a metro rail line of the [Southern Highlands Railway](/rail-networks/shr).

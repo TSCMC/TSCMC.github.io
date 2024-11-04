@@ -4,6 +4,20 @@ title: Southern Highlands Meadowbank Line
 description: Southern Highlands Railway Meadowbank Metro Line
 ---
 
+{% capture shrmeadowbankinfo %}
+
+Network | Southern Highlands<br/>Railway
+Line Colour | Name: Aqua<br/>Sign: &b<br/>Wool: Cyan<br/>HTML: `??`
+First opened | 2024-09-26<br/>(Sakura Park<br/>- Meadowbank)
+Last extension | 2024-09-27<br/>(Meadowbank<br/>- Bowralerbrug)
+{% endcapture %}
+{%
+  include infobox.html
+  infoboxid="shrmeadowbank"
+  infoboxname="Meadowbank Line"
+  infoboxcontent=shrmeadowbankinfo
+%}
+
 # Meadowbank Line
 
 The Meadowbank Line is a metro rail line of the [Southern Highlands Railway](/rail-networks/shr).

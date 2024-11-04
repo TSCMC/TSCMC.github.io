@@ -4,6 +4,20 @@ title: Southern Highlands Western Line
 description: Southern Highlands Railway Western Line
 ---
 
+{% capture shrwesterninfo %}
+
+Network | Southern Highlands<br/>Railway
+Line Colour | Name: Gold<br/>Sign: &6<br/>Wool: Yellow<br/>HTML: `FDA928`
+First opened | 2024-05-03<br/>(Moss Vale<br/>- Bowral)
+Last extension | 2024-10-29<br/>(Moss Vale<br/>- Sakurako)
+{% endcapture %}
+{%
+  include infobox.html
+  infoboxid="shrwestern"
+  infoboxname="Western Line"
+  infoboxcontent=shrwesterninfo
+%}
+
 # Western Line
 
 The Western Line is a suburban rail line of the [Southern Highlands Railway](/rail-networks/shr).
