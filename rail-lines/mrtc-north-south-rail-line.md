@@ -40,9 +40,8 @@ connection between Sandy Beach Station and Moss Vale Station was completed and
 operational on 9th May 2024.
 
 The first train from WHY Central officially departed to Bundanoon, the terminus
-at the time, on the same day. At the time, the Cordelia Cross station, formerly
-Camellia Cross station or South Spawn station, was yet to open officially to the
-public, albeit people could already use the station.
+at the time, on the same day. Cordelia Cross station, formerly Camellia Cross
+station or South Spawn station, had been open since 7th May 2024.
 
 ### Shin-Akiyama Authority
 
@@ -88,7 +87,7 @@ completed and operational on 27th May 2024.
 | Ministry of Love | 2024-05-12 | :ewr: MRTC East-West Rail | Villager Breeder | MRTC |
 | [WHY Central](/rail-stations/why-central) | 2024-05-04 | {{ nsrwhycentral | strip_newlines }} | Spawn | MRTC |
 | Sandy Beach | 2024-05-08 | YuiTrans Tenma Line | Sandy Beach | MRTC |
-| Cordelia Cross | 2024-05-23 | [SHR Loop Line](/rail-lines/shr-loop-line) | Cordelia Cross | SHR |
+| Cordelia Cross | 2024-05-07 | [SHR Loop Line](/rail-lines/shr-loop-line) | Cordelia Cross | SHR |
 | [Moss Vale](/rail-stations/moss-vale) | 2024-05-03 | {{ nsrmossvale | strip_newlines }} | Moss Vale | SHR |
 | Bundanoon | 2024-05-06 | RR Yuuhi Line | Bundanoon | SHR |
 | Shin-Akiyama | 2024-05-27 | {{ nsrshinakiyama | strip_newlines }} | Shin-Akiyama | SAA |
