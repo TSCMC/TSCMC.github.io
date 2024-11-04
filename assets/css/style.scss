@@ -150,3 +150,9 @@ footer {
     width:auto;
   }
 }
+
+/* Fix issues with table */
+table {
+  display: block;
+  overflow-x: auto;
+}
