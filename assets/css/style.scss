@@ -122,3 +122,20 @@ img[alt$="<>"] {
   font-size: 1.2em;
   text-align: center;
 }
+
+/* Layout width override */
+.wrapper {
+  width: 900px;
+}
+
+header {
+  width:200px;
+}
+
+section {
+  width:650px;
+}
+
+footer {
+  width:200px;
+}
