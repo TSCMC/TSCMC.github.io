@@ -44,4 +44,4 @@ between Bowralerbrug and Slime Farm which stops at Moss Vale twice.
 | [Meadowbank](/rail-stations/meadowbank) | 2024-09-26 | - | Meadowbank |
 | [North Bowral](/rail-stations/north-bowral) | 2024-09-29 | ● [SHR Western Line](/rail-lines/shr-western-line) (via [Bowral](/rail-stations/bowral)) | North Bowral |
 | [Nether Landing](/rail-stations/nether-landing) | 2024-09-30 | - | Nether Landing |
-| [Bowralerbrug](/rail-stations/bowralerbrug) | 2024-09-29 | MRTC East-West Rail, Volans Minecart Line | Bowralerbrug |
+| [Bowralerbrug](/rail-stations/bowralerbrug) | 2024-09-29 | ● :ewr: MRTC East-West Rail<br/>● :volans: Volans Minecart Line | Bowralerbrug |
