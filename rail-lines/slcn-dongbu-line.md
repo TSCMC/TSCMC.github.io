@@ -24,7 +24,7 @@ English Name | Native Name | Connections | Area
 [<sub>(Kuromagurogatondekuru)</sub> Maguro Lake](/rail-stations/maguro-lake) | <sub>クロマグロがとんでくる</sub>マグロ湖 | | - |
 [Jajak Forest](/rail-stations/jajak-forest) | 자작숲 | | -
 Gonghang-ap | 공항앞 | SR Beta | - |
-Dark Forest | - | | - |
+~~Dark Forest~~<br>(Closed) | - | | - |
 ! | - | | -
 Banho | 반호 | Banho Harbor Line | Banho
 Haedoji Park | 해돋이공원 | | -
