@@ -22,7 +22,7 @@ English Name | Native Name | Connections | Area
 [Sancheonville](/rail-stations/sancheonville) | 산천빌 | [Lacon Sancheonville Line](lcn-sancheonville-line)<br>SR Alpha<br>SR Beta | Sancheonville
 [Stronghold](/rail-stations/stronghold) | - | SR Beta | -
 [<sub>(Kuromagurogatondekuru)</sub> Maguro Lake](/rail-stations/maguro-lake) | <sub>クロマグロがとんでくる</sub>マグロ湖 | | - |
-Jajak Forest | 자작숲 | | -
+[Jajak Forest](/rail-stations/jajak-forest) | 자작숲 | | -
 Gonghang-ap | 공항앞 | SR Beta | - |
 Dark Forest | - | | - |
 ! | - | | -
