@@ -17,3 +17,10 @@ to have been built.
 
 - [Lacon Wye Street](/rail-stations/lcn-wye-street) (Terminal)
 - [Floating Moonlight City](/rail-stations/floating-moonlight-city)
+
+## Future Extension
+
+- Gaung Lahar
+- (Unnamed station)
+- Nozomigaoka
+through-run to [Lacon Main Line](lcn-main-line) toward Kurageshima

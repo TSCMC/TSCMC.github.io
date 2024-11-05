@@ -12,6 +12,13 @@ connecting Spawn and Floating Moonlight City to Lacon Forestry and Lacon's
 industrial district at Kurageshima.<br>
 The line has plans to be extended to Dorokawa Gōryū from the current terminus.
 
+## Operation
+
+Although the line is entirely operated and mostly owned and managed by Lacon, the section from the
+"Welcome to Yayajima" sign to the west of [Yayajima South](/rail-stations/yayajima-south) and up to
+and including the bridge to the north of [Yayajima North](/rail-stations/yayajima-north) is owned
+by the Yayajima City Council, and currently managed by Yayajima High Speed Railway Inc.
+
 ## Stations
 
 - [Lacon Wye Street](/rail-stations/lcn-wye-street) (Terminal)
