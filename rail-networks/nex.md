@@ -13,7 +13,6 @@ server via the nether.
 
 - [Ender Line](/rail-lines/nex-ender-line)
 - [T-Train Line](/rail-lines/nex-t-train-line)
-- Spratly Line (Planned)
 
 ## Shuttle Services
 
