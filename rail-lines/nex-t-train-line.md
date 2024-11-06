@@ -13,9 +13,7 @@ parts of its right of way.
 
 - Dorokawa Goryu (Planned)
 - [Stronghold](/rail-stations/stronghold) (Terminal) (Interchange)
-- [Shulker Farm](/rail-stations/shulker-farm) (Terminal) (Interchange)
-Disjointed Line
-
-- [T-Central](/rail-stations/t-central) (Terminal) (Interchange)
+- [Shulker Farm](/rail-stations/shulker-farm) (Interchange)
+- [T-Central](/rail-stations/t-central) (Interchange)
 - [WHY Central](/rail-stations/why-central) (Interchange)
 - [New Taichung](/rail-stations/new-taichung) (Terminal) (Interchange)
