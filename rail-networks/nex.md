@@ -16,8 +16,8 @@ server via the nether.
 
 ## Shuttle Services
 
-- Witch Farm Shuttle
-- Spider Farm Shuttle
+- [Witch Farm Shuttle](/rail-lines/nex-witch-farm-shuttle)
+- [Spider Farm Shuttle](/rail-lines/nex-spider-farm-shuttle)
 
 ## Other
 
