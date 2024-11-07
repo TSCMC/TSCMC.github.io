@@ -58,29 +58,71 @@ station and Shinonome-Chuo station is currently under construction.
 
 ## Stations
 
+Connecting lines currently under construction or planned are italicized,
+transfer to different station are marked with the :transfer:
+emoji, and connecting line via nether portal are marked with the :nether: emoji.
+
+{% capture nsrtaxevasionchalet %}
+● Crêpobeur Funicular Line<br/>
+● :pfl: <i>[FR Paddy Field Line](/rail-lines/fr-paddy-field-line)</i><br/>
+● :tml: <i>YuiTrans Tenma Line</i>
+{% endcapture %}
+
+{% capture nsrministryoflove %}
+● :ewr: [MRTC East-West Rail](/rail-lines/mrtc-east-west-rail-line)<br/>
+● :tml: <i>YuiTrans Tenma Line</i><br/>
+● :nether: YuiTrans Shin-Tenma Line
+{% endcapture %}
+
 {% capture nsrwhycentral -%}
-● :ewr: MRTC East-West Rail<br/>
+● :ewr: [MRTC East-West Rail](/rail-lines/mrtc-east-west-rail-line)<br/>
 ● :ael: RR Airport Express<br/>
 ● :pfl: [FR Paddy Field Line](/rail-lines/fr-paddy-field-line)<br/>
 ● :volans: Volans Railway Minecart Line<br/>
 ● :tml: YuiTrans Tenma Line<br/>
-● Alhambra Railway Main Line
+● Alhambra Railway Main Line<br/>
+● Spider Farm Shuttle<br/>
+● <i>YJHSR Yayajima Express</i><br/>
+● :transfer::lacon: Lacon Main Line<br/>
+● :transfer::lacon: Shin-Lacon Main Line<br/>
+● :nether: [NEX Ender Line](/rail-lines/nex-ender-line)<br/>
+● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line)<br/>
+● :nether: YuiTrans Shin-Tenma Line
 {%- endcapture %}
+
+{% capture nsrcordeliacross %}
+● [SHR Loop Metro Line](/rail-lines/shr-loop-line)<br/>
+● <i>YuiTrans Mochizuki Line</i><br/>
+● <i>FR Name Pending Line</i>
+{% endcapture %}
 
 {% capture nsrmossvale %}
 ● [SHR Western Line](/rail-lines/shr-western-line)<br/>
-● [SHR Loop Line](/rail-lines/shr-loop-line)<br/>
-● [SHR Meadowbank Line](/rail-lines/shr-meadowbank-line)<br/>
-● [SHR Southern Line](/rail-lines/shr-southern-line)
+● [SHR Loop Metro Line](/rail-lines/shr-loop-line)<br/>
+● [SHR Meadowbank Metro Line](/rail-lines/shr-meadowbank-line)<br/>
+● [SHR Southern Metro Line](/rail-lines/shr-southern-line)<br/>
+● :nether: [NEX Ender Line](/rail-lines/nex-ender-line)
+{% endcapture %}
+
+{% capture nsrbundanoon %}
+● RR Yuuhi Line<br/>
+● <i>YuiTrans LRT Iori Line</i><br/>
+● <i>YuiTrans Mochizuki Line</i><br/>
 {% endcapture %}
 
 {% capture nsrshinakiyama %}
 ● :tml: YuiTrans Tenma Line<br/>
+● <i>YuiTrans Hinomori Line</i><br/>
+● <i>YuiTrans Mochizuki Line</i><br/>
 ● YuiTrans LRT Mio Line<br/>
+● <i>YuiTrans LRT Iori Line</i><br/>
 ● :lacon: [Lacon Industry Line](/rail-lines/lcn-industry-line)<br/>
 ● :pfl: [FR Paddy Field Line](/rail-lines/fr-paddy-field-line)<br/>
 ● RR Yuuhi Line<br/>
-● SR Alpha Line
+● <i>YJHSR Yayajima Express</i><br/>
+● SR Alpha Line<br/>
+● :nether: [NEX Ender Line](/rail-lines/nex-ender-line)<br/>
+● :nether: YuiTrans Shin-Tenma Line
 {% endcapture %}
 
 {% capture nsrshinonomechuo %}
@@ -90,12 +132,12 @@ station and Shinonome-Chuo station is currently under construction.
 
 | Station name | Opened | Connections | Locality | Managed by |
 |:---:|:---:|:---|:---:|:---:|
-| Tax Evasion Chalet | 2024-09-22 | ● Crêpobeur Funicular Line | Tax Evasion Chalet | MRTC |
-| Ministry of Love | 2024-05-12 | ● :ewr: MRTC East-West Rail | Villager Breeder | MRTC |
+| Tax Evasion Chalet | 2024-09-22 | {{ nsrtaxevasionchalet | strip_newlines }} | Tax Evasion Chalet | MRTC |
+| Ministry of Love | 2024-05-12 | {{ nsrministryoflove | strip_newlines }} | Villager Breeder | MRTC |
 | [WHY Central](/rail-stations/why-central) | 2024-05-04 | {{ nsrwhycentral | strip_newlines }} | Spawn | MRTC |
-| Sandy Beach | 2024-05-08 | ● YuiTrans Tenma Line | Sandy Beach | MRTC |
-| Cordelia Cross | 2024-05-07 | ● [SHR Loop Line](/rail-lines/shr-loop-line) | Cordelia Cross | SHR |
+| Sandy Beach | 2024-05-08 | ● :tml: <i>YuiTrans Tenma Line</i> | Sandy Beach | MRTC |
+| Cordelia Cross | 2024-05-07 | {{ nsrcordeliacross | strip_newlines }} | Cordelia Cross | SHR |
 | [Moss Vale](/rail-stations/moss-vale) | 2024-05-03 | {{ nsrmossvale | strip_newlines }} | Moss Vale | SHR |
-| Bundanoon | 2024-05-06 | ● RR Yuuhi Line | Bundanoon | SHR |
+| Bundanoon | 2024-05-06 | {{ nsrbundanoon | strip_newlines }} | Bundanoon | SHR |
 | Shin-Akiyama | 2024-05-27 | {{ nsrshinakiyama | strip_newlines }} | Shin-Akiyama | YuiTrans |
 | Shinonome-Chuo | upcoming | {{ nsrshinonomechuo | strip_newlines}} | Shinonome | FR |
