@@ -47,17 +47,19 @@ There are also additional custom emoji added using
 [imojify](https://github.com/danielthepope/imojify) that you can use on
 the website, those are listed as follow:
 
-|    Code    |                                     Emoji                                          |              Description             |
-|:----------:|:----------------------------------------------------------------------------------:|:-------------------------------------|
-| `:lacon:`  | ![:lacon:](/assets/img/rail-networks/24px/lacon-network-white-background.png)      | Lacon Railway                        |
-| `:volans:` | ![:volans:](/assets/img/rail-networks/24px/volans-railway.png)                     | Volans Railway                       |
-| `:mrtc:`   | ![:mrtc:](/assets/img/rail-networks/24px/mainline-railway-transit-corporation.png) | Mainline Railway Transit Corporation |
-| `:nsr:`    | ![:nsr:](/assets/img/rail-lines/24px/mrtc-north-south-rail.png)                    | MRTC North-South Rail Line           |
-| `:ewr:`    | ![:ewr:](/assets/img/rail-lines/24px/mrtc-east-west-rail.png)                      | MRTC East-West Rail Line             |
-| `:trl:`    | ![:trl:](/assets/img/rail-lines/24px/richardrail-trunk-line.png)                   | RR Trunk Line                        |
-| `:ael:`    | ![:ael:](/assets/img/rail-lines/24px/richardrail-airport-express-line.png)         | RR Airport Express Line              |
-| `:pfl:`    | ![:pfl:](/assets/img/rail-lines/24px/fulahm-railways-paddy-field-line.png)         | FR Paddy Field Line                  |
-| `:tml:`    | ![:tml:](/assets/img/rail-lines/24px/yuitrans-tenma-line.png)                      | YuiTrans Tenma Line                  |
+|     Code     |                                     Emoji                                          |              Description             |
+|:------------:|:----------------------------------------------------------------------------------:|:-------------------------------------|
+| `:lacon:`    | ![:lacon:](/assets/img/rail-networks/24px/lacon-network-white-background.png)      | Lacon Railway                        |
+| `:volans:`   | ![:volans:](/assets/img/rail-networks/24px/volans-railway.png)                     | Volans Railway                       |
+| `:mrtc:`     | ![:mrtc:](/assets/img/rail-networks/24px/mainline-railway-transit-corporation.png) | Mainline Railway Transit Corporation |
+| `:nsr:`      | ![:nsr:](/assets/img/rail-lines/24px/mrtc-north-south-rail.png)                    | MRTC North-South Rail Line           |
+| `:ewr:`      | ![:ewr:](/assets/img/rail-lines/24px/mrtc-east-west-rail.png)                      | MRTC East-West Rail Line             |
+| `:trl:`      | ![:trl:](/assets/img/rail-lines/24px/richardrail-trunk-line.png)                   | RR Trunk Line                        |
+| `:ael:`      | ![:ael:](/assets/img/rail-lines/24px/richardrail-airport-express-line.png)         | RR Airport Express Line              |
+| `:pfl:`      | ![:pfl:](/assets/img/rail-lines/24px/fulahm-railways-paddy-field-line.png)         | FR Paddy Field Line                  |
+| `:tml:`      | ![:tml:](/assets/img/rail-lines/24px/yuitrans-tenma-line.png)                      | YuiTrans Tenma Line                  |
+| `:nether:`   | ![:nether:](/assets/img/marks/24px/nether-portal.png)                              | Icon for station in nether           |
+| `:transfer:` | ![:transfer:](/assets/img/marks/24px/person-transfer.png)                          | Icon for transfer station            |
 
 ### Using image with custom size
 
