@@ -11,8 +11,8 @@ parts of its right of way.
 
 ## Stations
 
-- Dorokawa Goryu (Planned)
-- [Stronghold](/rail-stations/stronghold) (Terminal) (Interchange)
+- [Dorokawa Goryu](/rail-stations/dorokawa-goryu) (Terminal) (Interchange)
+- [Stronghold](/rail-stations/stronghold) (Interchange)
 - [Shulker Farm](/rail-stations/shulker-farm) (Interchange)
 - [T-Central](/rail-stations/t-central) (Interchange)
 - [WHY Central](/rail-stations/why-central) (Interchange)
