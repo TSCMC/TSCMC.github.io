@@ -25,7 +25,7 @@ Central and Stronghold.
 
 ## Former Stations
 
-```caution
+```warning
 These stations are closed and out of service.
 ```
 
