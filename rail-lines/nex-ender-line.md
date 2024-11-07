@@ -20,5 +20,14 @@ Central and Stronghold.
 - [WHY Central](/rail-stations/why-central) (Interchange)
 - [Stronghold](/rail-stations/stronghold) (Interchange)
 - [Guardian Farm](/rail-stations/guardian-farm) (Terminal) (Interchange)
+- New Beijing (Planned)
+- Eastern Shroomlands (Planned)
+
+## Former Stations
+
+```caution
+These stations are closed and out of service.
+```
+
 - ~~[New Taichung Temp](/rail-stations/new-taichung-temp) (Terminal)~~
     ~~(Interchange)~~ Station closed
