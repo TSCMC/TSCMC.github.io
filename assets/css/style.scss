@@ -153,6 +153,12 @@ footer {
   }
 }
 
+/* Link behaviour override */
+a:hover, a:focus {
+  font-weight: inherit;
+  text-decoration: underline;
+}
+
 /* Fix issues with table */
 table {
   display: block;
