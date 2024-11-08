@@ -39,6 +39,7 @@ Information related to the TSC Minecraft server will be written on this website!
 
 ### Rail Stations
 
+{: style="columns:2;-webkit-columns:2;-moz-columns:2;"}
 {% for page in pages -%}
 {% if page.url contains "/rail-stations" -%}
 - [{{page.title}}]({{page.url}})
