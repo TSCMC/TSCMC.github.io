@@ -162,5 +162,8 @@ a:hover, a:focus {
 /* Fix issues with table */
 table {
   display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto 20px auto;
   overflow-x: auto;
 }
