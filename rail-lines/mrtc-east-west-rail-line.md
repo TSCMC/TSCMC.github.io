@@ -82,10 +82,12 @@ Dobrzanka Station on the same day.
 ### Lacon Railway
 
 [Lacon Railway](/rail-networks/lcn) owns and manages a section of MRTC rail that
-is being built as standalone track in a shared right-of-way (ROW) with the
+has been built as standalone tracks in a shared right-of-way (ROW) with the
 existing [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line) and Sancheon
-Rapid Beta Line. This section that goes eastward from Dobrzanka Station is
-currently under construction.
+Rapid Beta Line. The line serves as the local service in the shared section,
+with both the Dongbu Line and SR Beta serving as express.
+<br>Due to the complex operating and management structure of this section, it is
+separately managed by **Dongbuline Management Corp.**, a subsidiary of Lacon.
 
 ## Stations
 
@@ -165,7 +167,7 @@ This train service is run by MRTC.
 {% endcapture %}
 
 {% capture ewrstronghold %}
-● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-main-line)<br/>
+● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)<br/>
 ● :lacon: Sancheon Rapid Beta<br/>
 ● :nether: [NEX Ender Line](/rail-lines/nex-ender-line)<br/>
 ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line)<br/>
@@ -173,13 +175,13 @@ This train service is run by MRTC.
 {% endcapture %}
 
 {% capture ewrgonghangap %}
-● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-main-line)<br/>
+● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)<br/>
 ● :lacon: Sancheon Rapid Beta<br/>
 ● :lacon::airplane: Lacon Airport
 {% endcapture %}
 
 {% capture ewrbanho %}
-● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-main-line)<br/>
+● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)<br/>
 ● :lacon: Banho Harbor Shuttle
 {% endcapture %}
 
@@ -208,11 +210,13 @@ This train service is run by MRTC.
 | *Yayajima Lighthouse* | upcoming | - | Yayajima | YJHSR |
 | Haruyama | 2024-10-07 | ● :lacon: [Lacon Sancheonville Line](/rail-lines/lcn-sancheonville-line) | Haruyama | MRTC |
 | Dobrzanka | 2024-06-17 | ● :lacon: *Sancheon Rapid Alpha Line* | Dobrzanka | DA |
-| *[Stronghold](/rail-stations/stronghold)* | upcoming | {{ ewrstronghold | strip_newlines }} | Stronghold | Lacon |
-| *[Maguro Lake](/rail-stations/maguro-lake)* | upcoming | ● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-main-line) | Maguro Lake | Lacon |
-| *Gonghang-Ap* | upcoming | {{ ewrgonghangap | strip_newlines }} | Lacon Airport | Lacon |
-| *!* | upcoming | ● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-main-line) | Dongbu Line Management Office | Lacon |
-| *Banho* | upcoming | {{ ewrbanho | strip_newlines }} | Banho | Lacon |
+| [Stronghold](/rail-stations/stronghold) | 2024-11-15 | {{ ewrstronghold | strip_newlines }} | Stronghold | Lacon |
+| [Maguro Lake](/rail-stations/maguro-lake) | 2024-11-15 | | Maguro Lake | Dongbuline Management Corp. |
+| Jajak Forest | 2024-11-15 | | - | Dongbuline Management Corp. |
+| Gonghang-Ap | 2024-11-15 | {{ ewrgonghangap | strip_newlines }} | Lacon Airport | Dongbuline Management Corp. |
+| Airport Long-term Parking | 2024-11-15 | | Lacon Airport | Dongbuline Management Corp. |
+| ! | 2024-11-15 | | ! | Dongbuline Management Corp. |
+| Banho | upcoming | {{ ewrbanho | strip_newlines }} | Banho | Dongbuline Management Corp. |
 | *[Name pending]* | upcoming | - | *[Name pending]* | Lacon |
 | *[Guardian Farm](/rail-stations/guardian-farm)* | upcoming | {{ ewrguardianfarm | strip_newlines }} | Guardian Farm | Lacon |
 | *[Name pending]* | upcoming | - | *[Name pending]* (around 3445,-398) | MRTC |

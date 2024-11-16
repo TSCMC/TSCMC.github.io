@@ -6,7 +6,8 @@ description: Maguro Lake
 
 # Maguro Lake
 
-<sub>クロマグロがとんでくる</sub>マグロ湖<br>
+<big><sub>クロマグロがとんでくる</sub>マグロ湖<br>
+Maguro Lake <sub>Where the Bluefin Tuna Comes Flying</sub><br></big>
 Maguro Lake is a small station on the Dongbu Line,
 which serves a small fishing lake of the same name.
 The name was inspired by krnb's "Bluefin Tuna Comes Flying" (linked below).
