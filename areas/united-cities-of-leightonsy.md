@@ -12,7 +12,7 @@ description: Federal Republic of the East
 Authority | Federal Government of the United Cities of Touyou-Leightonsy
 Prime Minister | Lagcom (Acting)
 Official<br/>Languages | English
-Recognized<br/>Languages | Japanese<br/>Korean
+Recognized<br/>Languages | Chinese<br/>Japanese<br/>Korean<br/>Malay
 {% endcapture %}
 {%
   include infobox.html
