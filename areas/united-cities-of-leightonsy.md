@@ -1,15 +1,15 @@
 ---
 layout: default
-title: United Cities of Leightonsy (UCL)
+title: United Cities of Touyou-Leightonsy (UCTL)
 description: Federal Republic of the East
 ---
 
 
 {% capture uclinfo %}
-<big lang="ja">レイテンシー<ruby><rb>合市国</rb><rt>がっしごく</rt></ruby></big><br/>
-<big lang="ko">레이턴시합시국</big><br/>
+<big lang="ja"><ruby><rb>東洋</rb><rt>とうよう</rt>レイテンシー<ruby><rb>合市国</rb><rt>がっしごく</rt></ruby></big><br/>
+<big lang="ko">동양레이턴시합시국</big><br/>
 
-Authority | Federal Government of the United Cities of Leightonsy
+Authority | Federal Government of the United Cities of Touyou-Leightonsy
 Prime Minister | Lagcom (Acting)
 Official<br/>Languages | English
 Recognized<br/>Languages | Japanese<br/>Korean
@@ -17,14 +17,14 @@ Recognized<br/>Languages | Japanese<br/>Korean
 {%
   include infobox.html
   infoboxid="uclbox"
-  infoboxname="United Cities of Leightonsy"
+  infoboxname="United Cities of Touyou-Leightonsy"
   infoboxcontent=uclinfo
 %}
 
 
-# United Cities of Leightonsy
+# United Cities of Touyou-Leightonsy
 
-The United Cities of Leightonsy is a federal republic formed as a union of several
+The United Cities of Touyou-Leightonsy is a federal republic formed as a union of several
 settlements and cities.<br>
 As a federal republic, the cities within its borders act almost like states in other
 federal republics, having vast autonomy and independence from the federal government.<br>
@@ -44,7 +44,7 @@ This is a territory of the republic. Refer to the document for more detail.
 
 ### Sancheonville
 
-This is the second most important city of the republic.<br>
+This is the third most important city of the republic.<br>
 The city was originally a village inhabited by indigenous villagers, until
 Sancheon arrived and converted it into an industrial city with the server's biggest
 cobblestone farm; he is now the mayor of this city.<br>
@@ -78,10 +78,7 @@ Yamamigaoka is technically an independent republic, however, it is practically a
 of the UCL, where the UCL almost administers it as if it was its own territory, laying roads,
 collecting taxes, and managing lighting/spawnproofing infrastructure.
 
-## Alliances
-
 ### [Yayajima](yayajima)
 
-Yayajima has a special relationship with the UCL, sharing many railways and having open immigration
-policies. Although there are no formal established relationships between the two, Yayajima acts as
-if it were a city of the UCL, and may join the UCL in the near future.
+Yayajima is the most developed and second-most important city in the UCTL, with many of the most important railways of the
+UCTL going through Yayajima. Refer to the document for more detail.
