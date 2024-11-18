@@ -10,8 +10,8 @@ description: Corporate City of Lacon
 ![The official logo of Floating Moonlight City<>](/assets/img/areas/fmcity/floatingmoonlight-resize.png
 "The official logo of Floating Moonlight City")
 
-Authority | Floating Moonlight City Hall
-President | Lagcom
+Authority | United Cities of Leightonsy
+Mayor | Lagcom
 Official<br/>Languages | English
 Recognized<br/>Languages | Japanese<br/>Korean
 {% endcapture %}
@@ -30,8 +30,7 @@ Floating Moonlight City is located in Hello Marina Bay, and it is served
 exclusively by Lacon's rail lines. The city is heavily influenced by Lacon,
 so much so that some people say that the city hall is just a Lacon subsidiary in
 disguise.<br>
-The city operates as an independent city-state, with its own legal system
-separate from other entities nearby. <br>
+The city is the capital city of the [United Cities of Leightonsy](united-cities-of-leightonsy). <br>
 The city is sometimes abbreviated as "FM City" or "F.M. City."<br>
 The name comes from Inabakumori's song of the same name, linked below.
 [![Link to Inabakumori's Floating Moonlight City](https://i.ytimg.com/vi/Jhw7Hum-eLw/hq720.jpg)](https://www.youtube.com/watch?v=Jhw7Hum-eLw)
