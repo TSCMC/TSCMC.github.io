@@ -6,7 +6,7 @@ description: Federal Republic of the East
 
 
 {% capture uclinfo %}
-<big lang="ja"><ruby><rb>東洋</rb><rt>とうよう</rt>レイテンシー<ruby><rb>合市国</rb><rt>がっしごく</rt></ruby></big><br/>
+<big lang="ja"><ruby><rb>東洋</rb><rt>とうよう</rt></ruby>レイテンシー<ruby><rb>合市国</rb><rt>がっしごく</rt></ruby></big><br/>
 <big lang="ko">동양레이턴시합시국</big><br/>
 
 Authority | Federal Government of the United Cities of Touyou-Leightonsy
