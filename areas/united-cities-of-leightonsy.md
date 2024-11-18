@@ -12,7 +12,7 @@ description: Federal Republic of the East
 Authority | Federal Government of the United Cities of Touyou-Leightonsy
 Prime Minister | Lagcom (Acting)
 Official<br/>Languages | English
-Recognized<br/>Languages | Chinese<br/>Japanese<br/>Korean<br/>Malay
+Recognized<br/>Languages | Chinese<br/>Japanese<br/>Korean<br/>Malay<br/>Polish
 {% endcapture %}
 {%
   include infobox.html
@@ -82,3 +82,9 @@ collecting taxes, and managing lighting/spawnproofing infrastructure.
 
 Yayajima is the most developed and second-most important city in the UCTL, with many of the most important railways of the
 UCTL going through Yayajima. Refer to the document for more detail.
+
+### Dobrzanka
+
+Dobrzanka is a planned community on an island to the north of Sancheonville.
+The city was planned and constructed by its current mayor, Jakub.
+ 
