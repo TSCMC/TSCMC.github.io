@@ -11,7 +11,7 @@ a neutral, independent territory established by the United Cities to prevent any
 the area as theirs.
 Although it was created by the United Cities, the UCL exerts absolutely no control over the territory.
 <br>The Empress, WHY (aka Yui), only holds a ceremonial role, and the territory is "For everyone, by everone,
-of everyone.
+of everyone."
 
 ## [WHY City](city-of-why)
 
