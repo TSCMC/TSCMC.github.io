@@ -7,7 +7,8 @@ description: A port city to the east
 {% capture banhoinfo %}
 <big lang="ko">반호</big><br/>
 
-Authority | United Cities of Leightonsy
+Country | United Cities of Tōyō-Leightonsy
+Authority | Banho City Hall
 Mayor | Banike Lee
 Official<br/>Languages | English
 Recognized<br/>Languages | Korean

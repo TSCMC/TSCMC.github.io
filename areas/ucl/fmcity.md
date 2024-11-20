@@ -10,7 +10,8 @@ description: Corporate City of Lacon
 ![The official logo of Floating Moonlight City<>](/assets/img/areas/fmcity/floatingmoonlight-resize.png
 "The official logo of Floating Moonlight City")
 
-Authority | United Cities of Leightonsy
+Country | United Cities of Tōyō-Leightonsy
+Authority | Floating Moonlight City Hall
 Mayor | Lagcom
 Official<br/>Languages | English
 Recognized<br/>Languages | Japanese<br/>Korean

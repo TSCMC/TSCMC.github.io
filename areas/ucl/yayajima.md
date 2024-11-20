@@ -14,8 +14,9 @@ description: The Abode of Self-Sufficient Life
 "The official flag banner of Yayajima")
 
 Honorific | The Abode of<br/>Self-Sufficient Life
+Country | United Cities of Tōyō-Leightonsy
 Authority | Yayajima City Council
-President | Yaya MNH48
+Mayor | Yaya MNH48
 Official<br/>Languages | English<br/>Malay
 Recognized<br/>Languages | Japanese<br/>Chinese<br/>Korean
 {% endcapture %}
