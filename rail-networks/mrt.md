@@ -51,10 +51,10 @@ managed by those entities. They were as follow:
 - The Dobrzanka Authority owns and governs MRTC rail in the Dobrzanka region.
 - Fulahm Railways (FR), the rail authority of the Council of Paddy Fields, owns
   and manages MRTC rail in the Shinonome region.
-- [Lacon Railway](/rail-networks/lcn) owns and manages MRTC rail that is being
-  built in a dedicated track under a shared right-of-way (ROW) with the existing
-  [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line) and Sancheon Rapid Beta
-  Line.
+- [Lacon Railway](/rail-networks/lcn) owns MRTC rail that is built as dedicated tracks
+  in a shared right-of-way (ROW) with the [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
+  and Sancheon Rapid Beta Line.<br>This section is managed by the Dongbuline Management Corp.,
+  a subsidiary of Lacon.
 
 ## Lines
 
