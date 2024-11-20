@@ -13,6 +13,7 @@ It was formerly known as Lacon Higashi Line.
 
 ## Stations
 
-- Kurageshima (Terminal)
-- Haruyama
+↑ Through-run to **[Lacon Main Line](lcn-main-line)** toward **[Lacon WHY Central](/rail-stations/lcn-wye-street)** ↑
+- [Kurageshima](/rail-stations/kurageshima)
+- [Haruyama](/rail-stations/haruyama)
 - Sancheonville
