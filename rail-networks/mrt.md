@@ -47,7 +47,7 @@ managed by those entities. They were as follow:
   region.
 - The Yayajima High Speed Rail Incorporated (YJHSR Inc), a subsidiary wholly
   owned by the Yayajima City Council (YJCC), owns and manages MRTC rail in the 
-  [city of Yayajima](/areas/yayajima).
+  [City of Yayajima](/areas/ucl/yayajima).
 - The Dobrzanka Authority owns and governs MRTC rail in the Dobrzanka region.
 - Fulahm Railways (FR), the rail authority of the Council of Paddy Fields, owns
   and manages MRTC rail in the Shinonome region.

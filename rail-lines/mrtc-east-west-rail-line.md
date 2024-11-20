@@ -63,7 +63,7 @@ rail, this branch is wholly operated and managed by RichardRail.
 
 Yayajima High Speed Rail Incorporated (YJHSR Inc), a subsidiary wholly owned by
 the Yayajima City Council (YJCC), owns and manages MRTC rail in the
-[city of Yayajima](/areas/yayajima). The connection between Ministry of Trade
+[City of Yayajima](/areas/ucl/yayajima). The connection between Ministry of Trade
 Station and [Yayajima North Station](/rail-stations/yayajima-north) was
 completed and operational on 8th July 2024. The first train from Ministry of
 Trade Station officially departed to Dobrzanka Station, the terminus of the

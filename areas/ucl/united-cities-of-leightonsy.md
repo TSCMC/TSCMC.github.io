@@ -24,7 +24,8 @@ Recognized<br/>Languages | Chinese<br/>Japanese<br/>Korean<br/>Malay<br/>Polish
 
 # United Cities of Touyou-Leightonsy
 
-The United Cities of Touyou-Leightonsy is a federal republic formed as a union of several
+The **United Cities of Touyou-Leightonsy**, also referred to as the **United Cities**,
+**Tōyō-Leightonsy**, or **UCTL** is a federal republic formed as a union of several
 settlements and cities.<br>
 As a federal republic, the cities within its borders act almost like states in other
 federal republics, having vast autonomy and independence from the federal government.<br>
@@ -64,13 +65,18 @@ The city's development was led by the current mayor, Banike.
 
 This subsidiary of Lacon functions like a local government entity of the republic,
 and it has vast authority over the entire undeveloped area between Banho and Sancheonville,
-including Maguro Lake, Jajak Forest, and !.
+including Maguro Lake, Jajak Forest, and !.<br>
+There are several stations within the area controlled by the LAA, the most important of which,
+[Gonghang-ap](/rail-stations/gonghang-ap), is served by the [SLCN Dongbu Line](/rail-lines/slcn-dongbu-line),
+SR Beta, and [MRTC East-West Rail](/rail-lines/mrtc-east-west-rail-line).
 
 ### Far East Territories
 
 The Far East Territories is a vague territorial claim to the east of Banho. It theoretically
 includes many localities such as Hartmann's Youkai Forest and the Iwashi Valley, but its bounds
-are unclear.
+are unclear.<br>
+The Far East Territories is served by the Dongbu Line, and development mostly happens around
+the railway.
 
 ### Republic of Yamamigaoka
 
@@ -83,8 +89,23 @@ collecting taxes, and managing lighting/spawnproofing infrastructure.
 Yayajima is the most developed and second-most important city in the UCTL, with many of the most important railways of the
 UCTL going through Yayajima. Refer to the document for more detail.
 
+### Gaung Lahar Territory
+
+The Gaung Lahar Territory is located to the west of Yayajima, and it is administered by Yayajima as its periphery.
+Sections of Gaung Lahar may be annexed into Yayajima as the territory gets developed.<br>
+The territory doesn't have any railway stations, but the [East-West Rail](/rail-lines/mrtc-east-west-rail-line) goes through the territory,
+and has a future planned station within the territory. This station will be a transfer with the [Shin-Lacon Main Line](/rail-lines/slcn-main-line)
+when that line gets extended to the north from its current terminus.
+
 ### Dobrzanka
 
 Dobrzanka is a planned community on an island to the north of Sancheonville.
-The city was planned and constructed by its current mayor, Jakub.
- 
+The city was planned and constructed by its current mayor, Jakub.<br>
+The city has a single railway station underground beneath the Dobrzanka Tower,
+served by the [MRTC East-West Rail](/rail-lines/mrtc-east-west-rail-line).
+
+### Haruyama
+
+This is an undeveloped hilly plains area to the north of Dobrzanka. It is home to Haruyama station,
+where the [MRTC East-West Rail](/rail-lines/mrtc-east-west-rail-line) and the
+[Lacon Sancheonville Line](/rail-lines/lcn-sancheonville-line) intersect.

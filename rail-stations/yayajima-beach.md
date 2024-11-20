@@ -6,7 +6,7 @@ description: Yayajima Beach
 
 # Yayajima Beach
 
-Yayajima Beach station is on the southern tip of [Yayajima](/areas/yayajima),
+Yayajima Beach station is on the southern tip of [Yayajima](/areas/ucl/yayajima),
 and it serves the sandy shores of the island.<br>
 This station offers out-of-station transfers to
 [Yayajima South](yayajima-south) station.

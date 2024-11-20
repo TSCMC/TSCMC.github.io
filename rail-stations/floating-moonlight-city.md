@@ -9,7 +9,7 @@ description: Floating Moonlight City Stations
 There are two stations named Floating Moonlight City,<br>
 one called **Lacon Floating Moonlight City**, and another one called
 **Shin-Lacon Floating Moonlight City**.<br>
-They are both located in [Floating Moonlight City](/areas/fmcity), 2 blocks away
+They are both located in [Floating Moonlight City](/areas/ucl/fmcity), 2 blocks away
 from each other.<br>
 However, the older Lacon Floating Moonlight City is often just called Floating Moonlight
 City without the *Lacon* attached.
