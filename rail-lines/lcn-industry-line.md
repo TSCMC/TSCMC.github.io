@@ -15,6 +15,7 @@ It was formerly known as Lacon Minami Line.
 
 ## Stations
 
+↑ Through-run to **Lacon Main Line** and **Shin-Lacon Dongbu Line** toward **Kurageshima** and **Iwashi Valley** ↑
 - [Floating Moonlight City](/rail-stations/floating-moonlight-city) (Terminal)
 - [T-Central](/rail-stations/t-central)
 - [Shin-Akiyama](/rail-stations/shin-akiyama)
@@ -22,4 +23,4 @@ It was formerly known as Lacon Minami Line.
 - [Slime Farm](/rail-stations/slime-farm)
 - Sand Duper
 - Yamamigaoka
-- ~~Witch Farm~~ (under construction)
+- Witch Farm
