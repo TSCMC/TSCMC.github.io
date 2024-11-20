@@ -9,7 +9,7 @@ description: WHY Central Base Station
 WHY Central Base station is the connection point for NEX Spider Farm Shuttle.
 Transfers with other networks are available through
 [WHY Central station](/rail-stations/why-central) and
-[Lacon Wye St.](/rail-stations/lcn-wye-street) Stations.
+[Lacon WHY Central](/rail-stations/lcn-wye-street) Stations.
 
 ## Lines
 

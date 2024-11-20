@@ -18,4 +18,4 @@ meant to be borrowed from the Commune instead of being outright taken.
 
 - [WHY Central](/rail-stations/why-central)
 - [WHY Central Base](/rail-stations/why-central-base)
-- [Lacon Wye Street](/rail-stations/lcn-wye-street)
+- [Lacon WHY Central](/rail-stations/lcn-wye-street)

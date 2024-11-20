@@ -15,7 +15,7 @@ to have been built.
 
 ## Stations
 
-- [Lacon Wye Street](/rail-stations/lcn-wye-street) (Terminal)
+- [Lacon WHY Central](/rail-stations/lcn-wye-street) (Terminal)
 - [Floating Moonlight City](/rail-stations/floating-moonlight-city)
 
 ## Future Extension

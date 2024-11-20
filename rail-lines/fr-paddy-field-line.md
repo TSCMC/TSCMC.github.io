@@ -13,7 +13,7 @@ The Paddy Field Line is the longest, and presently (only) intercity railway oper
 English Name | Native Name | Connections | Area
 --- | --- | --- | ---
 [Crepoville](/rail-stations/crepoville) | - | [North-South Rail](/rail-lines/mrtc-north-south-rail-line)<br>YuiTrans Tenma Line<br>Crepobeur Funicular<br> | Tax Evasion Chalet
-[WHY Central](/rail-stations/why-central) | - | [North-South Rail](/rail-lines/mrtc-north-south-rail-line)<br>East West Rail<br>YuiTrans Tenma Line<br>RichardRail Airport Express<br>Volans Railway<br>Alhambra Railways Main Line<br>[Lacon Wye Street](/rail-stations/lcn-wye-street) (OOS)<br> [WHY-Central Base](/rail-stations/why-central-base) (OOS)| Spawn
+[WHY Central](/rail-stations/why-central) | - | [North-South Rail](/rail-lines/mrtc-north-south-rail-line)<br>East West Rail<br>YuiTrans Tenma Line<br>RichardRail Airport Express<br>Volans Railway<br>Alhambra Railways Main Line<br>[Lacon WHY Central](/rail-stations/lcn-wye-street) (OOS)<br>[WHY-Central Base](/rail-stations/why-central-base) (OOS)| Spawn
 [Sakurako](/rail-stations/sakurako) | - | [Western Line](shr-western-line)<br> YuiTrans Tenma Line<br> | Sakurako
 Shin-Akiyama Tunnel | - | - | Shin-Akiyama
 [Shin-Akiyama](/rail-stations/shin-akiyama) | - | YuiTrans Tenma Line<br> YuiTrans Mio Line<br> [North-South Rail](/rail-lines/mrtc-north-south-rail-line)<br> RichardRail Yuuhi Line<br> Lacon Industry Line<br> SR Alpha<br> Shin-Akiyama Gateway (OOS) | Shin-Akiyama
