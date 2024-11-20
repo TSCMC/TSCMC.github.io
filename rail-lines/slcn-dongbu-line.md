@@ -24,12 +24,12 @@ the Dongbuline Management Corp. which is a subsidiary Lacon.
 
 English Name | Native Name | Connections | Area
 --- | --- | --- | ---
-[Floating Moonlight City](/rail-stations/floating-moonlight-city) | 富裕月光街 | [Lacon Main Line](lcn-main-line) (Thru-run)<br>[Lacon Industry Line](lcn-industry-line) (Thru-run)<br>[Shin-Lacon Main Line](slcn-main-line) (OOS)<br>[Shin-Lacon Seobu Line](slcn-seobu-line) (OOS) | [Floating Moonlight City](/areas/fmcity)
-[Yayajima Beach](/rail-stations/yayajima-beach) | - | [Shin-Lacon Seobu Line](slcn-seobu-line) (Thru-run)<br>[Lacon Main Line](lcn-main-line) (OOS) | [Yayajima](/areas/yayajima)
+[Floating Moonlight City](/rail-stations/floating-moonlight-city) | 富裕月光街 | [Lacon Main Line](lcn-main-line) (Thru-run)<br>[Lacon Industry Line](lcn-industry-line) (Thru-run)<br>[Shin-Lacon Main Line](slcn-main-line) (OOS)<br>[Shin-Lacon Seobu Line](slcn-seobu-line) (OOS) | [Floating Moonlight City](/areas/ucl/fmcity)
+[Yayajima Beach](/rail-stations/yayajima-beach) | - | [Shin-Lacon Seobu Line](slcn-seobu-line) (Thru-run)<br>[Lacon Main Line](lcn-main-line) (OOS) | [Yayajima](/areas/ucl/yayajima)
 [Sancheonville](/rail-stations/sancheonville) | 산천빌 | [Lacon Sancheonville Line](lcn-sancheonville-line)<br>SR Alpha<br>SR Beta | Sancheonville
 [Stronghold](/rail-stations/stronghold) | - | SR Beta<br>[East-West Rail](mrtc-east-west-rail-line) | -
 Gonghang-ap | 공항앞 | SR Beta<br>[East-West Rail](mrtc-east-west-rail-line) | Lacon Airport
-Banho | 반호 | Banho Harbor Line<br>[East-West Rail](mrtc-east-west-rail-line) | Banho
+Banho | 반호 | Banho Harbor Line<br>[East-West Rail](mrtc-east-west-rail-line) | [Banho](/areas/ucl/banho)
 Haedoji Park | 해돋이공원 | | -
 Hartmann's Youkai Jungle | ハルトマンの妖怪ジャングル | - | -
 Iwashi Valley | イワシ谷 | - | -

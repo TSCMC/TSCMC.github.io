@@ -54,12 +54,13 @@ stronghold area and the entire island that the city is situated on.<br>
 The city is served by five rail lines and a small funicular that connects the lower
 section to the main downtown.
 
-### Banho
+### [Banho](banho)
 
 This is a port city in the east of the republic situated on the Bay of Banho,
 it mainly facilitates trade to New Shanghai, but there are plans for canals
 and shipping tunnels to facilitate trade to other areas.<br>
 The city's development was led by the current mayor, Banike.
+<br>Refer to the document for more detail.
 
 ### Lacon Airport Authority
 
