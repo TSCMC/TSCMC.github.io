@@ -32,3 +32,4 @@ Gonghang-ap | 공항앞 | SR Beta<br>[East-West Rail](mrtc-east-west-rail-line) 
 Banho | 반호 | Banho Harbor Line<br>[East-West Rail](mrtc-east-west-rail-line) | Banho
 Haedoji Park | 해돋이공원 | | -
 Hartmann's Youkai Jungle | ハルトマンの妖怪ジャングル | - | -
+Iwashi Valley | イワシ谷 | - | -
