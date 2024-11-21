@@ -6,7 +6,7 @@ description: Capital of the Central Union of Maritime States
 {% capture nbjinfo %}
 <big lang="zh"><ruby><rb>新北京</rb>
 
-Country | Central Union of Maritim States
+Country | Central Union of Maritime States
 State | New Beijing
 Authority | New Beijing State Government
 Governor | Not-EcoPaw
