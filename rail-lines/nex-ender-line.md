@@ -19,8 +19,8 @@ Central and Stronghold.
 - [Southern Highlands](/rail-stations/southern-highlands) (Interchange)
 - [WHY Central](/rail-stations/why-central) (Interchange)
 - [Stronghold](/rail-stations/stronghold) (Interchange)
-- [Guardian Farm](/rail-stations/guardian-farm) (Terminal) (Interchange)
-- New Beijing (Planned)
+- [Guardian Farm](/rail-stations/guardian-farm) (Interchange)
+- [New Beijing](/rail-stations/new-beijing) (Terminal) (Interchange)
 - Eastern Shroomlands (Planned)
 
 ## Former Stations
