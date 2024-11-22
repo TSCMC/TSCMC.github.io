@@ -1,0 +1,73 @@
+/* CSS for multilingual single pages */
+div:lang(en), div:lang(en-US), div:lang(en-GB),
+div:lang(en-AU), div:lang(en-MY), div:lang(en-SG) {
+  display: inherit;
+}
+
+div:lang(ms), div:lang(ms-Latn), div:lang(ms-MY),
+div:lang(ms-BN), div:lang(ms-SG),
+div:lang(zlm), div:lang(zlm-Latn), div:lang(zlm-MY),
+div:lang(zlm-BN), div:lang(zlm-SG) {
+  display: none;
+}
+
+div:lang(ms-Arab), div:lang(ms-Arab-MY), div:lang(ms-Arab-BN),
+div:lang(zlm-Arab), div:lang(zlm-Arab-MY), div:lang(zlm-Arab-BN) {
+  display: none;
+}
+
+div:lang(ar) {
+  display: none;
+}
+
+div:lang(ja), div:lang(ja-JP) {
+  display: none;
+}
+
+div:lang(zh), div:lang(zh-MY), div:lang(zh-Hans-MY), div:lang(zh-Hant-MY) {
+  display: none;
+}
+
+div:lang(zh-CN), div:lang(zh-Hans) {
+  display: none;
+}
+
+div:lang(zh-TW), div:lang(zh-HK), div:lang(zh-MO), div:lang(zh-Hant) {
+  display: none;
+}
+
+div:lang(ko), div:lang(ko-KR) {
+  display: none;
+}
+
+#languageselection {
+  text-align: center;
+}
+
+.button-en,.button-ms,.button-ms-Arab,.button-ar,.button-ja,
+.button-ko,.button-zh,.button-zh-Hans,.button-zh-Hant {
+    background-color: #ecf0f1;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #727272;
+    color: #727272;
+    text-decoration: none;
+    text-align: center;
+    height: 20px;
+    width: 120px;
+    padding: 10px 5px;
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
+.button-en:hover,.button-en:active,.button-ms:hover,.button-ms:active,
+.button-ms-Arab:hover,.button-ms-Arab:active,.button-ar:hover,.button-ar:active,
+.button-ko:hover,.button-ko:active,.button-ja:hover,.button-ja:active,
+.button-zh:hover,.button-zh:active,.button-zh-Hans:hover,.button-zh-Hans:active,
+.button-zh-Hant:hover,.button-zh-Hant:active {
+    background-color: #85c1e9;
+    text-decoration: none;
+}
