@@ -82,7 +82,7 @@ the railway.
 ### Republic of Yamamigaoka
 
 Yamamigaoka is technically an independent republic, however, it is practically a puppet state
-of the UCL, where the UCL almost administers it as if it was its own territory, laying roads,
+of the UCTL, where the UCTL almost administers it as if it was its own territory, laying roads,
 collecting taxes, and managing lighting/spawnproofing infrastructure.
 
 ### [Yayajima](yayajima)
