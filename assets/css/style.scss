@@ -4,12 +4,23 @@
 @import "{{ site.theme }}";
 @import "admonitions";
 @import url('https://fonts.googleapis.com/css2?family=Mada:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Mada:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@300&display=swap');
 
 /* Set font for Jawi and Arabic */
 *:lang(ms-Arab),*:lang(ar) {
   font-family: "Mada", "Noto Sans", sans-serif;
-  font-size: 1.175em;
   direction: rtl;
+}
+
+/* Set font for Japanese */
+*:lang(ja),*:lang(ja-JP) {
+  font-family: "M PLUS Rounded 1c", "Noto Sans", sans-serif;
+}
+
+/* Set font for Korean */
+*:lang(ko),*:lang(ko-KR) {
+  font-family: "Sunflower", "Noto Sans", sans-serif;
 }
 
 /* Align float for images */
