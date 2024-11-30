@@ -2,23 +2,58 @@
 layout: default
 title: Yayajima
 description: The Abode of Self-Sufficient Life
+multilingual: en, ms, ms-Arab
 ---
 
 ![The promotional banner of yayajima <>](/assets/img/areas/yayajima/header.png
 "The promotional banner of Yayajima")
 
 {% capture yayajimainfo %}
+<div lang="en" markdown="1">
+
 <big lang="ja">やや<ruby><rb>島</rb><rt>じま</rt></ruby></big><br/>
 <big lang="ms-Arab">ياياجيما</big><br/>
 ![The official flag banner of Yayajima <>](/assets/img/areas/yayajima/banner.png
 "The official flag banner of Yayajima")
 
 Honorific | The Abode of<br/>Self-Sufficient Life
-Country | United Cities of Tōyō-Leightonsy
+Country | United Cities of<br/>Touyou-Leightonsy
 Authority | Yayajima City Council
 Mayor | Yaya MNH48
 Official<br/>Languages | English<br/>Malay
 Recognized<br/>Languages | Japanese<br/>Chinese<br/>Korean
+
+</div>
+<div lang="ms" markdown="1">
+
+<big lang="ja">やや<ruby><rb>島</rb><rt>じま</rt></ruby></big><br/>
+<big lang="ms-Arab">ياياجيما</big><br/>
+![Panji-panji rasmi Yayajima <>](/assets/img/areas/yayajima/banner.png
+"Panji-panji rasmi Yayajima")
+
+Gelaran | Darul Hidup Mampu Diri
+Negara | Persekutuan Bandaraya<br/>Touyou-Leightonsy
+Pihak Berkuasa | Majlis Bandaraya Yayajima
+Datuk Bandar | Yaya MNH48
+Bahasa Rasmi | Bahasa Inggeris<br/>Bahasa Melayu
+Bahasa Dikenali | Bahasa Jepun<br/>Bahasa Cina<br/>Bahasa Korea
+
+</div>
+<div lang="ms-Arab" markdown="1">
+
+<big lang="ja">やや<ruby><rb>島</rb><rt>じま</rt></ruby></big><br/>
+<big lang="ms-Arab">ياياجيما</big><br/>
+![ڤنجي٢ رسمي ياياجيما <>](/assets/img/areas/yayajima/banner.png
+"ڤنجي٢ رسمي ياياجيما")
+
+ݢلرن | دار الهيدوڤ ممڤو ديري
+نݢارا | ڤرسکوتوان بندراي<br/>توٚٓيوٚٓ-ليٚئيتنسي
+ڤيهق برکواس | مجليس بندراي ياياجيما
+داتوٴ بندر | Yaya MNH48
+بهاس رسمي | بهاس ايڠݢريس<br/>بهاس ملايو
+بهاس دکنلي | بهاس جڤون<br/>بهاس چينا<br/>بهاس کوريا
+
+</div>
 {% endcapture %}
 {%
   include infobox.html
@@ -27,42 +62,19 @@ Recognized<br/>Languages | Japanese<br/>Chinese<br/>Korean
   infoboxcontent=yayajimainfo
 %}
 
+<div lang="en" markdown="1">
+
 # Yayajima
 
 Yayajima is an island city located to the northeast from spawn that is developed
 by the Yayajima City Council headed by Yasuyoshi Yatsuko, otherwise known as
 Yaya <ruby>MNH48<rt>menechiyoppa</rt></ruby>.
-{: style="text-align:justify;"}
-
-*Yayajima ialah sebuah bandar raya pulau yang terletak di bahagian timur laut
-titik jelma yang dibangunkan oleh Dewan Bandaraya Yayajima yang diketuai oleh
-Yasuyoshi Yatsuko, juga dikenali sebagai Yaya <ruby>MNH48<rt>menechiyoppa</rt>
-</ruby>.*
-{: lang="ms" style="text-align:justify;"}
-
-ياياجيما اياله سبواه باندر راي ڤولاو يڠ ترلتق دبهاݢين تيمور لاٴوت تيتيق جلما يڠ
-دباڠونکن اوليه ديوان باندراي ياياجيما يڠ دکتواٴي اوليه ياسويوشي ياثوکو⹁ جوݢ
-دکنلي سباݢاي <span lang="ms"><ruby>Yaya MNH48<rt lang="ms-Arab"
-style="font-size:50%; margin-bottom:-1em;margin-top:1.5em;">يايا مينيچي‌يوٴڤا
-</rt></ruby>.
-{: lang="ms-Arab" style="text-align:justify;"}
 
 ## Languages
 
 The island city uses two official languages: English and Malay, with optional
 languages of Japanese, Chinese, and Korean. Whenever possible, the Malay signage
 in the city will include both Rumi (Latin) script and Jawi (Arabic) script.
-
-*Bandar raya pulau ini mengguna pakai dua bahasa rasmi: bahasa Inggeris dan
-bahasa Melayu, dengan bahasa pilihan tambahannya bahasa Jepun, bahasa Cina, dan
-bahasa Korea. Apabila boleh, papan tanda bahasa Melayu di bandar raya ini akan
-ditulis dengan kedua-dua tulisan Rumi dan Jawi.*
-{: lang="ms" style="text-align:justify;"}
-
-باندر راي ڤولاو اين مڠݢونا ڤاکاي دوا بهاس رسمي: بهاس ايڠݢريس دان بهاس ملايو⹁
-دڠن بهاس ڤيليهن تمبهنڽ بهاس جڤون⹁ بهاس چينا⹁ دان بهاس کوريا. اڤابيلا بوليه⹁ ڤاڤن
-تندا بهاس ملايو دباندر راي اين اکن دتوليس دڠن کدوا-دوا توليسن رومي دان جاوي.
-{: lang="ms-Arab" style="text-align:justify;"}
 
 ## Mainline Railway Stations in Yayajima
 
@@ -88,3 +100,92 @@ ditulis dengan kedua-dua tulisan Rumi dan Jawi.*
 - Spooky Pumpkin (for farmer harvesting the pumpkins)
 - Suisei Kawaii (for farmer harvesting watermelon)
 - Yayajima South (interchange to mainline railway and metro)
+
+</div>
+
+<div lang="ms" markdown="1">
+
+# Yayajima
+
+Yayajima ialah sebuah bandar raya pulau yang terletak di bahagian timur laut
+titik jelma yang dibangunkan oleh Dewan Bandaraya Yayajima yang diketuai oleh
+Yasuyoshi Yatsuko, juga dikenali sebagai Yaya <ruby>MNH48<rt>menechiyoppa</rt>
+</ruby>.
+
+## Bahasa
+
+Bandar raya pulau ini mengguna pakai dua bahasa rasmi: bahasa Inggeris dan
+bahasa Melayu, dengan bahasa pilihan tambahannya bahasa Jepun, bahasa Cina, dan
+bahasa Korea. Apabila boleh, papan tanda bahasa Melayu di bandar raya ini akan
+ditulis dengan kedua-dua tulisan Rumi dan Jawi.
+
+## Stesen Keretapi Jajaran Utama di Yayajima
+
+- Lapangan Terbang Yayajima (sedang dibina)
+- :lacon: [Pantai Yayajima](/rail-stations/yayajima-beach)
+- :ewr: Rumah Api Yayajima (sedang dibina)
+- :lacon::ewr: [Yayajima Utara](/rail-stations/yayajima-north)
+- :lacon: [Yayajima Selatan](/rail-stations/yayajima-south)
+
+## Stesen Keretapi Bandar di Yayajima (sedang dibina)
+
+- Lapangan Terbang Yayajima (pertukaran ke laluan kereta api jajaran utama)
+- Yayajima Utara (pertukaran ke laluan kereta api jajaran utama)
+- Yayajima Selatan (pertukaran ke laluan kereta api jajaran utama dan trem)
+
+## Hentian Trem di Yayajima (sedang dibina)
+
+- Riang Ria Ubi Bit (untuk petani menuai ubi bit)
+- Beri Bagus (untuk petani menuai beri)
+- Birah Tak Berurat (untuk petani menuai kentang)
+- Mugibatake-mae (untuk petani menuai gandum)
+- Pekopekora (untuk petani menuai lobak merah)
+- Labu Menakutkan (untuk petani menuai labu)
+- Suisei Kawaii (untuk petani menuai tembikai)
+- Yayajima Selatan (pertukaran ke laluan kereta api bandar dan jajaran utama)
+
+</div>
+
+<div lang="ms-Arab" markdown="1">
+
+# ياياجيما
+
+ياياجيما اياله سبواه باندر راي ڤولاو يڠ ترلتق دبهاݢين تيمور لاٴوت تيتيق جلما يڠ
+دباڠونکن اوليه ديوان بندراي ياياجيما يڠ دکتواٴي اوليه ياسويوشي ياثوکو⹁ جوݢ
+دکنلي سباݢاي <span lang="ms"><ruby>Yaya MNH48<rt lang="ms-Arab"
+style="font-size:50%; margin-bottom:-1em;margin-top:1.5em;">يايا مينيچي‌يوٴڤا
+</rt></ruby>.
+
+## بهاس
+
+باندر راي ڤولاو اين مڠݢونا ڤاکاي دوا بهاس رسمي: بهاس ايڠݢريس دان بهاس ملايو⹁
+دڠن بهاس ڤيليهن تمبهنڽ بهاس جڤون⹁ بهاس چينا⹁ دان بهاس کوريا. اڤابيلا بوليه⹁ ڤاڤن
+تندا بهاس ملايو دباندر راي اين اکن دتوليس دڠن کدوا-دوا توليسن رومي دان جاوي.
+{: lang="ms-Arab" style="text-align:justify;"}
+
+## ستيسين کريتاڤي جاجرن اوتام دياياجيما
+
+- لاڤڠن تربڠ ياياجيما (سدڠ دبينا)
+- :lacon: [ڤنتاي ياياجيما](/rail-stations/yayajima-beach)
+- :ewr: رومه اڤي ياياجيما (سدڠ دبينا)
+- :lacon::ewr: [ياياجيما اوتارا](/rail-stations/yayajima-north)
+- :lacon: [ياياجيما سلاتن](/rail-stations/yayajima-south)
+
+## ستيسين کريتاڤي بندر دياياجيما (سدڠ دبينا)
+
+- لاڤڠن تربڠ ياياجيما (ڤرتوکرن کلالوان کريتا اڤي جاجرن اوتام)
+- ياياجيما اوتارا (ڤرتوکرن کلالوان کريتا اڤي جاجرن اوتام)
+- ياياجيما سلاتن (ڤرتوکرن کلالوان کريتا اڤي جاجرن اوتام دان تريم)
+
+## هنتين تريم دياياجيما (سدڠ دبينا)
+
+- رياڠ ريا اوبي بيت (اونتوق ڤتاني منواي اوبي بيت)
+- بيري باݢوس (اونتوق ڤتاني منواي بيري)
+- بيره تق براورت (اونتوق ڤتاني منواي کنتڠ)
+- موݢيباتاکيٚ-ماٴيٚ (اونتوق ڤتاني منواي ݢندوم)
+- ڤيٚکوٚڤيٚکوٚرا (اونتوق ڤتاني منواي لوبق ميره)
+- لابو مناکوتکن (اونتوق ڤتاني منواي لابو)
+- سوٴيسيٚئي کاواٴيئي (اونتوق ڤتاني منواي تمبيکاي)
+- ياياجيما سلاتن (ڤرتوکرن کلالوان کريتا اڤي باندر دان جاجرن اوتام)
+
+</div>

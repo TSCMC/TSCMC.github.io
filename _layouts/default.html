@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/fontawesome.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/fontawesomesolid.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% if page.multilingual %}<link rel="stylesheet" href="{{ "/assets/css/langsel.css?v=" | append: site.github.build_revision | relative_url }}">{% endif %}
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -27,6 +28,40 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
       <section>
+      {% if page.multilingual %}
+      {% assign individuallanguage = page.multilingual | split: ", " %}
+        <div id="languageselection">
+        {% for indlang in individuallanguage %}
+        <a
+          href="#"
+          id="button-{{indlang}}"
+          class="button-{{indlang}}"
+          lang="{{indlang}}"
+          onclick="toggleLanguage('{{indlang}}');return false;">
+        {% case indlang %}
+          {% when "en" %}
+            English
+          {% when "ms" %}
+            Bahasa Melayu
+          {% when "ms-Arab" %}
+            بهاس ملايو
+          {% when "ja" %}
+            日本語
+          {% when "zh" %}
+            中文
+          {% when "zh-Hans" %}
+            简体中文
+          {% when "zh-Hant" %}
+            繁體中文
+          {% when "ko" %}
+            한국어
+          {% when "ar" %}
+            العربية
+        {% endcase %}
+        </a>
+        {% endfor %}
+        </div>
+      {% endif %}
       {% capture content %}{% include admonitions.liquid html=content %}{% endcapture %}
       {{ content }}
       </section>
@@ -55,5 +90,42 @@
     <script>
       imojify('body');
     </script>
+    {% if page.multilingual %}
+    <script>
+      function toggleLanguage(langid) {
+        var alldiv = document.getElementsByTagName("div");
+        for (let i = 0; i < alldiv.length; i++) {
+          var curdiv = alldiv[i];
+          if (curdiv.hasAttribute("lang")) {
+            if (curdiv.getAttributeNode("lang").value == langid)
+              curdiv.style.display = "inherit";
+            else
+              curdiv.style.display = "none";
+          }
+        }
+        var allinfobox = document.getElementsByClassName("infobox");
+        if (allinfobox.length>0){
+          var allbody = document.getElementsByTagName("body");
+          if (langid == "ms-Arab" || langid == "ar") {
+            for (let i = 0; i < allinfobox.length; i++) {
+              allinfobox[i].style.float = "left";
+              allinfobox[i].setAttribute("dir", "rtl");
+            }
+            for (let i = 0; i < allbody.length; i++) {
+              allbody[i].style.fontSize = "16px";
+            }
+          } else {
+            for (let i = 0; i < allinfobox.length; i++) {
+              allinfobox[i].style.float = "right";
+              allinfobox[i].removeAttribute("dir");
+            }
+            for (let i = 0; i < allbody.length; i++) {
+              allbody[i].style.fontSize = "14px";
+            }
+          }
+        }
+      }
+    </script>
+    {% endif %}
   </body>
 </html>
