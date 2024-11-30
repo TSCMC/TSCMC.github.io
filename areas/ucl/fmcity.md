@@ -71,10 +71,11 @@ to the south.<br>
 Being the first building constructed in Floating Moonlight City, this building currently serves
 as storage in the east wing and houses the super smelter in the west wing. The main wing is part
 of Lacon Floating Moonlight City station.<br><br>
-In November 10, 2024, the Super Smelter in the west wing of the building was declared broken with
+On November 10, 2024, the Super Smelter in the west wing of the building was declared broken with
 no intent to repair. It was slowly decommissioned as its parts were salvaged for other projects.
 It has since been superceded by the Communal Super Smelter in WHY Central, and the Lacon ULTRA
-SMELTER in Kurageshima.
+SMELTER in Kurageshima.<br>
+The super smelter was completely demolished in November 30 to give way to the planned City Hall.
 
 ### Lacon Tower
 
