@@ -20,7 +20,7 @@ Official<br/>Languages | English
 Recognized<br/>Languages | Japanese<br/>Korean
 
 </div>
-<div lang="kr" markdown="1">
+<div lang="ko" markdown="1">
 
 <big lang="ko">부유월광가</big><br/>
 <big lang="ja"><ruby><rb>富裕月光街</rb><rt>ふゆうげっこうがい</rt></ruby></big><br/>
