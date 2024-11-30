@@ -31,7 +31,7 @@ Recognized<br/>Languages | Japanese<br/>Korean
 정부 | 부유월광가 시청
 시장 | 래깅
 공식 언어 | 영어
-사용 언어 | 한국어</br>일본어
+사용 언어 | 한국어<br/>일본어
 
 {% endcapture %}
 {%
