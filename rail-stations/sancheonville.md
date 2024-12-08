@@ -8,8 +8,7 @@ description: Sancheonville
 
 Sancheonville station is on the Northern edge of Sancheonville,
 next to Sancheon's home.<br>
-This station offers cross-platform interchanges
-between Shin-Lacon Dongbu Line and SR Alpha.
+This station facilitates through-running between SR Alpha and SR Beta.
 
 ## Platform Structure
 
