@@ -20,8 +20,8 @@ Central and Stronghold.
 - [WHY Central](/rail-stations/why-central) (Interchange)
 - [Stronghold](/rail-stations/stronghold) (Interchange)
 - [Guardian Farm](/rail-stations/guardian-farm) (Interchange)
-- [New Beijing](/rail-stations/new-beijing) (Terminal) (Interchange)
-- Eastern Shroomlands (Planned)
+- [New Beijing](/rail-stations/new-beijing) (Interchange)
+- [Eastern Shroomland](/rail-stations/eastern-shroomland) (Terminal)
 
 ## Former Stations
 
