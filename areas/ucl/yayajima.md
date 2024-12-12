@@ -94,12 +94,22 @@ in the city will include both Rumi (Latin) script and Jawi (Arabic) script.
 
 - Beetroot Funsy (for farmer harvesting the beetroots)
 - Berry Good (for farmer harvesting the berries)
+- Chibi Satoukibi (for farmer harvesting the sugar cane)
 - Couch Potato (for farmer harvesting the potatoes)
+- Durijau Kering (for farmer harvesting cactus)
+- Gloomy Shroom (for farmer hearvesting the mushrooms)
+- Kakao Koko (for farmer harvesting cocoa beans)
+- Ketuat Kuat (for farmer harvesting the nether wart)
+- Lentur Buluh (for farmer harvesting the bamboo)
 - Mugibatake-mae (for farmer harvesting the wheats)
 - Pekopekora (for farmer harvesting the carrots)
 - Spooky Pumpkin (for farmer harvesting the pumpkins)
 - Suisei Kawaii (for farmer harvesting watermelon)
 - Yayajima South (interchange to mainline railway and metro)
+
+## Districts
+
+This is the map of the districts in Yayajima:
 
 </div>
 
@@ -137,12 +147,22 @@ ditulis dengan kedua-dua tulisan Rumi dan Jawi.
 
 - Riang Ria Ubi Bit (untuk petani menuai ubi bit)
 - Beri Bagus (untuk petani menuai beri)
+- Chibi Satoukibi (untuk petani menuai tebu)
 - Birah Tak Berurat (untuk petani menuai kentang)
+- Durijau Kering (untuk petani menuai kaktus)
+- Cendawan Malap (untuk petani menuai cendawan)
+- Kakao Koko (untuk petani menuai biji koko)
+- Ketuat Kuat (untuk petani menuai ketuat nether)
+- Lentur Buluh (untuk petani menuai buluh)
 - Mugibatake-mae (untuk petani menuai gandum)
 - Pekopekora (untuk petani menuai lobak merah)
 - Labu Menakutkan (untuk petani menuai labu)
 - Suisei Kawaii (untuk petani menuai tembikai)
 - Yayajima Selatan (pertukaran ke laluan kereta api bandar dan jajaran utama)
+
+## Daerah
+
+Ini peta bagi daerah yang ada di Yayajima:
 
 </div>
 
@@ -181,11 +201,31 @@ style="font-size:50%; margin-bottom:-1em;margin-top:1.5em;">يايا مينيچ�
 
 - رياڠ ريا اوبي بيت (اونتوق ڤتاني منواي اوبي بيت)
 - بيري باݢوس (اونتوق ڤتاني منواي بيري)
+- چيبي ساتوٚٓکيبي (اونتوق ڤتاني منواي تبو)
 - بيره تق براورت (اونتوق ڤتاني منواي کنتڠ)
+- دوريجاو کريڠ (اونتوق ڤتاني منواي ککتوس)
+- چنداون مالڤ (اونتوق ڤتاني منواي چنداون)
+- کاکاٴو کوکو (اونتوق ڤتاني منواي بيجي کوکو)
+- کتوات قوات (اونتوق ڤتاني منواي کتوات نيذر)
+- لنتور بولوه (اونتوق ڤتاني منواي بولوه)
 - موݢيباتاکيٚ-ماٴيٚ (اونتوق ڤتاني منواي ݢندوم)
 - ڤيٚکوٚڤيٚکوٚرا (اونتوق ڤتاني منواي لوبق ميره)
 - لابو مناکوتکن (اونتوق ڤتاني منواي لابو)
 - سوٴيسيٚئي کاواٴيئي (اونتوق ڤتاني منواي تمبيکاي)
 - ياياجيما سلاتن (ڤرتوکرن کلالوان کريتا اڤي باندر دان جاجرن اوتام)
 
+## داٴيره
+
+اين ڤتا باݢي داٴيره يڠ اد دياياجيما:
+
 </div>
+
+{%
+include imagelightbox.html
+imgname="districtmap"
+imglink="/assets/img/areas/yayajima/districtmap.png"
+imgcaption=" "
+%}
+
+[View original / <span lang="ms">lihat yang asal</span> / <span lang="ms-Arab">ليهت يڠ اصل</span>](/assets/img/areas/yayajima/districtmap.png "Original size / saiz asal / ساٴيز اصل")
+{: style="text-align:center; font-size:0.75em;"}
