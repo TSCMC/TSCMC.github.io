@@ -15,12 +15,22 @@ to have been built.
 
 ## Stations
 
-- [Lacon WHY Central](/rail-stations/lcn-wye-street) (Terminal)
+- Tax Evasion Chalet
+- Gyoyeokso-Ap (Trading Hall)<br>
+↖Through-run to [Shin-Lacon WHY Central Line](slcn-why-central-line) to [Lacon WHY Central](/rail-stations/lacon-wye-street)
 - [Floating Moonlight City](/rail-stations/floating-moonlight-city)
+↓Through-run to [Shin-Lacon WHY Central Line](slcn-why-central-line) to [Yayajima Beach](/rail-stations/yayajima-beach)
 
 ## Future Extension
+
+### Eastward
 
 - Gaung Lahar
 - (Unnamed station)
 - Nozomigaoka
-through-run to [Lacon Main Line](lcn-main-line) toward Kurageshima
+- Kurageshima
+
+### Westward
+
+The westward extension is still in planning, but there are plans to go via Zwalunest
+eventually to the Zwalunest Airport.
