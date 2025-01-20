@@ -36,7 +36,7 @@ between Bowralerbrug and Slime Farm which stops at Moss Vale twice.
 {% endcapture %}
 
 {% capture southernslimefarm %}
-● :lacon: [Lacon Industry Line](/rail-lines/lcn-industry-line)<br/>
+● :lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
 ● [NEX Ender Line](/rail-lines/nex-ender-line)
 {% endcapture %}
 

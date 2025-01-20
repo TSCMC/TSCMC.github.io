@@ -13,5 +13,5 @@ This station offers out-of-station transfers to
 
 ## Lines
 
-- [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
-- [Shin-Lacon Seobu Line](/rail-lines/slcn-seobu-line) (Terminus)
+- [Lacon Main Line](/rail-lines/lcn-main-line)
+- [Shin-Lacon WHY Central Line](/rail-lines/slcn-why-central-line) (Terminus)

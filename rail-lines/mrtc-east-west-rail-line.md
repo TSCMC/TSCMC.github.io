@@ -83,7 +83,7 @@ Dobrzanka Station on the same day.
 
 [Lacon Railway](/rail-networks/lcn) owns and manages a section of MRTC rail that
 has been built as standalone tracks in a shared right-of-way (ROW) with the
-existing [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line) and Sancheon
+existing [Lacon Main Line](/rail-lines/lcn-main-line) and Sancheon
 Rapid Beta Line. The line serves as the local service in the shared section,
 with both the Dongbu Line and SR Beta serving as express.
 <br>Due to the complex operating and management structure of this section, it is
@@ -139,8 +139,8 @@ This train service is run by MRTC.
 ● :volans: Volans Minecart Line<br/>
 ● :tml: YuiTrans Tenma Line<br/>
 ● Alhambra Main Line<br/>
-● :transfer::lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
-● :transfer::lacon: [Shin-Lacon Main Line](/rail-lines/slcn-main-line)<br/>
+● :transfer::lacon: [Lacon Kurageshima Line](/rail-lines/lcn-kurageshima-line)<br/>
+● :transfer::lacon: [Shin-Lacon WHY Central Line](/rail-lines/slcn-why-central-line)<br/>
 ● :transfer: [NEX Spider Farm Shuttle](/rail-lines/nex-spider-farm-shuttle)<br/>
 ● :nether: [NEX Ender Line](/rail-lines/nex-ender-line)<br/>
 ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line)<br/>
@@ -156,18 +156,18 @@ This train service is run by MRTC.
 
 {% capture ewrministryoftrade %}
 ● Alhambra Main Line<br/>
-● :transfer: [Shin-Lacon Seobu Line](/rail-lines/slcn-seobu-line)<br/>
+● :transfer: [Shin-Lacon WHY Central Line](/rail-lines/slcn-why-central-line)<br/>
 ● *YuiTrans Tenma Line*
 {% endcapture %}
 
 {% capture ewryayajimanorth %}
-● :lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
+● :lacon: [Lacon Kurageshima Line](/rail-lines/lcn-kurageshima-line)<br/>
 ● *YajiMetro Lingkaran Line*<br/>
 ● *YajiTram Putri Line*
 {% endcapture %}
 
 {% capture ewrstronghold %}
-● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)<br/>
+● :lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
 ● :lacon: Sancheon Rapid Beta<br/>
 ● :nether: [NEX Ender Line](/rail-lines/nex-ender-line)<br/>
 ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line)<br/>
@@ -175,13 +175,13 @@ This train service is run by MRTC.
 {% endcapture %}
 
 {% capture ewrgonghangap %}
-● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)<br/>
+● :lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
 ● :lacon: Sancheon Rapid Beta<br/>
 ● :lacon::airplane: Lacon Airport
 {% endcapture %}
 
 {% capture ewrbanho %}
-● :lacon: [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)<br/>
+● :lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
 ● :lacon: Banho Harbor Shuttle
 {% endcapture %}
 

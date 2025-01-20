@@ -10,6 +10,6 @@ Slime Farm station connects to the slime farm.
 
 ## Lines
 
-- [Lacon Industry Line](/rail-lines/lcn-industry-line)
+- [Lacon Main Line](/rail-lines/lcn-main-line)
 - [NEX Ender Line](/rail-lines/nex-ender-line)
 - [SHR Southern Line](/rail-lines/shr-southern-line)

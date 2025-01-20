@@ -115,7 +115,7 @@ emoji if it's by sea or the :airplane: emoji if it's by air.
 {% capture nsrshinakiyama %}
 ● :tml: YuiTrans Tenma Line<br/>
 ● YuiTrans LRT Mio Line<br/>
-● :lacon: [Lacon Industry Line](/rail-lines/lcn-industry-line)<br/>
+● :lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
 ● :pfl: [FR Paddy Field Line](/rail-lines/fr-paddy-field-line)<br/>
 ● RR Yuuhi Line<br/>
 ● SR Alpha Line<br/>

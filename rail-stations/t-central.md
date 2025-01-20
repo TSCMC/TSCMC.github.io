@@ -10,5 +10,5 @@ T-Central station serves EcoPaw's settlement.
 
 ## Lines
 
-- [Lacon Industry Line](/rail-lines/lcn-industry-line)
+- [Lacon Main Line](/rail-lines/lcn-main-line)
 - [NEX T-Train Line](/rail-lines/nex-t-train-line)
