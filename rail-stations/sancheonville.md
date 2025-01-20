@@ -42,6 +42,6 @@ Currently, there are plans to reuse the old eastbound platforms for a short shut
 ## Lines
 
 - [Lacon Sancheonville Line](/rail-lines/lcn-sancheonville-line)
-- [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
+- [Lacon Main Line](/rail-lines/lcn-main-line)
 - SR Alpha
 - SR Beta

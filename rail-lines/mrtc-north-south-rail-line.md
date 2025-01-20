@@ -84,8 +84,8 @@ emoji if it's by sea or the :airplane: emoji if it's by air.
 ● :tml: YuiTrans Tenma Line<br/>
 ● Alhambra Railway Main Line<br/>
 ● Spider Farm Shuttle<br/>
-● :transfer::lacon: [Lacon Main Line](/rail-lines/lcn-main-line)<br/>
-● :transfer::lacon: [Shin-Lacon Main Line](/rail-lines/slcn-main-line)<br/>
+● :transfer::lacon: [Lacon Kurageshima Line](/rail-lines/lcn-kurageshima-line)<br/>
+● :transfer::lacon: [Shin-Lacon WHY Central Line](/rail-lines/slcn-why-central-line)<br/>
 ● :nether: [NEX Ender Line](/rail-lines/nex-ender-line)<br/>
 ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line)<br/>
 ● :nether: YuiTrans Shin-Tenma Line<br/>

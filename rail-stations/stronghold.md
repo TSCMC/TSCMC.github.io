@@ -10,7 +10,7 @@ Stronghold station connects to the stronghold.
 
 ## Lines
 
-- Lacon Sancheonville Shuttle
+- [MRTC East-West Rail Line](/rail-lines/mrtc-east-west-rail-line)
 - [NEX Ender Line](/rail-lines/nex-ender-line)
-- [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
+- [Lacon Main Line](/rail-lines/lcn-main-line)
 - SR Beta
