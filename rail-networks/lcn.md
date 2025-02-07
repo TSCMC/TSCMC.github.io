@@ -26,12 +26,14 @@ regions directly to Sancheonville.
 This was originally planned as a supplemental network to Lacon's existing network, mainly to connect
 the northern parts of Floating Moonlight city and the trading hall. However, it was soon decided to
 cede over the Shin-Higashi Line to Shin-Lacon, giving it a much more extensive network.
-<br>Until it ceased operations, the Shin-Higashi Line, then known as the Dongbu Line
-is the longest line on the network.<br><br>
+<br>Until it ceased operations, the Shin-Higashi Line, then known as the Dongbu Line,
+was the longest line on the network.<br><br>
 On January 20, 2025, the Shin-Lacon Dongbu Line was ceded back to Lacon, and merged with Lacon Industry Line
 to form [Lacon Main Line](lcn-main-line), with the old Main Line being renamed to Kurageshima Line.
 With this, the scope of Shin-Lacon was scaled down drastically, as most of the operations of the company
-was ceded over to the parent company, including the Banho Harbour shuttle and ownership of Dongbuline.
+was ceded over to the parent company, including the Banho Harbour shuttle and ownership of Dongbuline.<br><br>
+Shin-Lacon now has a much more laid-back role, supplementing the Lacon network by serving areas that Lacon's
+lines miss.
 
 ## Joint Ventures and Public-Private Partnerships
 
