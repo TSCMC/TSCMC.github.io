@@ -7,7 +7,11 @@ description: Lacon Railway
 # Lacon Railway
 
 Lacon Railway is an extensive network of overworld railways that spans most regions of the server.
-The network is comprised of Lacon Railway itself and two subsidiaries, Shin-Lacon and Sancheon Rapid.
+The network is comprised of Lacon Railway itself and several subsidiaries, Shin-Lacon and Sancheon Rapid.
+<br><br>
+Lacon itself directly operates the Lacon Main Line and Lacon Kurageshima Line. These lines connect the far
+west regions near Witch Farm to Shin-Akiyama, WHY Central, Floating Moonlight City, Sancheonville, Banho, and
+eventually to the far east regions of Iwashi Valley.
 
 ## Direct Subsidiaries
 
