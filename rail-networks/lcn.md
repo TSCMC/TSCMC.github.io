@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lacon Railway
-description: Lacon Railway
+description: The most extensive overworld railway network in the server
 ---
 
 # Lacon Railway
@@ -95,5 +95,5 @@ Municipal Government.
 
 ### The Woodlands Express
 
-- The Woodlands Express The Woodlands Express Line
-- The Woodlands Express Rhoscoed Line
+- [The Woodlands Express The Woodlands Express Line](/rail-lines/wlx-the-woodlands-express)
+- [The Woodlands Express Rhoscoed Line](/rail-lines/wlx-the-woodlands-express)
