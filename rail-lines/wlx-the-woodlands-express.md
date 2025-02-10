@@ -17,8 +17,8 @@ Rhoscoed.
 
 ## Stations
 
+- [Sand Duper](/rail-stations/sand-duper)<br>
 ↑ Through-run to **[Lacon Main Line](lcn-main-line)** toward **Iwashi Valley**
-- [Sand Duper](/rail-stations/sand-duper)
 - [Squid Game](/rail-stations/squid-farm)
 - ~~Rhoscoed North~~ (planned)<br>
 ↘ Through-run to **Rhoscoed Branch Line** toward **Rhoscoed**
