@@ -57,6 +57,6 @@ imglink="/assets/img/map.png"
 imgcaption="Overworld & Nether Railways of the TSC Minecraft Server"
 %}
 
-[View original](/assets/img/map.png "Click to view in original size")
+[View original](/assets/img/map.png "Click to view in original size")<br>
 [View legacy map](/assets/img/map-legacy.png "Click to view old version by Sunoka")
 {: style="text-align:center; font-size:0.75em;"}
