@@ -81,7 +81,7 @@ Municipal Government.
 ### Shin-Lacon Lines
 
 - [Shin-Lacon Main Line](/rail-lines/slcn-main-line)
-- [Shin-Lacon WHY Central Line](/rail-lines/slcn-whyc-line)
+- [Shin-Lacon WHY Central Line](/rail-lines/slcn-why-central-line)
 
 ### Sancheon Rapid Lines
 
