@@ -12,4 +12,4 @@ which serves a small birch forest.
 
 ## Lines
 
-- [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
+- [MRTC East-West Rail Line](/rail-lines/mrtc-east-west-rail-line)

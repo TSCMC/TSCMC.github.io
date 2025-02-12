@@ -15,4 +15,4 @@ The name was inspired by krnb's "Bluefin Tuna Comes Flying" (linked below).
 
 ## Lines
 
-- [Shin-Lacon Dongbu Line](/rail-lines/slcn-dongbu-line)
+- [MRTC East-West Rail Line](/rail-lines/mrtc-east-west-rail-line)
