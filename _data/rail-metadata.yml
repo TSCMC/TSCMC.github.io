@@ -1,0 +1,1664 @@
+networks:
+  - name: Mainline Railway Transit Corporation
+    slug: mrt
+    code: MRT
+    lines:
+      - name: East-West Rail
+        slug: mrtc-east-west-rail-line
+        code: EWR
+        status: operational
+        stations:
+          - name: Tax Evasion Chalet
+            slug: null
+            status: operational
+          - name: Ministry of Love
+            slug: null
+            status: operational
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: Sandy Beach
+            slug: null
+            status: operational
+          - name: Cordelia Cross
+            slug: null
+            status: operational
+          - name: Moss Vale
+            slug: moss-vale
+            status: operational
+          - name: Bundanoon
+            slug: null
+            status: operational
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: operational
+          - name: Camfford High Street
+            slug: null
+            status: operational
+      - name: North-South Rail
+        slug: mrtc-north-south-rail-line
+        code: NSR
+        status: operational
+        stations:
+          - name: Port Watanabe
+            slug: null
+            status: operational
+          - name: Shirokane
+            slug: null
+            status: operational
+          - name: New Taichung Gateway
+            slug: new-taichung-gateway
+            status: operational
+          - name: Sakurauchi
+            slug: null
+            status: operational
+          - name: Mittagong North
+            slug: null
+            status: operational
+          - name: Otomune
+            slug: null
+            status: operational
+          - name: Bowralerbrug
+            slug: null
+            status: operational
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: Ministry of Love
+            slug: null
+            status: operational
+          - name: Ministry of Trade
+            slug: null
+            status: operational
+          - name: Cavern Junction
+            slug: null
+            status: operational
+          - name: Gaung Lahar
+            slug: null
+            status: constructing
+          - name: Yayajima North
+            slug: yayajima-north
+            status: operational
+          - name: Yayajima Lighthouse
+            slug: null
+            status: constructing
+          - name: Haruyama
+            slug: haruyama
+            status: operational
+          - name: Dobrzanka
+            slug: null
+            status: operational
+          - name: Stronghold
+            slug: stronghold
+            status: operational
+          - name: Maguro Lake
+            slug: maguro-lake
+            status: operational
+          - name: Jajak Forest
+            slug: jajak-forest
+            status: operational
+          - name: Gonghang-Ap
+            slug: null
+            status: operational
+          - name: Lacon Airport Long-Term Parking
+            slug: null
+            status: operational
+          - name: !
+            slug: null
+            status: operational
+          - name: Banho
+            slug: null
+            status: operational
+          - name: Shin-Banho
+            slug: null
+            status: operational
+          - name: Guardian Farm
+            slug: guardian-farm
+            status: operational
+          - name: Xiaoxing Gate
+            slug: null
+            status: planning
+          - name: Dannan Checkpoint
+            slug: null
+            status: planning
+          - name: Chaoyang Gate
+            slug: null
+            status: planning
+          - name: Dongzhimen
+            slug: null
+            status: planning
+          - name: Gurun
+            slug: null
+            status: planning
+          - name: Xiluo Island
+            slug: null
+            status: planning
+          - name: Sanliying
+            slug: null
+            status: planning
+          - name: Mycellium Delight
+            slug: null
+            status: planning
+  - name: Lacon Rail
+    slug: lcn
+    code: LCN
+    lines:
+      - name: Lacon Main Line
+        status: operational
+        slug: lcn-main-line
+        code: LML
+        stations:
+          - name: Witch Farm
+            slug: null
+            status: operational
+          - name: Yamamigaoka
+            slug: null
+            status: operational
+          - name: Sand Duper
+            slug: null
+            status: operational
+          - name: Slime Farm
+            slug: slime-farm
+            status: operational
+          - name: TruffleResort
+            slug: truffleresort
+            status: operational
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: operational
+          - name: New Hainan Airport
+            slug: null
+            status: constructing
+          - name: Floating Moonlight City
+            slug: floating-moonlight-city
+            status: operational
+          - name: Yayajima Beach
+            slug: yayajima-beach
+            status: operational
+          - name: Sancheonville
+            slug: sancheonville
+            status: operational
+          - name: Stronghold
+            slug: stronghold
+            status: operational
+          - name: Gonghang-Ap
+            slug: null
+            status: operational
+          - name: Banho
+            slug: null
+            status: operational
+          - name: Haedoji Park
+            slug: null
+            status: operational
+          - name: Hartmann's Youkai Forest
+            slug: null
+            status: operational
+          - name: Iwashi Valley
+            slug: null
+            status: operational
+      - name: Lacon Kurageshima Line
+        status: operational
+        slug: lcn-kurageshima-line
+        code: LKL
+        stations:
+          - name: Lacon WHY Central
+            slug: lcn-wye-street
+            status: operational
+          - name: Floating Moonlight City
+            slug: floating-moonlight-city
+            status: operational
+          - name: Yayajima South
+            slug: yayajima-south
+            status: operational
+          - name: Yayajima North
+            slug: yayajima-north
+            status: operational
+          - name: Lacon Forestry
+            slug: lacon-forestry
+            status: operational
+          - name: Nozomigaoka
+            slug: nozomigaoka
+            status: operational
+          - name: Kurageshima
+            slug: kurageshima
+            status: operational
+          - name: Dorokawa Gōryū
+            slug: dorokawa-goryu
+            status: planning
+      - name: Lacon Sancheonville Line
+        status: operational
+        code: LSL
+        slug: lcn-sancheonville-line
+        stations:
+          - name: Kurageshima
+            slug: kurageshima
+            status: operational
+          - name: Haruyama
+            slug: haruyama
+            status: operational
+          - name: Sancheonville
+            slug: sancheonville
+            status: operational
+      - name: Shin-Lacon Main Line
+        status: operational
+        slug: slcn-main-line
+        code: SLM
+        stations:
+          - name: Hoge Zwaluw Airport
+            slug: null
+            status: planning
+          - name: Tax Evasion Chalet
+            slug: null
+            status: operational
+          - name: Gyoyeokso-Ap
+            slug: null
+            status: operational
+          - name: Shin-Lacon Floating Moonlight City
+            slug: floating-moonlight-city
+            status: operational
+          - name: Gaung Lahar
+            slug: null
+            status: planning
+          - name: Dorokawa Gōryū
+            slug: dorokawa-goryu
+            status: planning
+      - name: Shin-Lacon WHY Central Line
+        status: operational
+        slug: slcn-why-central-line
+        code: SLW
+        stations:
+          - name: Lacon WHY Central
+            slug: lcn-wye-street
+            status: operational
+          - name: Shin-Lacon Floating Moonlight City
+            slug: floating-moonlight-city
+            status: operational
+          - name: Yayajima Beach
+            slug: yayajima-beach
+            status: operational
+      - name: Koishi Line
+        status: operational
+        slug: null
+        code: KIL
+        stations:
+          - name: Banho
+            slug: null
+            status: operational
+          - name: Sanae
+            slug: null
+            status: operational
+          - name: Utsuho
+            slug: null
+            status: operational
+          - name: Moriya
+            slug: null
+            status: operational
+          - name: Koishi
+            slug: null
+            status: constructing
+          - name: KIL06
+            slug: null
+            status: planning
+          - name: KIL07
+            slug: null
+            status: planning
+          - name: KIL08
+            slug: null
+            status: planning
+      - name: Koishi Line Udongein-Inaba Branch
+        status: operational
+        slug: null
+        code: KIB
+        stations:
+          - name: Sanae
+            slug: null
+            status: operational
+          - name: Doremi
+            slug: null
+            status: operational
+          - name: Udongein-Inaba
+            slug: null
+            status: operational
+      - name: The Woodlands Express
+        status: operational
+        slug: wlx-the-woodlands-express
+        code: WLX
+        stations:
+          - name: Sand Duper
+            slug: null
+            status: operational
+          - name: Squid Game
+            slug: squid-farm
+            status: operational
+          - name: Rhoscoed North
+            slug: null
+            status: planning
+          - name: The Woodlands
+            slug: null
+            status: operational
+      - name: The Woodlands Express Rhoscoed Branch
+        status: planning
+        slug: wlx-the-woodlands-express#rhoscoed-branch-line-planned
+        code: WXB
+        stations:
+          - name: Rhoscoed North
+            slug: null
+            status: planning
+          - name: Rhoscoed Central
+            slug: null
+            status: planning
+      - name: Sancheon Rapid Alpha
+        status: operational
+        slug: null
+        code: SRA
+        stations:
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: operational
+          - name: Shulker Farm
+            slug: shulker-farm
+            status: operational
+          - name: Sancheonville
+            slug: sancheonville
+            status: constructing
+      - name: Sancheon Rapid Beta
+        status: operational
+        slug: null
+        code: SRB
+        stations:
+          - name: Sancheonville
+            slug: sancheonville
+            status: operational
+          - name: Shin-Banho
+            slug: null
+            status: operational
+          - name: Guardian Farm
+            slug: guardian-farm
+            status: operational
+      - name: Banho City Metro
+        status: operational
+        slug: null
+        code: BCM
+        stations:
+          - name: Banho
+            slug: null
+            status: operational
+          - name: Park 2nd Av (Industrial Memorial)
+            slug: null
+            status: operational
+          - name: Shin-Banho
+            slug: null
+            status: operational
+          - name: Misa-ri Seaside
+            slug: null
+            status: operational
+          - name: Seojuk 1-ga
+            slug: null
+            status: operational
+      - name: Banho Harbor Shuttle
+        status: operational
+        slug: null
+        code: BHS
+        stations:
+          - name: Banho
+            slug: null
+            status: operational
+          - name: Banho Harbor Passenger Terminal
+            slug: null
+            status: operational
+          - name: Banho Harbor
+            slug: null
+            status: operational
+          - name: Banho Harbor Cargo Terminal
+            slug: null
+            status: operational
+          - name: Sancheon Heavy Industries Shipbuilding Factory
+            slug: null
+            status: planning
+  - name: T-train
+    slug: null
+    code: TTR
+    lines:
+      - name: Chang'an Line
+        status: operational
+        slug: null
+        code: CAL
+        stations:
+          - name: Fragrant Coast
+            slug: null
+            status: planning
+          - name: Witch Farm
+            slug: null
+            status: planning
+          - name: Hazawa
+            slug: null
+            status: planning
+          - name: New Qingchong
+            slug: null
+            status: planning
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: planning
+          - name: New Hainan Airport
+            slug: null
+            status: planning
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: Tax Evasion Chalet
+            slug: null
+            status: operational
+          - name: Xizhimen
+            slug: null
+            status: operational
+          - name: New Beijing
+            slug: new-beijing
+            status: operational
+          - name: Dongzhimen
+            slug: null
+            status: operational
+          - name: Shroom Town
+            slug: null
+            status: planning
+      - name: Chaoyang Line
+        status: operational
+        slug: null
+        code: CYL
+        stations:
+          - name: Tiantongshan
+            slug: null
+            status: planning
+          - name: Eastern Stronghold
+            slug: null
+            status: operational
+          - name: New Shunyi
+            slug: null
+            status: operational
+          - name: Traitors' Valley
+            slug: null
+            status: operational
+          - name: Dongzhimen
+            slug: null
+            status: operational
+          - name: Chaoyang Gate
+            slug: null
+            status: planning
+          - name: Dannan Checkpoint
+            slug: null
+            status: planning
+      - name: Taohai Line
+        status: planning
+        slug: null
+        code: THL
+        stations:
+          - name: Taohai Airport
+            slug: null
+            status: planning
+          - name: Wuyuanqiao
+            slug: null
+            status: planning
+          - name: Xiluo Island
+            slug: null
+            status: planning
+          - name: Dongzhimen
+            slug: null
+            status: planning
+          - name: New Beijing
+            slug: new-beijing
+            status: planning
+          - name: Xizhimen
+            slug: null
+            status: planning
+          - name: Nichuan East
+            slug: null
+            status: planning
+          - name: Lacon Airport
+            slug: null
+            status: planning
+          - name: Nansha Islands
+            slug: null
+            status: planning
+          - name: New Hainan Airport
+            slug: null
+            status: planning
+          - name: Camfford Central
+            slug: null
+            status: planning
+      - name: Xiaoxing Line
+        status: operational
+        slug: null
+        code: XXL
+        stations:
+          - name: Taohai Airport
+            slug: null
+            status: planning
+          - name: Wuyuanqiao
+            slug: null
+            status: planning
+          - name: Eastern Stronghold
+            slug: null
+            status: planning
+          - name: Fangzhuang
+            slug: null
+            status: planning
+          - name: Peony Shores
+            slug: null
+            status: planning
+          - name: New Beijing
+            slug: new-beijing
+            status: planning
+          - name: Golden Mile
+            slug: null
+            status: planning
+          - name: Qianmen
+            slug: null
+            status: planning
+          - name: Neihai South
+            slug: null
+            status: planning
+          - name: Xiaoxing Gate
+            slug: null
+            status: planning
+  - name: Fulahm Railways
+    slug: null
+    code: FRW
+    lines:
+      - name: Paddy Field Line
+        status: operational
+        slug: fr-paddy-field-line
+        code: PFL
+        stations:
+          - name: Tax Evasion Chalet
+            slug: null
+            status: transferred (TKL)
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: Cordelia Cross
+            slug: null
+            status: operational
+          - name: Nether Landing
+            slug: null
+            status: operational
+          - name: Creeper Farm
+            slug: creeper-farm
+            status: operational
+          - name: Mogawa Point
+            slug: null
+            status: operational
+          - name: Shin-Sakurako
+            slug: null
+            status: operational
+          - name: Shin-Akiyama Tunnel
+            slug: null
+            status: planning
+          - name: Camfford Central
+            slug: camfford
+            status: operational
+          - name: Camfford Tunnel (17m)
+            slug: null
+            status: planning
+          - name: Shinonome Base-Tunnel (100m)
+            slug: null
+            status: planning
+          - name: Shinonome East-Junction
+            slug: null
+            status: planning
+          - name: Asahina Base-Tunnel (301m)
+            slug: null
+            status: planning
+          - name: Thornhill Tunnel (339m)
+            slug: null
+            status: planning
+          - name: Lisvane & Thornhill
+            slug: lisvane-and-thornhill
+            status: operational
+          - name: Thornhill Viaduct
+            slug: null
+            status: planning
+          - name: Rhoscoed Central
+            slug: null
+            status: operational
+      - name: Asahina Line
+        status: operational
+        slug: fr-asahina-line
+        code: AHL
+        stations:
+          - name: New Hainan Airport
+            slug: null
+            status: operational
+          - name: Botanic Gardens
+            slug: null
+            status: operational
+          - name: Camfford High Street
+            slug: null
+            status: operational
+          - name: Camfford Bay
+            slug: null
+            status: operational
+          - name: Sedrun
+            slug: null
+            status: planning
+          - name: Faido
+            slug: null
+            status: planning
+          - name: Asahina
+            slug: null
+            status: planning
+          - name: Lisvane
+            slug: null
+            status: planning
+          - name: Squid Game
+            slug: squid-farm
+            status: planning
+          - name: Llanishen
+            slug: null
+            status: planning
+      - name: Llanishen Line
+        status: planning
+        slug: null
+        code: LLL
+        stations:
+          - name: Llanishen
+            slug: null
+            status: planning
+          - name: Rhoscoed University
+            slug: null
+            status: planning
+          - name: Rhoscoed Bay
+            slug: null
+            status: planning
+          - name: Llanrhoscoed
+            slug: null
+            status: planning
+          - name: Rhoscoed Central
+            slug: null
+            status: planning
+  - name: Volans Railway
+    slug: null
+    code: VRW
+    lines:
+      - name: Volans Main Line
+        status: operational
+        slug: null
+        code: VML
+        stations:
+          - name: Zwaluwnest
+            slug: null
+            status: operational
+          - name: WHY Central
+            slug: null
+            status: operational
+          - name: New Hainan Airport
+            slug: null
+            status: constructing
+      - name: Volans Northern Line
+        status: operational
+        slug: null
+        code: VNL
+        stations:
+          - name: Northern Shroomlands
+            slug: null
+            status: operational
+          - name: Zwaluwnest Stronghold
+            slug: null
+            status: operational
+          - name: Yverdon-les-Bains
+            slug: null
+            status: operational
+          - name: Um Hill
+            slug: null
+            status: operational
+          - name: Zwaluwnest
+            slug: null
+            status: operational
+      - name: Volans Eastern Line
+        status: operational
+        slug: null
+        code: VEL
+        stations:
+          - name: Zwaluwnest
+            slug: null
+            status: operational
+          - name: Sparrendonk
+            slug: null
+            status: operational
+          - name: Refugiumhatgeld
+            slug: null
+            status: operational
+          - name: Nichuan East
+            slug: null
+            status: constructing
+      - name: Volans Legacy Line
+        status: operational
+        slug: null
+        code: VLL
+        stations:
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: Bowralerbrug
+            slug: null
+            status: operational
+          - name: Charleville-Mézières
+            slug: null
+            status: operational
+          - name: Port Matsuura
+            slug: null
+            status: operational
+  - name: YuiTrans
+    slug: null
+    code: YTR
+    lines:
+      - name: Tenma Line
+        status: operational
+        slug: null
+        code: TML
+        stations:
+          - name: Ministry of Trade
+            slug: null
+            status: constructing
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: Sandy Beach
+            slug: null
+            status: operational
+          - name: Shin-Sakurako
+            slug: null
+            status: operational
+          - name: Sakurako
+            slug: null
+            status: operational
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: operational
+          - name: Shinonome
+            slug: null
+            status: planning
+          - name: Asahina
+            slug: null
+            status: planning
+          - name: Thornhill
+            slug: null
+            status: planning
+          - name: Hanasato
+            slug: null
+            status: planning
+          - name: Momoi
+            slug: null
+            status: planning
+          - name: Kiritani
+            slug: null
+            status: planning
+      - name: Shin-Tenma Line
+        status: operational
+        slug: null
+        code: STL
+        stations:
+          - name: Nightcord City
+            slug: null
+            status: planning
+          - name: Shin-Asahina
+            slug: null
+            status: planning
+          - name: Shin-Shinonome
+            slug: null
+            status: planning
+          - name: Nothern Shroomlands
+            slug: null
+            status: planning
+          - name: Zwaluwnest Gateway
+            slug: null
+            status: planning
+          - name: WHY Central
+            slug: null
+            status: operational
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: operational
+          - name: Hanasato-Momoi
+            slug: null
+            status: planning
+          - name: Ender Gateway
+            slug: null
+            status: planning
+          - name: Kinokoshima
+            slug: null
+            status: operational
+          - name: Mesa Gateway
+            slug: null
+            status: planning
+      - name: Torokko Line
+        status: operational
+        slug: null
+        code: TKL
+        stations:
+          - name: Tax Evasion Chalet
+            slug: null
+            status: operational
+          - name: WHY Central
+            slug: null
+            status: operational
+      - name: Mio Line
+        status: operational
+        slug: null
+        code: MOL
+        stations:
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: operational
+          - name: Yamanouchi
+            slug: null
+            status: operational
+          - name: Camfford Central
+            slug: camfford
+            status: operational
+          - name: Camfford High Street
+            slug: null
+            status: operational
+      - name: Hinomori Line
+        status: constructing
+        slug: null
+        code: HML
+        stations:
+          - name: Hazawa
+            slug: null
+            status: operational
+          - name: Wakame
+            slug: null
+            status: operational
+          - name: Merran Bay
+            slug: null
+            status: operational
+          - name: Bundanoon
+            slug: null
+            status: operational
+          - name: Shinei
+            slug: null
+            status: operational
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: operational
+          - name: New Hainan Airport
+            slug: null
+            status: constructing
+      - name: Hoshino Line
+        status: planning
+        slug: null
+        code: HSL
+        stations:
+          - name: Akiyama
+            slug: null
+            status: planning
+          - name: Exeter
+            slug: null
+            status: planning
+          - name: Bundanoon
+            slug: null
+            status: planning
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: planning
+          - name: TruffleResort East
+            slug: null
+            status: planning
+          - name: TruffleResort South
+            slug: null
+            status: planning
+          - name: Shinonome
+            slug: null
+            status: planning
+          - name: Camfford Central
+            slug: camfford
+            status: planning
+      - name: Mochizuki Line
+        status: operational
+        slug: null
+        code: MZL
+        stations:
+          - name: Yoshizaki
+            slug: null
+            status: planning
+          - name: Hazawa
+            slug: null
+            status: planning
+          - name: Witch Farm
+            slug: null
+            status: operational
+          - name: Froglight Farm Overworld
+            slug: froglight-farm
+            status: operational
+          - name: Tomosura
+            slug: null
+            status: planning
+          - name: Yoisaki
+            slug: null
+            status: planning
+          - name: Takagi
+            slug: null
+            status: planning
+          - name: The Woodlands
+            slug: null
+            status: planning
+          - name: Rhoscoed Bay
+            slug: null
+            status: planning
+          - name: Hanasato
+            slug: null
+            status: planning
+          - name: Momoi
+            slug: null
+            status: planning
+          - name: Kiritani
+            slug: null
+            status: planning
+          - name: Shin-Yoisaki
+            slug: null
+            status: planning
+          - name: Shibao
+            slug: null
+            status: planning
+      - name: Shin-Mochizuki Line
+        status: planning
+        slug: null
+        code: SML
+        stations:
+          - name: WHY Central
+            slug: why-central
+            status: planning
+          - name: Bowralerbrug
+            slug: null
+            status: planning
+          - name: New Taichung
+            slug: new-taichung
+            status: planning
+          - name: Yoshizaki
+            slug: null
+            status: planning
+          - name: Hazawa
+            slug: null
+            status: planning
+          - name: Witch Farm
+            slug: null
+            status: planning
+          - name: Yoisaki
+            slug: null
+            status: planning
+          - name: The Woodlands
+            slug: null
+            status: planning
+          - name: Hanasato-Momoi
+            slug: null
+            status: planning
+          - name: Kiritani
+            slug: null
+            status: planning
+          - name: Shin-Yoisaki
+            slug: null
+            status: planning
+          - name: Kousaka
+            slug: null
+            status: planning
+          - name: Yoshiki
+            slug: null
+            status: planning
+  - name: Alhambra Railway
+    slug: null
+    code: AHR
+    lines:
+      - name: Alhambra Main Line
+        status: operational
+        slug: null
+        code: AML
+        stations:
+          - name: Canyon Village
+            slug: null
+            status: constructing
+          - name: Ministry of Trade
+            slug: null
+            status: operational
+          - name: WHY Central
+            slug: why-central
+            status: operational
+  - name: Southern Highlands Railway
+    slug: shr
+    code: SHR
+    lines:
+      - name: Western Line
+        status: operational
+        slug: shr-western-line
+        code: WSL
+        stations:
+          - name: Yoshizaki
+            slug: null
+            status: transferred (MZL)
+          - name: Serene Jade
+            slug: null
+            status: cancelled
+          - name: Tahmoor
+            slug: null
+            status: operational
+          - name: Mittagong
+            slug: mittagong
+            status: operational
+          - name: Newtown
+            slug: newtown
+            status: operational
+          - name: Bowral
+            slug: bowral
+            status: operational
+          - name: Moss Vale
+            slug: moss-vale
+            status: operational
+          - name: Shin-Sakurako
+            slug: null
+            status: operational
+          - name: New Hainan Airport
+            slug: null
+            status: operational
+      - name: Loop Line
+        status: operational
+        slug: shr-loop-line
+        code: LOL
+        stations:
+          - name: Creeper Farm
+            slug: creeper-farm
+            status: operational
+          - name: Cordelia Cross
+            slug: null
+            status: operational
+          - name: Mogawa Point
+            slug: null
+            status: operational
+          - name: Teun Monuments
+            slug: null
+            status: cancelled
+          - name: Four Corners
+            slug: null
+            status: operational
+          - name: Moss Vale
+            slug: moss-vale
+            status: operational
+          - name: Akiyama
+            slug: akiyama
+            status: operational
+          - name: New Berrima
+            slug: new-berrima
+            status: operational
+          - name: Outpost
+            slug: outpost
+            status: operational
+          - name: Newtown
+            slug: newtown
+            status: operational
+          - name: Newtown Lakes
+            slug: newtown
+            status: planning
+      - name: Meadowbank Line
+        status: operational
+        slug: shr-meadowbank-line
+        code: MBL
+        stations:
+          - name: Bowralerbrug LR
+            slug: null
+            status: operational
+          - name: Nether Landing
+            slug: nether-landing
+            status: operational
+          - name: North Bowral
+            slug: north-bowral
+            status: operational
+          - name: Meadowbank
+            slug: meadowbank
+            status: operational
+          - name: Model Farms
+            slug: model-farms
+            status: operational
+          - name: Moss Vale
+            slug: moss-vale
+            status: operational
+          - name: Sakura Park
+            slug: sakura-park
+            status: operational
+      - name: Southern Line
+        status: operational
+        slug: shr-southern-line
+        code: SOL
+        stations:
+          - name: Sakura Park
+            slug: sakura-park
+            status: operational
+          - name: Moss Vale
+            slug: moss-vale
+            status: operational
+          - name: Exeter
+            slug: exeter
+            status: operational
+          - name: South Avy
+            slug: null
+            status: operational
+          - name: Merran Bay
+            slug: merran-bay
+            status: operational
+          - name: Slime Farm
+            slug: slime-farm
+            status: operational
+          - name: Tarn
+            slug: null
+            status: operational
+          - name: Iacon
+            slug: null
+            status: planning
+          - name: Thirlmere
+            slug: null
+            status: planning
+          - name: Vos
+            slug: null
+            status: planning
+          - name: Mittagong
+            slug: mittagong
+            status: planning
+  - name: Transport for Yayajima
+    slug: tfy
+    code: TFY
+    lines:
+      - name: Yayajima Express
+        status: constructing
+        slug: null
+        code: YJX
+        stations:
+          - name: WHY Central
+            slug: why-central
+            status: constructing
+          - name: Shin-Lacon Floating Moonlight City
+            slug: floating-moonlight-city
+            status: constructing
+          - name: Yayajima Airport
+            slug: null
+            status: constructing
+          - name: Dorokawa Gōryū
+            slug: dorokawa-goryu
+            status: constructing
+          - name: Lacon Airport
+            slug: null
+            status: planning
+          - name: Spratly Islands
+            slug: null
+            status: planning
+          - name: Shin-Akiyama
+            slug: shin-akiyama
+            status: constructing
+          - name: Squid Game
+            slug: squid-farm
+            status: planning
+          - name: Froglight Farm Overworld
+            slug: froglight-farm
+            status: planning
+          - name: Hazawa
+            slug: null
+            status: planning
+          - name: Tahmoor
+            slug: null
+            status: planning
+          - name: Otomune
+            slug: null
+            status: planning
+      - name: YajiMetro Lingkaran Line
+        status: constructing
+        slug: null
+        code: YML
+        stations:
+          - name: Yayajima Airport
+            slug: null
+            status: constructing
+          - name: Temasek West
+            slug: null
+            status: planning
+          - name: Temasek East
+            slug: null
+            status: planning
+          - name: UTC
+            slug: null
+            status: planning
+          - name: Cheras
+            slug: null
+            status: planning
+          - name: Genting
+            slug: null
+            status: planning
+          - name: Yayajima South
+            slug: yayajima-south
+            status: constructing
+          - name: Taiping
+            slug: null
+            status: planning
+      - name: YajiMetro Gaung Lahar Line
+        status: planning
+        slug: null
+        code: YMG
+        stations:
+          - name: Cheras
+            slug: null
+            status: planning
+          - name: Yayajima North
+            slug: yayajima-north
+            status: planning
+          - name: Cerun Timur
+            slug: null
+            status: planning
+          - name: Janakuasa GL
+            slug: null
+            status: planning
+          - name: Cahaya Bulan Utara
+            slug: null
+            status: planning
+          - name: Ipoh
+            slug: null
+            status: planning
+          - name: Gunung Salju Puteh
+            slug: null
+            status: planning
+          - name: Ampai-Ampai Selatan
+            slug: null
+            status: planning
+          - name: Telapak Timur Laut
+            slug: null
+            status: planning
+      - name: YajiTram Alam Line
+        status: planning
+        slug: null
+        code: YTA
+        stations:
+          - name: Taiping
+            slug: null
+            status: planning
+          - name: Kuda Babi
+            slug: null
+            status: planning
+          - name: Lembu Rindu
+            slug: null
+            status: planning
+          - name: Watame Warukunai
+            slug: null
+            status: planning
+          - name: Fubuki Konkon
+            slug: null
+            status: planning
+          - name: Okayu Korone
+            slug: null
+            status: planning
+          - name: Rabbit Hole
+            slug: null
+            status: planning
+          - name: Auf Wiedersehen
+            slug: null
+            status: planning
+          - name: Easy Beezy
+            slug: null
+            status: planning
+          - name: Al-Unta Al-Llama
+            slug: null
+            status: planning
+          - name: Keldai Baghal
+            slug: null
+            status: planning
+          - name: Tompok Hitam
+            slug: null
+            status: planning
+          - name: Something Fishy
+            slug: null
+            status: planning
+          - name: Rimba Utara
+            slug: null
+            status: planning
+          - name: Rimba Sentral
+            slug: null
+            status: planning
+          - name: Rimba Selatan
+            slug: null
+            status: planning
+      - name: YajiTram Ladang Line
+        status: operational
+        slug: null
+        code: YTL
+        stations:
+          - name: Yayajima South
+            slug: yayajima-south
+            status: operational
+          - name: Spooky Pumpkin
+            slug: null
+            status: operational
+          - name: Couch Potato
+            slug: null
+            status: operational
+          - name: Berry Good
+            slug: null
+            status: operational
+          - name: Mugibatake-mae
+            slug: null
+            status: operational
+          - name: Beetroot Funsy
+            slug: null
+            status: operational
+          - name: Pekopekora
+            slug: null
+            status: operational
+          - name: Suisei Kawaii
+            slug: null
+            status: operational
+          - name: Ketuat Kuat
+            slug: null
+            status: constructing
+          - name: Chibi Satoukibi
+            slug: null
+            status: constructing
+          - name: Lentur Buluh
+            slug: null
+            status: constructing
+          - name: Kakao Koko
+            slug: null
+            status: constructing
+          - name: Durijau Kering
+            slug: null
+            status: constructing
+          - name: Gloomy Shroom
+            slug: null
+            status: constructing
+      - name: YajiTram Putrajaya Line
+        status: planning
+        slug: null
+        code: YTP
+        stations:
+          - name: UTC
+            slug: null
+            status: planning
+          - name: Central Storage
+            slug: null
+            status: planning
+          - name: City Hall
+            slug: null
+            status: planning
+          - name: Central Hospital
+            slug: null
+            status: planning
+          - name: Central Bank
+            slug: null
+            status: planning
+          - name: Central Police
+            slug: null
+            status: planning
+          - name: Central Fire Rescue
+            slug: null
+            status: planning
+          - name: YajiCard Inc. Headquarter
+            slug: null
+            status: planning
+  - name: Crêpobeur
+    slug: null
+    code: CPB
+    lines:
+      - name: Crêpobeur Funicular
+        status: operational
+        slug: null
+        code: CBF
+        stations:
+          - name: Crêpo Peak
+            slug: null
+            status: operational
+          - name: Tax Evasion Chalet
+            slug: null
+            status: operational
+  - name: Nether Express
+    slug: nex
+    code: NEX
+    lines:
+      - name: Ender Line
+        status: operational
+        slug: nex-ender-line
+        code: ENL
+        stations:
+          - name: Southern Pale Garden Junction
+            slug: null
+            status: operational
+          - name: Fortress
+            slug: fortress
+            status: operational
+          - name: Froglight Farm
+            slug: froglight-farm
+            status: operational
+          - name: Squid Farm
+            slug: squid-farm
+            status: operational
+          - name: Slime Farm
+            slug: slime-farm
+            status: operational
+          - name: Shin-Akiyama Gateway
+            slug: shin-akiyama
+            status: operational
+          - name: Southern Highlands
+            slug: southern-highlands
+            status: operational
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: Stronghold
+            slug: stronghold
+            status: operational
+          - name: Guardian Farm
+            slug: guardian-farm
+            status: operational
+          - name: New Beijing
+            slug: new-beijing
+            status: operational
+          - name: Eastern Shroomland
+            slug: eastern-shroomland
+            status: operational
+      - name: New Hainan Line
+        status: operational
+        slug: nex-t-train-line
+        code: NHL
+        stations:
+          - name: Drowned Farm
+            slug: null
+            status: operational
+          - name: NEX Forestry
+            slug: null
+            status: operational
+          - name: New Taichung
+            slug: new-taichung
+            status: operational
+          - name: WHY Central
+            slug: why-central
+            status: operational
+          - name: New Hainan Airport
+            slug: null
+            status: operational
+          - name: Shulker Farm
+            slug: shulker-farm
+            status: operational
+          - name: Stronghold
+            slug: stronghold
+            status: operational
+          - name: Dorokawa Gōryū
+            slug: dorokawa-goryu
+            status: operational
+      - name: Southern Pale Garden Shuttle
+        status: operational
+        slug: null
+        code: PGS
+        stations:
+          - name: Southern Pale Garden Junction
+            slug: null
+            status: operational
+          - name: Southern Pale Garden
+            slug: null
+            status: operational
+      - name: Nowhere Line
+        status: operational
+        slug: nex-nowhere-line
+        code: NWL
+        stations:
+          - name: Guardian Farm
+            slug: guardian-farm
+            status: operational
+          - name: Nowhere
+            slug: nowhere
+            status: operational
+      - name: Spider Farm Shuttle
+        status: operational
+        slug: nex-spider-farm-shuttle
+        code: SFS
+        stations:
+          - name: WHY Central Base
+            slug: why-central-base
+            status: operational
+          - name: Spider Farm
+            slug: spider-farm
+            status: operational
+      - name: Witch Farm Shuttle
+        status: replaced (MZL)
+        slug: nex-witch-farm-shuttle
+        code: WFS
+        stations:
+          - name: Froglight Farm Overworld
+            slug: froglight-farm
+            status: replaced (MZL)
+          - name: Witch Farm
+            slug: null
+            status: replaced (MZL)
+  - name: RichardRail
+    slug: null
+    code: RRL
+    lines:
+      - name: Trunk Line
+        status: operational
+        slug: null
+        code: RTL
+        stations:
+          - name: Port Matsuura
+            slug: null
+            status: closed
+          - name: Richardsbay Central
+            slug: null
+            status: closed
+          - name: Takehama
+            slug: null
+            status: planning
+          - name: New Chongqing
+            slug: null
+            status: operational
+          - name: Sakurauchi
+            slug: null
+            status: operational
+          - name: Tahmoor
+            slug: null
+            status: operational
+          - name: Thirlmere
+            slug: null
+            status: operational
+          - name: Wakame
+            slug: null
+            status: operational
+          - name: Yamamigaoka
+            slug: null
+            status: operational
+      - name: Bay Line
+        status: planning
+        slug: null
+        code: RBL
+        stations:
+          - name: Shirokane
+            slug: null
+            status: planning
+          - name: Port Watanabe
+            slug: null
+            status: planning
+          - name: Takehama
+            slug: null
+            status: planning
+      - name: Richardopolis Light Rail
+        status: planning
+        slug: null
+        code: RLR
+        stations:
+          - name: Sakigawa
+            slug: null
+            status: planning
+          - name: New Chongqing
+            slug: null
+            status: planning
+          - name: Kusadou
+            slug: null
+            status: planning
+          - name: Aoumabashi
+            slug: null
+            status: planning
+          - name: Ayasejima
+            slug: null
+            status: planning
+          - name: Otomisaki
+            slug: null
+            status: planning
+          - name: Otomune
+            slug: null
+            status: planning
+      - name: Mittagong Peoplemover
+        status: operational
+        slug: null
+        code: MPM
+        stations:
+          - name: Mittagong
+            slug: mittagong
+            status: operational
+          - name: Mittagong North
+            slug: null
+            status: operational
+      - name: Airport Express
+        status: transferred (SML)
+        slug: null
+        code: AEX
+        stations:
+          - name: WHY Central
+            slug: why-central
+            status: transferred (SML)
+          - name: Ayase Airport
+            slug: null
+            status: closed
+          - name: Richardsbay Central
+            slug: null
+            status: closed
+          - name: Shirokane
+            slug: null
+            status: cancelled
+      - name: Aratani Line
+        status: transferred (MZL)
+        slug: null
+        code: ATL
+        stations:
+          - name: Port Watanabe
+            slug: null
+            status: transferred (RBL)
+          - name: Shirokane
+            slug: null
+            status: transferred (RBL)
+          - name: Yoshizaki
+            slug: null
+            status: transferred (MZL)
+          - name: Hazawa
+            slug: null
+            status: transferred (MZL)
+      - name: Hazawa Funicular
+        status: cancelled
+        slug: null
+        code: RHF
+        stations:
+          - name: Hazawa
+            slug: null
+            status: cancelled
+          - name: Oak Square
+            slug: null
+            status: cancelled
+          - name: Town Centre
+            slug: null
+            status: cancelled

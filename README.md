@@ -107,7 +107,7 @@ This is a warning that someone should not do something.
 - File names should not contain non-ascii characters.
 - File names should not have spaces in them. If you have multi-word names,
   please connect them with dashes.
-- Example: `Why Central` -> `why-central`
+- Example: `WHY Central` -> `why-central`
 
 ## Folder Structure
 
@@ -139,6 +139,67 @@ index.md
   - [some other station]
 - [some other category TBA]
 ```
+
+## Metadata File
+
+There is a metadata file in the `_data` directory named `rail-metadata.yml`.
+This file contains textual data of the stations in relation to the rail lines
+and the rail networks, to make it easy for autogeneration of various things
+including a table of all stations separated by the lines and networks.
+
+The format of the file is as follow
+
+```yaml
+networks: # start of data of all networks
+  - name: ABC # name of a network
+    slug: abc # three-letter slug for said network to use for navigation
+    code: ABC # three-letter working code for said network
+    lines: # start of data for lines under said network
+      - name: A Line # name of a line under the network
+        slug: a-line # name of slug for said line to use for navigation
+        code: ALN # three-letter working code for said line
+        status: closed # status of the line (see bottom)
+        stations: # start of data for stations under said line
+          - name: A Ba Ta # name of a station under said line
+            slug: a-ba-ta # name of slug for said station to use for navigation
+            status: closed # select between operational/constructing/planning/closed
+          - name: Ka Ki Ku # name of another station under said line
+            slug: ka-ki-ku # slug for this station
+            status: closed # status for this station
+#         ^ note that the dash there indicates new item so it is data for new
+#           station when there's a new dash in the same indentation level
+#     v similarly, the dash here with this shorter indentation indicates new
+#       item, but for a new line instead of new station
+      - name: B Line # name of different lines under said network
+        slug: b-line # name of slug for this line
+        code: BLN # three-letter working code for this line
+        status: planning # the status of this line
+        stations: # start of data for stations under this line
+          - name: Ka Ga Nga # basically do the same format as the station before
+            slug: ka-ga-nga
+            status: planning
+# v the dash here with even shorter identation indicates new item, but for a
+#   new network instead of new lines or stations
+  - name: DEF # name of different network
+    slug: def # three-letter slug for this network to use for navigation
+    code: DEF # three-letter working code for this network
+    lines: # start of data for lines under this network
+      - name: X Line # basically do the same format as the lines before
+        slug: x-line
+        clode: XLN
+        status: operational
+        stations: # start of data for stations under this line
+          - name: Yap Yi Sam # basically do the same format as other station
+            slug: yap-yi-sam
+            status: operational
+
+# note: status could be selected between "operational", "constructing",
+#       "planning", "closed", "cancelled", or "transferred (XXX)" where XXX is
+#       the three letter code of a different line or network
+```
+
+This file will be updated by people who know what to edit, so don't worry about
+it if you're not familiar with how it works.
 
 ## Disclaimer
 
