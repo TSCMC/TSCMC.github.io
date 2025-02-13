@@ -44,17 +44,6 @@ Below are mods that might be useful. All of them are optional.
 Some of them have support for multiple versions and/or multiple mod loaders.
 Please pick the correct one.
 
-### I'm Lazy
-
-If you don't want to bother with manually installing each mod, you can download
-the modpack file and automagically install everything using [Prism Launcher](https://prismlauncher.org/)
-
-#### Modpack Notes
-
- - FPS Reducer might be buggy on macOS, disable it if you are having trouble
-
-Modpack download: [v2.0](https://mega.nz/folder/bExQgRQL#C43vpr6O90nIkCbQS7xhuA)
-
 ### Mod Loaders
 
 For loading mods into the Minecraft client.
