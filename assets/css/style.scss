@@ -178,3 +178,18 @@ table {
   margin: 0 auto 20px auto;
   overflow-x: auto;
 }
+
+/* Fix issues with collapsible box */
+details {
+  margin: 0 0 20px;
+  pointer: cursor;
+  cursor: pointer;
+}
+
+details[open] {
+  cursor: initial;
+}
+
+summary {
+  cursor: pointer;
+}

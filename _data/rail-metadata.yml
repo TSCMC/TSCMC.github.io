@@ -103,7 +103,7 @@ networks:
           - name: Lacon Airport Long-Term Parking
             slug: null
             status: operational
-          - name: !
+          - name: "!"
             slug: null
             status: operational
           - name: Banho
@@ -687,7 +687,7 @@ networks:
             slug: null
             status: operational
           - name: WHY Central
-            slug: null
+            slug: why-central
             status: operational
           - name: New Hainan Airport
             slug: null
@@ -812,7 +812,7 @@ networks:
             slug: null
             status: planning
           - name: WHY Central
-            slug: null
+            slug: why-central
             status: operational
           - name: Shin-Akiyama
             slug: shin-akiyama
@@ -838,7 +838,7 @@ networks:
             slug: null
             status: operational
           - name: WHY Central
-            slug: null
+            slug: why-central
             status: operational
       - name: Mio Line
         status: operational
