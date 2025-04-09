@@ -100,9 +100,10 @@ The super smelter was completely demolished in November 30 to give way to the pl
 This building has a concrete construction with the building itself reaching all the way down
 to the sea floor.<br>
 The Lacon Tower is the corporate headquarter for all of Lacon's subsidiaries that operate in
-the overworld. The building incorporates a scheme dubbed "perpetual construction," wherein the
+the overworld. The building incorporated a scheme dubbed "perpetual construction," wherein the
 building is never truly *complete*, instead being constantly expanded upward as the company's
-need expands.<br>
+need expands. However, this came to an end when the building reached the 50th floor in April 9, 2025.
+The building now has a definite top with roof an intricate roof element covering up the middle.<br>
 The building's interior employes a modular design, where sections of it can be divided up with
 wooden walls and doors and modified at an instant's notice to respond to changes in space needs
 of the different departments of the company.<br>
@@ -163,8 +164,10 @@ Floating Moonlight City/富裕月光街<br>
 
 래이컨타워는 콘크리트로 지어져 있으며, 부유월광가의 타 건물들과 달리 해저 지면에 직접 건설되어 있다.<br>
 이 건물은 래이컨 계열사 중 대다수의 본사 건물로 쓰이고 있으며, 서로 다른 자회사들의 서로 다른 공간
-요구를 충족하기 위해 "무한 건설"이라는 공법을 채용하고 있다. "무한 건설" 공법에서는 건물이 절대 "완공"되지
-않고, 계속하여 서서히 확장하는 방식으로 건설된다.<br>
+요구를 충족하기 위해 "무한 건설"이라는 공법을 사용했다. "무한 건설" 공법에서는 건물이 절대 "완공"되지
+않고, 계속하여 서서히 확장하는 방식으로 건설되었다. 그러나 건물이 50층까지 건설된 2025년 4월 9일, 래이컨의
+사장은 더이상 건물을 위로 확장하지 않겠다고 선언했다. 건물의 맨 꼭대기에는 중정을 덮는 유리 지붕이 설치되었고,
+더이상 건물 꼭대기에서 공사 소음이 들리지 않게 되었다.<br>
 건물의 구조적 부분 뿐 아니라, 건물의 내부도 이러한 유동적인 디자인 철학을 따라서, 내부에는 방화벽과
 구조적인 기둥을 제외한 그 어떠한 벽도 설치돼 있지 않다. 대신, 목재로 된 공간분리벽과 문을 사용하도록
 지시하였는데, 이 벽들을 이용하여 한 층의 설계를 완전히 바꾸는데에는 한 시간 반 밖에 걸리지 않는다고 한다.<br>
