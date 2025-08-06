@@ -41,11 +41,17 @@ different entities.
 
 ### RichardRail
 
-RichardRail (RR) owns and manages MRTC rail in the regions of Otomune, Ayase,
-Sakurauchi, New Taichung, Richardsbay, Shirokane, and Port Watanabe. The
-connection between [WHY Central Station](/rail-stations/why-central) and
-Otomune Station was completed and operational on 31st May 2024, before the rail
-gets extended westward.
+RichardRail (RR), a subsidiary of [RichardCorp]() owns and manages MRTC rail 
+across RichardCorp Organised Territories (ROCT). The connection between 
+[WHY Central Station](/rail-stations/why-central) and Otomune Station was 
+completed and operational on 31st May 2024, before the rail gets extended
+westward.
+
+RichardCorp first submitted a proposal for a westward extension of the 
+EWR by a deep tunnel through the highlands west of WHY Central, with the 
+intention of connecting it to the newly claimed Richardistan. The tunnel, at
+447m long, but 2m high was completed on 31st May 2024, the same day Otomune
+Station was first completed.
 
 The first train from [WHY Central Station](/rail-stations/why-central)
 officially departed to Otomune Station on the same day. Otomune Station was
@@ -55,9 +61,34 @@ planning, YuiTrans Mochizuki Line.
 
 In addition to owning and managing the MRTC mainline section in the regions
 aforementioned, RichardRail also owns and manages the shuttle train service,
-East-West Rail North Branch from Otomune Station to Richardsbay Central Station.
+East-West Rail North Branch from Otomune Station to Richardsbay Central Station
+via the proposed RichardCorp Ayase Airport.
 Unlike the mainline where MRTC operates the train with RichardRail managing the
-rail, this branch is wholly operated and managed by RichardRail.
+rail, this branch is wholly operated and managed by RichardRail. This shuttle has
+been abandoned after the Collapse of RichardCorp.
+
+A westward extension was later built between Otomune and Mittagong North. With RR's
+longstanding partnership with SHR, a peoplemover was built connecting to [Mittagong North]()
+on the SHR, allowing free transfers. 
+
+The line was further extended to Sakurauchi, where it finally connects to the RR Trunk,
+before continuing west to Shirokane (now Katsuragi) and Port Watanabe.
+
+Due to shoddy construction methods, RichardRail's operational license for the EWR 
+was revoked, leading to the Collapse of RichardCorp. However, after the RichardCorp
+Restructuring Programme, RichardRail and the newly formed RichardCorp Construction
+Company (RCC) were given rights to rebuild the entire network.
+
+Both the tunnel and western sections were rebuilt by RCC, with the shuttle demolished
+and the EWR straightened. The stations are also expanded, from 7m to 25m, following
+T-Train standards. Otomune Station was also selected to be the site of the new RichardCorp
+headquarters, after the Collapse resulted in the sale of RichardsBay. The rebuilt Otomune
+station and tunnels were completed on 28th July 2025, but are currently not in operation due
+to testing works.
+
+A new station slightly north, Yanagida was built to replace Sakurauchi as the RR Trunk interchange.
+This station retains the pink cherrywood design of Sakurauchi, while expanding the station size,
+fitting new standards. The station is expected to be completed by the end of August 2025.
 
 ### Yayajima High Speed Rail Incorporated
 
@@ -106,24 +137,17 @@ emoji if it's by sea or the :airplane: emoji if it's by air.
 
 This train service is run by MRTC. 
 
-{% capture ewrnamepending1 %}
-● :ael: *RR Airport Express*<br/>
-● *RR Yuuhi Line*
-{% endcapture %}
-
 {% capture ewrportwatanabe %}
 ● RR Aratani Line<br/>
 ● :anchor: *RichardCorp Boat Rapid Transit*
 {% endcapture %}
 
 {% capture ewrshirokane %}
-● :ael: RR Airport Express<br/>
 ● RR Aratani Line
 {% endcapture %}
 
 {% capture ewrotomune %}
-● RR East-West Rail North Branch<br/>
-● *RR Light Line*<br/>
+● *RR Light Rail*<br/>
 ● *YJHSR Yayajima Express*
 {% endcapture %}
 
@@ -134,7 +158,6 @@ This train service is run by MRTC.
 
 {% capture ewrwhycentral -%}
 ● :nsr: [MRTC North-South Rail](/rail-lines/mrtc-north-south-rail-line)<br/>
-● :ael: RR Airport Express<br/>
 ● :pfl: [FR Paddy Field Line](/rail-lines/fr-paddy-field-line)<br/>
 ● :volans: Volans Minecart Line<br/>
 ● :tml: YuiTrans Tenma Line<br/>
@@ -193,14 +216,14 @@ This train service is run by MRTC.
 
 | Station name | Opened | Connections | Locality | Managed by |
 |:---:|:---:|:---|:---:|:---:|
-| *[Name pending]* | upcoming | {{ ewrnamepending1 | strip_newlines}} | *[Name pending]* | RR |
-| Port Watanabe | 2024-10-10 | {{ ewrportwatanabe | strip_newlines}} | Port Watanabe | RR |
-| Shirokane | 2024-10-09 | {{ ewrshirokane | strip_newlines}} | Shirokane | RR |
-| New Taichung<br/>Gateway | 2024-10-08 | ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line) | New Taichung<br/>(in Nether) | RR |
-| Sakurauchi | 2024-06-02 | ● :trl: RR Trunk Line | Sakurauchi | RR |
-| North Mittagong | 2024-06-02 | ● RR Mittagong Peoplemover | Mittagong | RR |
-| Otomune | 2024-05-31 | {{ ewrotomune | strip_newlines}} | Otomune | RR |
-| Bowralerbrug | 2024-06-01 | {{ ewrbowralerbrug | strip_newlines}} | Bowralerbrug | RR |
+| Hinoshita (working name) | upcoming | {{ ewrnamepending1 | strip_newlines }} | Hinoshita (RCCT) | RR |
+| Port Watanabe | 2024-10-10<br/>(closed: 2025-07-21) | {{ ewrportwatanabe | strip_newlines }} | Port Watanabe | RR |
+| Katsuragi | 2024-10-09<br/>(closed: 2025-07-21) | {{ ewrshirokane | strip_newlines }} | Katsuragi (RCCT) | RR |
+| New Taichung<br/>Gateway | 2024-10-08<br/>(closed: 2025-07-21) | ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line) | New Taichung<br/>(in Nether) | RR |
+| Sakurauchi | 2024-06-02<br/>(closed: 2025-07-21) | ● :trl: RR Trunk Line | Sakurauchi | RR |
+| North Mittagong | 2024-06-02<br/>(closed: 2025-07-21) | ● RR Mittagong Peoplemover | Mittagong | RR |
+| Otomune | 2024-05-31<br/>(rebuilt: 2025-07-31) | {{ ewrotomune | strip_newlines }} | Otomune | RR |
+| Bowralerbrug | 2024-06-01<br/>(rebuilt: 2025-07-21) | {{ ewrbowralerbrug | strip_newlines }} | Bowralerbrug | RR |
 | [WHY Central](/rail-stations/why-central) | 2024-05-04 | {{ ewrwhycentral | strip_newlines }} | Spawn | MRTC |
 | Ministry of Love | 2024-05-12 | {{ ewrministryoflove | strip_newlines }} | Villager Breeder | MRTC |
 | Ministry of Trade | 2024-06-08 | {{ ewrministryoftrade | strip_newlines }} | Trading Hall | MRTC |
