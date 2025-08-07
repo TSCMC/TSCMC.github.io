@@ -67,3 +67,18 @@ A new airport at the Western Strategy, known simply as **RHX** or **RHX Airport*
 code originally used for Ayase Airport, this is expected to be built at the Southwestern Sea and will
 consist of a single runway but with room for expansion. This is also expected to be the headquarters 
 and main hub of RichardAir and Izumi Air Cargo, replacing temporary offices at New Beijing Airport.
+Due to the huge size, RHX is considered its own territory, with its own mayor, and is the only one where
+claims are mostly on water.
+
+### New Taichung, Nether
+The only extra-realm territory claimed by ROCT. Located in the Nether, New Taichung is envisioned as a
+tax-free area for dead businessmen in hell.
+
+## Development
+### Tallest Structures
+| Name | Territory | Height |
+| RichardCorp One | Otomune | 319m/293m |
+| Ceras Labs Tower</br>(Yanagi Central 1) | Yanagida | 278m |
+| Lilienfeld Tower</br>(Yanagi Central 2) | Yanagida | 278m |
+| RichLife Building | Otomune | 240m |
+| RichardCorp Two | Otomune | 224m |

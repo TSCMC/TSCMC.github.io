@@ -42,8 +42,8 @@ different entities.
 ### RichardRail
 
 RichardRail (RR), a subsidiary of [RichardCorp]() owns and manages MRTC rail 
-across RichardCorp Organised Territories (ROCT). The connection between 
-[WHY Central Station](/rail-stations/why-central) and Otomune Station was 
+across RichardCorp Organised Controlled Territories (ROCT). The connection 
+between [WHY Central Station](/rail-stations/why-central) and Otomune Station was 
 completed and operational on 31st May 2024, before the rail gets extended
 westward.
 
@@ -82,7 +82,7 @@ Company (RCC) were given rights to rebuild the entire network.
 Both the tunnel and western sections were rebuilt by RCC, with the shuttle demolished
 and the EWR straightened. The stations are also expanded, from 7m to 25m, following
 T-Train standards. Otomune Station was also selected to be the site of the new RichardCorp
-headquarters, after the Collapse resulted in the sale of RichardsBay. The rebuilt Otomune
+headquarters, after the Collapse resulted in the abandonment of RichardsBay. The rebuilt Otomune
 station and tunnels were completed on 28th July 2025, but are currently not in operation due
 to testing works.
 
@@ -137,13 +137,14 @@ emoji if it's by sea or the :airplane: emoji if it's by air.
 
 This train service is run by MRTC. 
 
-{% capture ewrportwatanabe %}
-● RR Aratani Line<br/>
-● :anchor: *RichardCorp Boat Rapid Transit*
-{% endcapture %}
 
 {% capture ewrshirokane %}
 ● RR Aratani Line
+{% endcapture %}
+
+{% capture ewryanagida %}
+● *RR Trunk Line*
+● *RR Light Rail*
 {% endcapture %}
 
 {% capture ewrotomune %}
@@ -216,12 +217,14 @@ This train service is run by MRTC.
 
 | Station name | Opened | Connections | Locality | Managed by |
 |:---:|:---:|:---|:---:|:---:|
-| Hinoshita (working name) | upcoming | {{ ewrnamepending1 | strip_newlines }} | Hinoshita (RCCT) | RR |
-| Port Watanabe | 2024-10-10<br/>(closed: 2025-07-21) | {{ ewrportwatanabe | strip_newlines }} | Port Watanabe | RR |
-| Katsuragi | 2024-10-09<br/>(closed: 2025-07-21) | {{ ewrshirokane | strip_newlines }} | Katsuragi (RCCT) | RR |
+| Hinoshita (working name) | upcoming | {{ ewrnamepending1 | strip_newlines }} | Hinoshita (ROCT) | RR |
+| Port Watanabe | 2024-10-10<br/>(closed: 2025-07-21) | {{ ewrportwatanabe | strip_newlines }} | Katsuragi (ROCT) | RR |
+| Katsuragi | 2024-10-09<br/>(closed: 2025-07-21) | {{ ewrshirokane | strip_newlines }} | Katsuragi (ROCT) | RR |
 | New Taichung<br/>Gateway | 2024-10-08<br/>(closed: 2025-07-21) | ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line) | New Taichung<br/>(in Nether) | RR |
-| Sakurauchi | 2024-06-02<br/>(closed: 2025-07-21) | ● :trl: RR Trunk Line | Sakurauchi | RR |
+| Sakurauchi | 2024-06-02<br/>(closed: 2025-07-21) | ● :trl: RR Trunk Line | Yanagida (ROCT) | RR |
 | North Mittagong | 2024-06-02<br/>(closed: 2025-07-21) | ● RR Mittagong Peoplemover | Mittagong | RR |
+| Yanagida | 2025-08-02 | {{ ewryanagida | strip_newlines }} | Yanagida (ROCT) | RR |
+| Fujishima | *provisional* |  | Fujishima (ROCT) | RR |
 | Otomune | 2024-05-31<br/>(rebuilt: 2025-07-31) | {{ ewrotomune | strip_newlines }} | Otomune | RR |
 | Bowralerbrug | 2024-06-01<br/>(rebuilt: 2025-07-21) | {{ ewrbowralerbrug | strip_newlines }} | Bowralerbrug | RR |
 | [WHY Central](/rail-stations/why-central) | 2024-05-04 | {{ ewrwhycentral | strip_newlines }} | Spawn | MRTC |
@@ -252,34 +255,3 @@ This train service is run by MRTC.
 | *Mycellium Delight* | upcoming | ● :nether: *[NEX Ender Line](/rail-lines/nex-ender-line)* | Mycellium Delight | MRTC |
 
 Note: TBD = to be determined
-
-### Branch Station
-
-#### East-West Rail North Branch
-
-This train service is run by RichardRail.
-
-{% capture ewrnbrbc %}
-● :ael: RR Airport Express<br/>
-● :trl: RR Trunk Line
-{% endcapture %}
-
-{% capture ewrnbaap %}
-● :ael: RR Airport Express<br/>
-● :airplane: Ayase Airport
-{% endcapture %}
-
-{% capture ewrnbotomune %}
-● :ewr: East-West Rail<br/>
-● *RR Light Line*<br/>
-● *YJHSR Yayajima Express*
-{% endcapture %}
-
-| Station name | Opened | Connections | Locality | Managed by |
-|:---:|:---:|:---|:---:|:---:|
-| *Takehama* | upcoming | ● *RR Aratani Line* | *Takehama* | RR |
-| *[Name pending]* | upcoming | - | *[Name pending]* | RR |
-| Richardsbay Central | 2024-06-01 | {{ ewrnbrbc | strip_newlines}} | Richardsbay | RR |
-| *Aoumabashi* | upcoming | ● *RR Light Line* | Aoumabashi | RR |
-| Ayase Airport | 2024-06-01 | {{ ewrnbaap | strip_newlines}} | Ayase | RR |
-| Otomune | 2024-05-31 | {{ ewrnbotomune | strip_newlines}} | Otomune | RR |
