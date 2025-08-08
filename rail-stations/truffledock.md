@@ -8,6 +8,7 @@ description: TruffleDock
 
 TruffleDock station, officially stylized in that exact way, is a station
 on the vicinity of TruffleResort, mainly serving block A-D of the resort, while also serving TruffleDock. 
+It is currently the terminus for both Marin Line and Henrietta Line
 
 ## Lines
 
