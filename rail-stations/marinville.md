@@ -6,7 +6,7 @@ description: Marinville
 
 # Marinville
 
-Marinville station is a station at the resort island of Marinville, serving the entertainment district
+Marinville station is a station at the resort island of Marinville, serving the island of entertainment district.
 
 ## Lines
 
