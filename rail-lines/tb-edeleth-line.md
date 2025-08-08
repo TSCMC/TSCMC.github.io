@@ -14,7 +14,6 @@ Trains runs each way every 5-12 minutes, from 4AM until midnight.
 
 Station Name | Connections |
 --- | ---|
-
 [Adrestia](/rail-stations/adrestia) | TruffleBahn Henrietta Line | 
 [Ordelia](/rail-stations/ordelia) | - | 
 [Tailtean](/rail-stations/tailtean) | - | 
