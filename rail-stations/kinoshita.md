@@ -7,7 +7,7 @@ description: Kinoshita
 # Kinoshita
 
 Kinoshita station is a transfer-only station of the TruffleBahn system
-serving transfer between Marin Line and Edeleth Line. It also acts as current terminus of Marin Line
+serving transfer between Marin Line and Edeleth Line. It also acts as current terminus of Marin Line.
 
 ## Lines
 
