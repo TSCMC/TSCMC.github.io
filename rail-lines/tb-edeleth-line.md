@@ -5,7 +5,7 @@ description: TruffleBahn Edeleth Line
 ---
 
 # TruffleBahn Edeleth Line
-The Marin Line is a light metro line connecting Adrestia to Sand Duper.
+The Edeleth Line is a light metro line connecting Adrestia to Sand Duper.
 
 ## Services
 Trains runs each way every 5-12 minutes, from 4AM till midnight
