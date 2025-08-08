@@ -14,7 +14,7 @@ Trains runs each way every 10-15 minutes, from 4AM till midnight
 
 Station Name | Connections |
 --- | ---| ---
-[TruffleDock](/rail-stations/trufflefock) | TruffleBahn Henrietta Line<br> | 
+[TruffleDock](/rail-stations/truffledock) | TruffleBahn Henrietta Line<br> | 
 [TruffleResort](/rail-stations/truffleresort) | TruffleBahn Henrietta Line<br> Lacon Main Line <br>| 
 [Marinville](/rail-stations/marinville) | - | 
 [Kinoshita](/rail-stations/kinoshita) | TruffleBahn Edeleth Line | 
