@@ -14,4 +14,5 @@ on the vicinity of TruffleResort, mainly around The Frieren of the resort. The L
 
 - [Lacon Main Line](/rail-lines/lcn-main-line)
 - [TruffleBahn Marin Line](/rail-lines/tb-marin-line)
-- [TruffleBahn Marin Line](/rail-lines/tb-henrietta-line)
+- [TruffleBahn Henrietta Line](/rail-lines/tb-henrietta-line)
+
