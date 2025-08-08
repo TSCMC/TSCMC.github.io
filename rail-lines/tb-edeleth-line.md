@@ -8,7 +8,7 @@ description: TruffleBahn Edeleth Line
 The Edeleth Line is a light metro line connecting Adrestia to Sand Duper.
 
 ## Services
-Trains runs each way every 5-12 minutes, from 4AM till midnight
+Trains runs each way every 5-12 minutes, from 4AM until midnight.
 
 ## Stations
 
