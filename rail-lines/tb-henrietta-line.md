@@ -14,10 +14,10 @@ Trains runs each way every 5-12 minutes, from 4AM until midnight.
 
 Station Name | Connections |
 --- | ---
-[TruffleDock](/rail-stations/truffledock) | TruffleBahn Marin Line<br> | 
-[TruffleResort](/rail-stations/truffleresort) | TruffleBahn Marin Line<br> Lacon Main Line <br>| 
+[TruffleDock](/rail-stations/truffledock) | [TruffleBahn Marin Line](/rail-lines/tb-marin-line) | 
+[TruffleResort](/rail-stations/truffleresort) |[TruffleBahn Marin Line](/rail-lines/tb-marin-line)<br> [Lacon Main Line](/rail-lines/lcn-main-line)<br>| 
 [YuruCamp](/rail-stations/yurucamp) | - | 
-[Adrestia](/rail-stations/adrestia) | TruffleBahn Edeleth Line | 
+[Adrestia](/rail-stations/adrestia) | [TruffleBahn Edeleth Line](/rail-lines/tb-edeleth-line) | 
 [Kukumila Hill](/rail-stations/kukumila-hill) | - | 
 
 
