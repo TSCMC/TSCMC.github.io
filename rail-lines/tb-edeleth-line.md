@@ -18,7 +18,7 @@ Station Name | Connections |
 [Ordelia](/rail-stations/ordelia) | - | 
 [Tailtean](/rail-stations/tailtean) | - | 
 [Kinoshita](/rail-stations/kinoshita) | TruffleBahn Marin Line | 
-[Hayasaka](/rail-stations/Hayasaka) | Southern Highlands Railway Southern Line | 
+[Hayasaka](/rail-stations/hayasaka) | Southern Highlands Railway Southern Line | 
 [Sand Duper](/rail-stations/sand-duper) | Lacon Main Line <br> The Woodlands Express <br>| 
 
 ## History
