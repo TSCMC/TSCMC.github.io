@@ -13,7 +13,7 @@ Trains runs each way every 5-12 minutes, from 4AM until midnight.
 ## Stations
 
 Station Name | Connections |
-
+--- | ---
 [TruffleDock](/rail-stations/truffledock) | TruffleBahn Marin Line<br> | 
 [TruffleResort](/rail-stations/truffleresort) | TruffleBahn Marin Line<br> Lacon Main Line <br>| 
 [YuruCamp](/rail-stations/yurucamp) | - | 
