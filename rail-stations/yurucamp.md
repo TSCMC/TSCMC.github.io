@@ -4,7 +4,7 @@ title: YuruCamp station
 description: YuruCamp
 ---
 
-# TruffleResort
+# YuruCamp
 
 YuruCamp station, officially stylized in that exact way, is a station
 on the vicinity of the YuruCamp campgrounds district.
