@@ -5,7 +5,7 @@ description: RichardCorp Occupied Controlled Territories
 ---
 
 **RichardCorp Occupied Controlled Territories (ROCT)** is land controlled by RichardCorp.
-ROCT was formed by RichardCorp to enhance development northwest of the Southern Highlands.
+ROCT was formed by RichardCorp to enhance development northwest of the [Southern Highlands](/areas/southern-highlands.md).
 The de-facto head of state is Richard Head VIII, the hereditary CEO of RichardCorp. However,
 the so-called country is mainly led by a Protector and a Council of Mayors. The official
 languages are English using British spelling, Japanese and Malay (unlike Yayajima, only in 
