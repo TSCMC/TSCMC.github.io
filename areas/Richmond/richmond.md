@@ -1,33 +1,44 @@
 ---
 layout: default
-title: RichardCorp Occupied Controlled Territories
-description: RichardCorp Occupied Controlled Territories
+title: Richmond
+description: Richmond
 ---
 
+<<<<<<< HEAD:areas/ROCT/roct.md
 **RichardCorp Occupied Controlled Territories (ROCT)** is land controlled by RichardCorp.
 ROCT was formed by RichardCorp to enhance development northwest of the [Southern Highlands](/areas/southern-highlands.md).
 The de-facto head of state is Richard Head VIII, the hereditary CEO of RichardCorp. However,
 the so-called country is mainly led by a Protector and a Council of Mayors. The official
 languages are English using British spelling, Japanese and Malay (unlike Yayajima, only in 
 the Latin script).
+=======
+The **Federation of Richmond** is a country northwest of the Southern Highlands, formerly
+owned by RichardCorp as the 
+**RichardCorp Occupied Controlled Territories (ROCT)** as a breakaway state of Southern
+Highlands for quicker development.The official languages are English using British 
+spelling, Japanese and Malay (unlike Yayajima, only in the Latin script).
+>>>>>>> f8bb458ab8f9387aa5f81b24a87b50c85a330a25:areas/Richmond/richmond.md
 
 ## History
-Despite taking up unclaimed land north of Southern Highlands. ROCT was technically split out
+Despite taking up unclaimed land north of Southern Highlands. Richmond was technically split out
 of the Southern Highlands. While the de-jure reason was to enhance development and building a
-free society, it was rumoured to actually be due to tax evasion. Southern Highlands and ROCT,
-despite the split, have an amicable relationship, with the ROCT-Southern Highlands Economic 
+free society, it was rumoured to actually be due to tax evasion. Southern Highlands and Richmond,
+despite the split, have an amicable relationship, with the Richmond-Southern Highlands Economic 
 Partnership Treaty (RiSEPT) ensuring free trade and open borders between the two nations.
 
 Despite the current "Western Strategy", the original plan was a Northerly expansion, however
 it was failed due to excessive costs and the First Bankruptcy, causing land to be sold to
 Volans.
 
-## Territories
+On 4th September 2025, ROCT was restructured as a nation-state, splitting all connections with
+RichardCorp. This new state, called Richmond, intends to remain as a tax haven.
+
+## Prefectures (formerly Territories)
 ### Otomune (乙宗)
-Otomune is the current capital of ROCT and the headquarters of RichardCorp. RichardCorp Tower
+Otomune is the current capital of Richmond and the headquarters of RichardCorp. RichardCorp Tower
 is the tallest building west of WHY Central and also holds on its roof, the RichTel Antenna, 
 one of the highest range telecom/cellular tower in the server. Otomune is regarded as the white-
-collar part of ROCT, with offices and companies.
+collar part of Richmond, with offices and companies. It is also the home of Richmond University.
 
 ### Yanagida (柳田)
 Yanagida is home to Yanagida Complex, the largest and densest public housing complex in the
@@ -44,8 +55,8 @@ Ayase Airport. The airport was never built due to lack of funding and narrow app
 both Sakurauchi Hill and Mount Fujishima, and also proximity to Hoge Zwaluw Airport. 
 
 ### Yuugiri (夕霧)
-Formerly known as RichardsBay Central and Richardopolis, this was planned as the capital of ROCT
-and headquarters of RichardCorp, due to its proximity to the sea, as well as RichardsBay (actually
+Formerly known as RichardsBay Central and Richardopolis, this was planned as the capital of the former 
+ROCT and headquarters of RichardCorp, due to its proximity to the sea, as well as RichardsBay (actually
 a riverbend). This was cancelled after the bankrupcy of RichardCorp. Yuugiri is now home to RC Farms,
 one of the largest farms in the server, and development would be kept to a minimum. Yuugiri literally
 means "evening mist", referring to the fog that covers the forest at sunset, which would disappear if
@@ -62,6 +73,12 @@ While the proposed borders are not confirmed, a western expansion is being plann
 This includes an all new airport, and a further extension of the East-West Rail (EWR), and the
 acquisition of many villages en-route.
 
+### Hinoshita
+The easternmost claim of the Western Strategy. Hinoshita is home to a large village and also has
+large, sweeping hills, a vast natural harbour with large beaches, as well as the "Four Sisters",
+four savanna islets with beaches. This is gazetted as a tourist area, with development minimising
+density.
+
 ### New RichardCorp Airport (RHX)
 A new airport at the Western Strategy, known simply as **RHX** or **RHX Airport**, the official IATA
 code originally used for Ayase Airport, this is expected to be built at the Southwestern Sea and will
@@ -72,7 +89,7 @@ claims are mostly on water.
 
 ### New Taichung, Nether
 The only extra-realm territory claimed by ROCT. Located in the Nether, New Taichung is envisioned as a
-tax-free area for dead businessmen in hell.
+tax-free area for dead businessmen in hell. It is currently on hold.
 
 ## Development
 ### Tallest Structures
