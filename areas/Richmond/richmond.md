@@ -4,7 +4,7 @@ title: Richmond
 description: Richmond
 ---
 
-The **Federation of Richmond** is a country northwest of the [Southern Highlands](/areas/southern-highlands.md), formerly
+The **Federation of Richmond** is a country northwest of the [Southern Highlands](/areas/southern-highlands), formerly
 owned by RichardCorp as the 
 **RichardCorp Occupied Controlled Territories (ROCT)** as a breakaway state of Southern
 Highlands for quicker development.The official languages are English using British 
