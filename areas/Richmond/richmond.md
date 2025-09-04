@@ -4,20 +4,17 @@ title: Richmond
 description: Richmond
 ---
 
-<<<<<<< HEAD:areas/ROCT/roct.md
 **RichardCorp Occupied Controlled Territories (ROCT)** is land controlled by RichardCorp.
 ROCT was formed by RichardCorp to enhance development northwest of the [Southern Highlands](/areas/southern-highlands.md).
 The de-facto head of state is Richard Head VIII, the hereditary CEO of RichardCorp. However,
 the so-called country is mainly led by a Protector and a Council of Mayors. The official
 languages are English using British spelling, Japanese and Malay (unlike Yayajima, only in 
 the Latin script).
-=======
 The **Federation of Richmond** is a country northwest of the Southern Highlands, formerly
 owned by RichardCorp as the 
 **RichardCorp Occupied Controlled Territories (ROCT)** as a breakaway state of Southern
 Highlands for quicker development.The official languages are English using British 
 spelling, Japanese and Malay (unlike Yayajima, only in the Latin script).
->>>>>>> f8bb458ab8f9387aa5f81b24a87b50c85a330a25:areas/Richmond/richmond.md
 
 ## History
 Despite taking up unclaimed land north of Southern Highlands. Richmond was technically split out
