@@ -21,8 +21,9 @@ Recognised<br/>Languages | Japanese<br/>Chinese<br/>Toki Pona
   infoboxcontent=southernhighlandsinfo
 %}
 
-The **Southern Highlands** is a region to the southwest of [spawn](/areas/cityofwhy.md) governed
-by the the Southern Highlands Regional Council (SHRC). It is bordered by [Richmond](/areas/Richmond/richmond.md)
+The **Southern Highlands** (sometimes abbreviated as **SoHi**) is a region to the
+southwest of [spawn](/areas/cityofwhy.md) governed by the the
+Southern Highlands Regional Council (SHRC). It is bordered by [Richmond](/areas/Richmond/richmond.md)
 to the northwest, Truffle Resort to the south, and Shin-Akiyama and [New Beijing](/areas/cums/new-beijing.md)
 to the southeast. The region is home to a large poppulation of villagers which
 are given free roam - the largest transportation, financial, and population centre
