@@ -217,13 +217,13 @@ This train service is run by MRTC.
 
 | Station name | Opened | Connections | Locality | Managed by |
 |:---:|:---:|:---|:---:|:---:|
-| Hinoshita (working name) | upcoming | {{ ewrnamepending1 | strip_newlines }} | Hinoshita (ROCT) | RR |
-| Port Watanabe | 2024-10-10<br/>(closed: 2025-07-21) | {{ ewrportwatanabe | strip_newlines }} | Katsuragi (ROCT) | RR |
-| Katsuragi | 2024-10-09<br/>(closed: 2025-07-21) | {{ ewrshirokane | strip_newlines }} | Katsuragi (ROCT) | RR |
+| Hinoshita (working name) | upcoming | {{ ewrnamepending1 | strip_newlines }} | Hinoshita | RR |
+| Port Watanabe | 2024-10-10<br/>(closed: 2025-07-21) | {{ ewrportwatanabe | strip_newlines }} | Katsuragi | RR |
+| Katsuragi | 2024-10-09<br/>(closed: 2025-07-21) | {{ ewrshirokane | strip_newlines }} | Katsuragi | RR |
 | New Taichung<br/>Gateway | 2024-10-08<br/>(closed: 2025-07-21) | ● :nether: [NEX T-Train Line](/rail-lines/nex-t-train-line) | New Taichung<br/>(in Nether) | RR |
-| Sakurauchi | 2024-06-02<br/>(closed: 2025-07-21) | ● :trl: RR Trunk Line | Yanagida (ROCT) | RR |
+| Sakurauchi | 2024-06-02<br/>(closed: 2025-07-21) | ● :trl: RR Trunk Line | Yanagida | RR |
 | North Mittagong | 2024-06-02<br/>(closed: 2025-07-21) | ● RR Mittagong Peoplemover | Mittagong | RR |
-| Yanagida | 2025-08-02 | {{ ewryanagida | strip_newlines }} | Yanagida (ROCT) | RR |
+| Yanagida | 2025-08-02 | {{ ewryanagida | strip_newlines }} | Yanagida | RR |
 | Fujishima | *provisional* |  | Fujishima (ROCT) | RR |
 | Otomune | 2024-05-31<br/>(rebuilt: 2025-07-31) | {{ ewrotomune | strip_newlines }} | Otomune | RR |
 | Bowralerbrug | 2024-06-01<br/>(rebuilt: 2025-07-21) | {{ ewrbowralerbrug | strip_newlines }} | Bowralerbrug | RR |

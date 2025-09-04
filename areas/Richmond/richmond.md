@@ -3,11 +3,13 @@ layout: default
 title: Richmond
 description: Richmond
 ---
-
+**Federation of Richmond**
+Japanese: 理国連邦 (Rigoku Renpou)
+Malay: Persekutuan Richmond
 The **Federation of Richmond** is a country northwest of the Southern Highlands, formerly
 owned by RichardCorp as the 
-**RichardCorp Occupied Controlled Territories (ROCT)** as a breakaway state of Southern
-Highlands for quicker development.The official languages are English using British 
+**RichardCorp-Occupied Controlled Territories (ROCT)** as a breakaway state of Southern
+Highlands for quicker development. The official languages are English using British 
 spelling, Japanese and Malay (unlike Yayajima, only in the Latin script).
 
 ## History
