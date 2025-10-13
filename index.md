@@ -132,6 +132,14 @@ on the server.
 </details>
 {% endif %}
 
+## Companies
+
+{% for page in pages -%}
+{% if page.url contains "/companies" -%}
+- [{{page.title}}]({{page.url}})
+{% endif -%}
+{% endfor %}
+
 ## Transit Map
 
 This is the overall transit map of the TSC Minecraft server:
