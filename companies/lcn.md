@@ -70,7 +70,7 @@ section.
 - Lacon Postal Services
 	- Shelter Post
 	- Federal Post (half-public)
-	- Lacon Express
+	- Fur Ex
 - Lagcom and Legin Foundation
 	- FMC University Campus of Knowledge (FUCK)
 	- Marina Bay Gravels University (FBGU)
