@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richardcopr
+title: Richardcorp
 description: Lorem Ipsum dolor sit amet.
 ---
 
