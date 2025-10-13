@@ -6,7 +6,7 @@ description: The most extensive overworld railway network in the server
 
 # Lacon Railway
 
-Lacon Railway is an extensive network of overworld railways that spans most regions of the server.
+Lacon Railway is the main subsidiary of [Lacon Inc.](/companies/lcn), controlling an extensive network of overworld railways that spans most regions of the server.
 The network is comprised of Lacon Railway itself and several subsidiaries, Shin-Lacon and Sancheon Rapid.
 <br><br>
 Lacon itself directly operates the Lacon Main Line and Lacon Kurageshima Line. These lines connect the far
