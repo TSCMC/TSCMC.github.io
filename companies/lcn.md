@@ -82,7 +82,12 @@ section.
 	- Sancheon Shipbuilding
 	- Lacon Commercial Vehicles
 	- Sancheon War Machineries
+- Lacon Telecommunications
+	- Mobile Express
+	- United Telephone and Telegram (UT&T)
+	- Lacon Mobile
 
 ### Defunct Subsidiaries
+
 - Lacon Motors<br>Went defunct due to a sharp decline in demand for cars in the wake of the Great Transit Revolution.<br>Bus production was absorbed to Lacon Commercial Vehicles.
 - Lacon Nuclear<br>The weapons department was absorbed to Sancheon Heavy Industries.<br>The energy department was absorbed to Lacon Electric.
