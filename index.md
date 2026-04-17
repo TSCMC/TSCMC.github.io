@@ -7,6 +7,8 @@ description: Information related to the TSC Minecraft server
 
 Information related to the TSC Minecraft server will be written on this website!
 
+![The players <>](/assets/img/players.png "The players")
+
 ## Pages on this website
 
 {% assign pages = site.pages | where_exp: 'page', 'page.title' -%}
