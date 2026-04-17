@@ -20,8 +20,9 @@ Last extension | 2024-10-28<br/>(Merran Bay<br/>- Slime Farm)
 
 # Southern Line
 
-The Southern Line is a metro rail line of the [Southern Highlands Railway](/rail-networks/shr).
-It through-runs with the [Meadowbank Line](/rail-lines/shr-meadowbank-line) at
+The Southern Line is a metro rail line of the
+[Southern Highlands Railway](/rail-networks/shr). It through-runs with the
+[Meadowbank Line](/rail-lines/shr-meadowbank-line) at
 [Sakura Park](/rail-stations/sakura-park), effectively forming a single service
 between Bowralerbrug and Slime Farm which stops at Moss Vale twice.
 

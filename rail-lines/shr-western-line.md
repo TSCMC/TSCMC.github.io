@@ -20,9 +20,10 @@ Last extension | 2024-10-29<br/>(Moss Vale<br/>- Sakurako)
 
 # Western Line
 
-The Western Line is a suburban rail line of the [Southern Highlands Railway](/rail-networks/shr).
-It is mostly contained within the [Southern Highlands region](/areas/southern-highlands),
-serving its western suburbs.
+The Western Line is a suburban rail line of the
+[Southern Highlands Railway](/rail-networks/shr). It is mostly contained within
+the [Southern Highlands region](/areas/southern-highlands), serving its western
+suburbs.
 
 ## Stations
 

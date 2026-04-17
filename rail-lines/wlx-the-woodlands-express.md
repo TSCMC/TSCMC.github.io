@@ -12,8 +12,8 @@ description: Main rail line of The Woodlands Express Railway
 This is a third-sector rail line, operated by The Woodlands Express Railway.
 The line through-operates with the Lacon Main Line from Sand Duper, essentially
 functioning as a branch line of Lacon.<br>
-There is a planned branch to Rhoscoed as the line currently passes close to, but does not serve
-Rhoscoed.
+There is a planned branch to Rhoscoed as the line currently passes close to, but
+does not serve Rhoscoed.
 
 ## Stations
 

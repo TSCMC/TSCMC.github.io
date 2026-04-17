@@ -22,4 +22,6 @@ Station Name | Connections |
 [Sand Duper](/rail-stations/sand-duper) | [Lacon Main Line](/rail-lines/lcn-main-line)<br> [The Woodlands Express](/rail-lines/wlx-the-woodlands-express)<br>| 
 
 ## History
-The Edeleth Line is the third line of TruffleBahn, originally planned as a 3 station shuttle to serve the Fodlan area, it was extended to Sand Duper to increase connectivity.
+The Edeleth Line is the third line of TruffleBahn, originally planned as a 3
+station shuttle to serve the Fodlan area, it was extended to Sand Duper to
+increase connectivity.

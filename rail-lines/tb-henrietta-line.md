@@ -5,7 +5,8 @@ description: TruffleBahn Henrietta Line
 ---
 
 # TruffleBahn Henrietta Line
-The Henrietta Line is a light metro line connecting TruffleDock to Kukumila Hill.
+The Henrietta Line is a light metro line connecting TruffleDock to Kukumila
+Hill.
 
 ## Services
 Trains runs each way every 5-12 minutes, from 4AM until midnight.
@@ -22,6 +23,7 @@ Station Name | Connections |
 
 
 ## History
-The Henrietta Line is the second line of TruffleBahn, It is a result of separation of Marin Line due to railway reconstruction.
+The Henrietta Line is the second line of TruffleBahn, It is a result of
+separation of Marin Line due to railway reconstruction.
 
 Extension to Lisvane and Thornhill are planned.

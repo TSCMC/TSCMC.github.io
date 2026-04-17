@@ -20,6 +20,10 @@ Station Name | Connections |
 [Kinoshita](/rail-stations/kinoshita) | [TruffleBahn Edeleth Line](/rail-lines/tb-edeleth-line) | 
 
 ## History
-The Marin Line is the first line of TruffleBahn, originally operating as a shuttle from Marinville to TruffleResort. As demands increased and more areas developed, the line was extended via TruffleDock towards Adrestia. Soon after, a railway reconstruction was done to improve traffic, and services from TruffleDock onwards are taken by Henrietta Line. 
+The Marin Line is the first line of TruffleBahn, originally operating as a
+shuttle from Marinville to TruffleResort. As demands increased and more areas
+developed, the line was extended via TruffleDock towards Adrestia. Soon after, a
+railway reconstruction was done to improve traffic, and services from
+TruffleDock onwards are taken by Henrietta Line.
 
 Further South/Southwest extension are planned.

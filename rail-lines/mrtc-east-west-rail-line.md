@@ -43,8 +43,8 @@ different entities.
 
 RichardRail (RR), a subsidiary of [RichardCorp]() owns and manages MRTC rail 
 across RichardCorp Organised Controlled Territories (ROCT). The connection 
-between [WHY Central Station](/rail-stations/why-central) and Otomune Station was 
-completed and operational on 31st May 2024, before the rail gets extended
+between [WHY Central Station](/rail-stations/why-central) and Otomune Station
+was completed and operational on 31st May 2024, before the rail gets extended
 westward.
 
 RichardCorp first submitted a proposal for a westward extension of the 
@@ -64,38 +64,41 @@ aforementioned, RichardRail also owns and manages the shuttle train service,
 East-West Rail North Branch from Otomune Station to Richardsbay Central Station
 via the proposed RichardCorp Ayase Airport.
 Unlike the mainline where MRTC operates the train with RichardRail managing the
-rail, this branch is wholly operated and managed by RichardRail. This shuttle has
-been abandoned after the Collapse of RichardCorp.
+rail, this branch is wholly operated and managed by RichardRail. This shuttle
+has been abandoned after the Collapse of RichardCorp.
 
-A westward extension was later built between Otomune and Mittagong North. With RR's
-longstanding partnership with SHR, a peoplemover was built connecting to [Mittagong North]()
-on the SHR, allowing free transfers. 
+A westward extension was later built between Otomune and Mittagong North. With
+RR's longstanding partnership with SHR, a peoplemover was built connecting to
+[Mittagong North]() on the SHR, allowing free transfers. 
 
-The line was further extended to Sakurauchi, where it finally connects to the RR Trunk,
-before continuing west to Shirokane (now Katsuragi) and Port Watanabe.
+The line was further extended to Sakurauchi, where it finally connects to the RR
+Trunk, before continuing west to Shirokane (now Katsuragi) and Port Watanabe.
 
-Due to shoddy construction methods, RichardRail's operational license for the EWR 
-was revoked, leading to the Collapse of RichardCorp. However, after the RichardCorp
-Restructuring Programme, RichardRail and the newly formed RichardCorp Construction
-Company (RCC) were given rights to rebuild the entire network.
+Due to shoddy construction methods, RichardRail's operational license for the
+EWR was revoked, leading to the Collapse of RichardCorp. However, after the
+RichardCorp Restructuring Programme, RichardRail and the newly formed
+RichardCorp Construction Company (RCC) were given rights to rebuild the entire
+network.
 
-Both the tunnel and western sections were rebuilt by RCC, with the shuttle demolished
-and the EWR straightened. The stations are also expanded, from 7m to 25m, following
-T-Train standards. Otomune Station was also selected to be the site of the new RichardCorp
-headquarters, after the Collapse resulted in the abandonment of RichardsBay. The rebuilt Otomune
-station and tunnels were completed on 28th July 2025, but are currently not in operation due
-to testing works.
+Both the tunnel and western sections were rebuilt by RCC, with the shuttle
+demolished and the EWR straightened. The stations are also expanded, from 7m to
+25m, following T-Train standards. Otomune Station was also selected to be the
+site of the new RichardCorp headquarters, after the Collapse resulted in the
+abandonment of RichardsBay. The rebuilt Otomune station and tunnels were
+completed on 28th July 2025, but are currently not in operation due to testing
+works.
 
-A new station slightly north, Yanagida was built to replace Sakurauchi as the RR Trunk interchange.
-This station retains the pink cherrywood design of Sakurauchi, while expanding the station size,
-fitting new standards. The station is expected to be completed by the end of August 2025.
+A new station slightly north, Yanagida was built to replace Sakurauchi as the
+RR Trunk interchange. This station retains the pink cherrywood design of
+Sakurauchi, while expanding the station size, fitting new standards. The station
+is expected to be completed by the end of August 2025.
 
 ### Yayajima High Speed Rail Incorporated
 
 Yayajima High Speed Rail Incorporated (YJHSR Inc), a subsidiary wholly owned by
 the Yayajima City Council (YJCC), owns and manages MRTC rail in the
-[City of Yayajima](/areas/ucl/yayajima). The connection between Ministry of Trade
-Station and [Yayajima North Station](/rail-stations/yayajima-north) was
+[City of Yayajima](/areas/uctl/yayajima). The connection between Ministry of
+Trade Station and [Yayajima North Station](/rail-stations/yayajima-north) was
 completed and operational on 8th July 2024. The first train from Ministry of
 Trade Station officially departed to Dobrzanka Station, the terminus of the
 East-West Rail at the time, passing by
