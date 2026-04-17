@@ -38,7 +38,7 @@ buses that connect many cities.
 
 This is the unsung hero of the Lacon family. Lacon Construction is in charge of almost all
 designing, engineering, and construction work for Lacon-owned buildings and infrastructure.
-They are also a major real estate developer in [FMC](/areas/ucl/fmcity).
+They are also a major real estate developer in [FMC](/areas/uctl/fmcity).
 
 ### Lacon Real Estate
 
