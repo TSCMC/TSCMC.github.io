@@ -1,0 +1,134 @@
+networks:
+  - name: Transport for Yayajima
+    slug: tfy
+    code: TFY
+    lines:
+      - name: YajiTram Alam Line
+        status: planning
+        slug: null
+        code: YTA
+        stops:
+          - name: Taiping
+            slug: null
+            status: planning
+          - name: Kuda Babi
+            slug: null
+            status: planning
+          - name: Lembu Rindu
+            slug: null
+            status: planning
+          - name: Watame Warukunai
+            slug: null
+            status: planning
+          - name: Fubuki Konkon
+            slug: null
+            status: planning
+          - name: Okayu Korone
+            slug: null
+            status: planning
+          - name: Rabbit Hole
+            slug: null
+            status: planning
+          - name: Auf Wiedersehen
+            slug: null
+            status: planning
+          - name: Easy Beezy
+            slug: null
+            status: planning
+          - name: Al-Unta Al-Llama
+            slug: null
+            status: planning
+          - name: Keldai Baghal
+            slug: null
+            status: planning
+          - name: Tompok Hitam
+            slug: null
+            status: planning
+          - name: Something Fishy
+            slug: null
+            status: planning
+          - name: Rimba Utara
+            slug: null
+            status: planning
+          - name: Rimba Sentral
+            slug: null
+            status: planning
+          - name: Rimba Selatan
+            slug: null
+            status: planning
+      - name: YajiTram Ladang Line
+        status: operational
+        slug: null
+        code: YTL
+        stops:
+          - name: Yayajima South
+            slug: yayajima-south
+            status: operational
+          - name: Spooky Pumpkin
+            slug: null
+            status: operational
+          - name: Couch Potato
+            slug: null
+            status: operational
+          - name: Berry Good
+            slug: null
+            status: operational
+          - name: Mugibatake-mae
+            slug: null
+            status: operational
+          - name: Beetroot Funsy
+            slug: null
+            status: operational
+          - name: Pekopekora
+            slug: null
+            status: operational
+          - name: Suisei Kawaii
+            slug: null
+            status: operational
+          - name: Ketuat Kuat
+            slug: null
+            status: constructing
+          - name: Chibi Satoukibi
+            slug: null
+            status: constructing
+          - name: Lentur Buluh
+            slug: null
+            status: constructing
+          - name: Kakao Koko
+            slug: null
+            status: constructing
+          - name: Durijau Kering
+            slug: null
+            status: constructing
+          - name: Gloomy Shroom
+            slug: null
+            status: constructing
+      - name: YajiTram Putrajaya Line
+        status: planning
+        slug: null
+        code: YTP
+        stops:
+          - name: UTC
+            slug: null
+            status: planning
+          - name: Central Storage
+            slug: null
+            status: planning
+          - name: City Hall
+            slug: null
+            status: planning
+          - name: Central Hospital
+            slug: null
+            status: planning
+          - name: Central Bank
+            slug: null
+            status: planning
+          - name: Central Police
+            slug: null
+            status: planning
+          - name: Central Fire Rescue
+            slug: null
+            status: planning
+          - name: YajiCard Inc. Headquarter
+            slug: null
+            status: planning
