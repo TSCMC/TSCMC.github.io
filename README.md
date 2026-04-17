@@ -111,34 +111,61 @@ This is a warning that someone should not do something.
 
 ## Folder Structure
 
+There are other folders and files on the root but you don't need to worry about
+what those does, these are the ones that you will be using:
+
 ```
 Root
-index.md
 - areas
-  - fmcity
-  - yayajima
-  - [some other area]
+  - uctl
+    - fmcity
+    - yayajima
+    - [other areas under uctl]
+  - southern-highlands
+    - moss-vale
+    - bowral
+    - [other areas under southern-highlands]
+  - [other large area that comprises several smaller areas]
+  - cityofwhy
+  - richmond
+  - [other areas not under any larger area]
+- companies
+  - lcn
+  - richardcorp
+  - [other companies]
 - rail-networks
-  - lacon
+  - lcn
   - nex
-  - yuitrans
-  - volans
-  - [some other system]
+  - [other rail networks]
 - rail-lines
-  - lacon-main-line
+  - lcn-main-line
   - nex-ender-line
-  - nex-t-train-line
-  - north-south-rail
-  - [some other line]
+  - [other rail lines]
 - rail-stations
   - why-central
-  - squid-farm
-  - froglight-farm
-  - shin-akiyama
-  - southern-highlands
-  - [some other station]
+  - ministry-of-love
+  - [other rail stations]
+- tram-lines
+  - yjt-alam-line
+  - yjt-ladang-line
+  - [other tram lines]
+- tram-stops
+  - mugibatake-mae
+  - lentur-buluh
+  - [other tram lines]
+- bus-networks
+  - [insert bus networks here]
+- bus-lines
+  - [insert bus lines here]
+- bus-stops
+  - [insert bus stops here]
+- road-networks
+  - [insert road network here]
 - [some other category TBA]
 ```
+
+I only put two examples in each categories so that it does not take up too much
+space in the README.
 
 ## Metadata File
 
