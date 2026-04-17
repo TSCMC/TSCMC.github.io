@@ -1,25 +1,27 @@
 ﻿---
 layout: default
 title: Kurageshima and Nozomigaoka
-description: Territory of the UCL
+description: Territory of the UCTL
+country: uctl
 ---
 
 # Kurageshima and Nozomigaoka
 
 Kurageshima and Nozomigaoka is an area to the northeast of [Yayajima](yayajima),
-built by the [Floating Moonlight City](fmcity) as its colony, and now administered
-by the [UCL](united-cities-of-leightonsy) as a territory. Despite this, Floating Moonlight
-City still effectively governs this territory, as the city owned and administered this
-territory as a colony since long before the formation of the union.
-Although the two were developed together, they serve very different purposes.
+built by the [Floating Moonlight City](fmcity) as its colony, and now
+administered by the [UCTL](united-cities-of-touyou-leightonsy) as a territory.
+Despite this, Floating Moonlight City still effectively governs this territory,
+as the city owned and administered this territory as a colony since long before
+the formation of the union. Although the two were developed together, they serve
+very different purposes.
 
 ## Kurageshima
 
 クラゲ島/쿠라게시마<br>
-Kurageshima is an island located in the east part of the region,
-it was extensively terraformed to be completely flat at just 1 block above sea
-level. The island was developed to serve as the home of Lacon's factories and
-farms, but only the bamboo farm has been built here so far.<br>
+Kurageshima is an island located in the east part of the region, it was
+extensively terraformed to be completely flat at just 1 block above sea level.
+The island was developed to serve as the home of Lacon's factories and farms,
+but only the bamboo farm has been built here so far.<br>
 The island is also home to a small turtle sanctuary.<br>
 The name translates to "Jellyfish Island" and is a reference to a song (linked below).
 [![Link to Koronba's .](https://img.youtube.com/vi/pskoRCJytR8/0.jpg)](https://www.youtube.com/watch?v=pskoRCJytR8)

@@ -3,6 +3,7 @@ layout: default
 title: Yayajima
 description: The Abode of Self-Sufficient Life
 multilingual: en, ms, ms-Arab
+country: uctl
 ---
 
 ![The promotional banner of yayajima <>](/assets/img/areas/yayajima/header.png
@@ -19,7 +20,7 @@ multilingual: en, ms, ms-Arab
 "The official flag of Yayajima")
 
 Honorific | The Abode of<br/>Self-Sufficient Life
-Country | United Cities of<br/>Touyou-Leightonsy
+Country | United Cities of<br/>Tōyō-Leightonsy
 Authority | Yayajima City Council
 Mayor | Yaya MNH48
 Official<br/>Languages | English<br/>Malay

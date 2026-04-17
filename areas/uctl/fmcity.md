@@ -3,6 +3,7 @@ layout: default
 title: Floating Moonlight City
 description: Capital city of the UCTL
 multilingual: en, ko
+country: uctl
 ---
 
 {% capture fmcinfo %}
@@ -49,7 +50,8 @@ Floating Moonlight City is located in Hello Marina Bay, and it is served
 exclusively by Lacon's rail lines. The city is heavily influenced by Lacon,
 so much so that some people say that the city hall is just a Lacon subsidiary in
 disguise.<br>
-The city is the capital city of the [United Cities of Leightonsy](united-cities-of-leightonsy). <br>
+The city is the capital city of the
+[United Cities of Tōyō-Leightonsy](united-cities-of-touyou-leightonsy). <br>
 The city is sometimes abbreviated as "FM City" or "F.M. City."<br>
 The name comes from Inabakumori's song of the same name, linked below.
 [![Link to Inabakumori's Floating Moonlight City](https://i.ytimg.com/vi/Jhw7Hum-eLw/hq720.jpg)](https://www.youtube.com/watch?v=Jhw7Hum-eLw)
@@ -116,7 +118,7 @@ building, below the docking level on the underwater portions of this building.
 # 부유월광가
 
 Floating Moonlight City/富裕月光街<br>
-부유월광가는 헬로마리나만에 위치해있는 [동양레이턴시합시국](united-cities-of-leightonsy)의 수도로,
+부유월광가는 헬로마리나만에 위치해있는 [동양레이턴시합시국](united-cities-of-touyou-leightonsy)의 수도로,
 래이컨의 철도 노선만 운행되고 있는 도시이다.
 부유월광가는 래이컨사의 영향을 깊게 받는데, 우스갯소리로 부유월광가 시청이 래이컨 자회사라고
 하기도 할 정도이다.<br>

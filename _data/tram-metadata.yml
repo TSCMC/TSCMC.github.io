@@ -65,7 +65,7 @@ networks:
             slug: yayajima-south
             status: operational
           - name: Spooky Pumpkin
-            slug: null
+            slug: spooky-pumpkin
             status: operational
           - name: Couch Potato
             slug: null

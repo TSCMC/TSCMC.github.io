@@ -2,6 +2,8 @@
 layout: default
 title: Southern Highlands
 description: Southern Highlands Region
+country: sohi
+iscountry: true
 ---
 
 # Southern Highlands

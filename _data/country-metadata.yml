@@ -1,0 +1,13 @@
+countries:
+  - name: Richmond
+    code: richmond
+    slug: richmond
+  - name: Southern Highlands
+    code: sohi
+    slug: southern-highlands
+  - name: Tianfu Alliance (TFA)
+    code: tfa
+    slug: tianfu-alliance
+  - name: United Cities of Tōyō-Leightonsy (UCTL)
+    code: uctl
+    slug: united-cities-of-touyou-leightonsy

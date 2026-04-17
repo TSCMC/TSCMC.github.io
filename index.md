@@ -9,25 +9,51 @@ Information related to the TSC Minecraft server will be written on this website!
 
 ![The players <>](/assets/img/players.png "The players")
 
-## Pages on this website
+
+## Contents on the website
 
 {% assign pages = site.pages | where_exp: 'page', 'page.title' -%}
+{% assign countrylist = "" | split: ", " -%}
 {% assign creatednetwork = 0 -%}
-{% assign networktodo = "" | split: ", " %}
+{% assign networktodo = "" | split: ", " -%}
 {% assign allline = 0 -%}
+{% assign alltramline = 0 -%}
 {% assign createdline = 0 -%}
-{% assign linetodo = "" | split: ", " %}
-{% assign allstation = 0 %}
-{% assign createdstation = 0 %}
-{% assign uniquestation = "" | split: ", " %}
-{% assign stationtodo = "" | split: ", " %}
+{% assign createdtramline = 0 -%}
+{% assign linetodo = "" | split: ", " -%}
+{% assign tramlinetodo = "" | split: ", " -%}
+{% assign allstation = 0 -%}
+{% assign alltramstop = 0 -%}
+{% assign createdstation = 0 -%}
+{% assign createdtramstop = 0 -%}
+{% assign uniquestation = "" | split: ", " -%}
+{% assign uniquetramstop = "" | split: ", " -%}
+{% assign stationtodo = "" | split: ", " -%}
+{% assign tramstoptodo = "" | split: ", " -%}
 
 <!-- markdownlint-disable MD032 -->
 
 ### Areas
 
+{% for countryitem in site.data.country-metadata.countries -%}
+- [{{ countryitem.name }}](/areas/{{ countryitem.code }}/{{ countryitem.slug }})
+  {%- for page in pages -%}
+    {%- if page.country == countryitem.code and page.iscountry == nil %}
+  - [{{page.title}}]({{page.url}})
+    {%- endif %}
+  {%- endfor %}
+{% endfor -%}
 {% for page in pages -%}
-{% if page.url contains "/areas" -%}
+{% if page.url contains "/areas" and page.country == nil -%}
+- [{{page.title}}]({{page.url}})
+{% endif -%}
+{% endfor %}
+
+
+### Companies
+
+{% for page in pages -%}
+{% if page.url contains "/companies" -%}
 - [{{page.title}}]({{page.url}})
 {% endif -%}
 {% endfor %}
@@ -134,13 +160,79 @@ on the server.
 </details>
 {% endif %}
 
-## Companies
+
+### Tram Lines
 
 {% for page in pages -%}
-{% if page.url contains "/companies" -%}
+{% if page.url contains "/tram-lines" -%}
+{% assign createdtramline = createdtramline | plus: 1 -%}
 - [{{page.title}}]({{page.url}})
 {% endif -%}
 {% endfor %}
+
+{% for networkitem in site.data.tram-metadata.networks -%}
+  {% assign alltramline = alltramline | plus: networkitem.lines.size -%}
+  {% for tramlineitem in networkitem.lines -%}
+    {% if tramlineitem.slug == null -%}
+      {% assign tramlinetodo = tramlinetodo | push: tramlineitem.name -%}
+    {% endif -%}
+  {% endfor -%}
+{% endfor -%}
+{% assign tramlinetodo = tramlinetodo | uniq | sort -%}
+
+{% if createdtramline != alltramline -%}
+Note: Pages only exist for {{ createdtramline }} tram lines out of around
+{{ alltramline }} tram lines that are operational, planned, or closed on the
+server.
+
+<details markdown=1>
+<summary>Tram line pages not created yet</summary>
+
+{: style="columns:3;-webkit-columns:3;-moz-columns:3;"}
+{% for item in tramlinetodo -%}
+- {{ item }}
+{% endfor %}
+</details>
+{% endif -%}
+
+### Tram Stops
+
+{: style="columns:2;-webkit-columns:2;-moz-columns:2;"}
+{% for page in pages -%}
+{% if page.url contains "/tram-stops" -%}
+{% assign createdtramstop = createdtramstop | plus: 1 -%}
+- [{{page.title}}]({{page.url}})
+{% endif -%}
+{% endfor %}
+
+{% for networkitem in site.data.tram-metadata.networks -%}
+  {% for tramlineitem in networkitem.lines -%}
+    {% for tramstopitem in tramlineitem.stops -%}
+      {% assign uniquetramstop = uniquetramstop | push: tramstopitem.name -%}
+      {% if tramstopitem.slug == null -%}
+        {% assign tramstoptodo = tramstoptodo | push: tramstopitem.name -%}
+      {% endif -%}
+    {% endfor -%}
+  {% endfor -%}
+{% endfor -%}
+{% assign uniquetramstop = uniquetramstop | uniq -%}
+{% assign tramstoptodo = tramstoptodo | uniq | sort -%}
+
+{% if createdtramstop != uniquetramstop.size -%}
+Note: Pages only exist for {{ createdtramstop }} tram stops out of
+{{ uniquetramstop.size }} tram stops that are operational, planned, or closed on
+the server.
+
+<details markdown=1>
+<summary>Tram stop pages not created yet</summary>
+
+{: style="columns:3;-webkit-columns:3;-moz-columns:3;"}
+{% for item in tramstoptodo -%}
+- {{ item }}
+{% endfor %}
+</details>
+{% endif %}
+
 
 ## Transit Map
 

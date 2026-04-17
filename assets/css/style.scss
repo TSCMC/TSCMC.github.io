@@ -193,3 +193,8 @@ details[open] {
 summary {
   cursor: pointer;
 }
+
+/* Fix issue with huge gap in nested list */
+ul ul {
+  margin: 0 0 0 0;
+}

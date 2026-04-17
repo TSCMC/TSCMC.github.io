@@ -2,6 +2,7 @@
 layout: default
 title: Banho City
 description: A port city to the east
+country: uctl
 ---
 
 {% capture banhoinfo %}

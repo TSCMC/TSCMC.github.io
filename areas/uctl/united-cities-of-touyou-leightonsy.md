@@ -1,7 +1,12 @@
 ---
 layout: default
-title: United Cities of Touyou-Leightonsy (UCTL)
+title: United Cities of Tōyō-Leightonsy (UCTL)
 description: Federal Republic of the East
+country: uctl
+iscountry: true
+redirect_from:
+  - /areas/uctl/
+  - /areas/ucl/
 ---
 
 
@@ -17,14 +22,14 @@ Recognized<br/>Languages | Chinese<br/>Japanese<br/>Korean<br/>Malay<br/>Polish
 {%
   include infobox.html
   infoboxid="uclbox"
-  infoboxname="United Cities of Touyou-Leightonsy"
+  infoboxname="United Cities of Tōyō-Leightonsy"
   infoboxcontent=uclinfo
 %}
 
 
-# United Cities of Touyou-Leightonsy
+# United Cities of Tōyō-Leightonsy
 
-The **United Cities of Touyou-Leightonsy**, also referred to as the **United Cities**,
+The **United Cities of Tōyō-Leightonsy**, also referred to as the **United Cities**,
 **Tōyō-Leightonsy**, or **UCTL** is a federal republic formed as a union of several
 settlements and cities.<br>
 As a federal republic, the cities within its borders act almost like states in other
